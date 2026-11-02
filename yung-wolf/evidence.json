@@ -1,0 +1,4632 @@
+{
+ "prepared": "2026-11-02",
+ "metadata": {
+  "artist": "Yung Wolf",
+  "recordings": 66,
+  "own": 64,
+  "features": 2,
+  "statuses": {
+   "missing": 35,
+   "credit": 24,
+   "open": 3,
+   "pending": 2,
+   "unlinked": 2
+  },
+  "checked": 66,
+  "writer_compositions": 5,
+  "writer_recordings": 5,
+  "attributed_compositions": 0,
+  "gap_compositions": 5,
+  "entity_pending_compositions": 0,
+  "label_legal_writer_recordings": 41,
+  "label_writer_recordings": 41,
+  "plays_observed": 629669,
+  "plays_observed_tracks": 10,
+  "monthly_listeners": 5482,
+  "excluded_identity": 141
+ },
+ "identity_basis": "Instagram @yungwolf_1, the Wolfpack Global Music releases and the verified Spotify profile agree. Label metadata alternates Maricus Taylor and Maricus Traylor. The preferred legal spelling and primary IPI remain to be verified.",
+ "spotify_basis": "Read from Spotify artist Popular tables in the browser. Counts are sampled lifetime recording plays, not total catalog exposure. Null means no readable counter, not zero.",
+ "spotify_sample": {
+  "artist_id": "12wAA2EoMsNYtnTqEvn1y0",
+  "monthly_listeners": 5482,
+  "tracks": [
+   [
+    "Motion",
+    "4M6od0ahx7DVKwV7AfAmZN",
+    322750
+   ],
+   [
+    "WAZZAM",
+    "6OlC7iC9O9RJJ5QIxKMvV6",
+    50236
+   ],
+   [
+    "DON'T SAY NUN",
+    "6mjHoVd8s97JUSkAZzwjsD",
+    164997
+   ],
+   [
+    "GRIEVING & GRINDING",
+    "577HCDiQG6ISAfMhePd0ly",
+    31770
+   ],
+   [
+    "WHATCHU GONE DO",
+    "07wFy6PVZBzf7sSgiQp4Lr",
+    9035
+   ],
+   [
+    "HOLD DA PAIN IN",
+    "2pdywY8rmpE1nJEsq1pJ5l",
+    13849
+   ],
+   [
+    "CHOSEN CHILD",
+    "2GvwalwntP5hJiKzRwQeXL",
+    3903
+   ],
+   [
+    "CALL FROM HEAVEN",
+    "4m4h5EDBU7oOZ5PhHXjtGm",
+    2631
+   ],
+   [
+    "LEARN YA LESSON",
+    "2l3HvGDJRtRHAlaFcCKxU2",
+    20962
+   ],
+   [
+    "SO FAR",
+    "5PgChd70dB6P1djF0vdttr",
+    9536
+   ]
+  ]
+ },
+ "rows": [
+  {
+   "isrc": "QZGH81900149",
+   "song": "Cryin Laughin",
+   "date": "2022-12-09",
+   "album": "Cryin Laughin",
+   "album_id": 378690327,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2030089457,
+   "source": "own",
+   "duration": 109,
+   "dupe_albums": [
+    "Yung Wolf"
+   ],
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900155",
+   "song": "Active",
+   "date": "2023-01-23",
+   "album": "Active",
+   "album_id": 398476747,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Take God",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2115484657,
+   "source": "own",
+   "duration": 154,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Take God",
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900154",
+   "song": "BOX TRUCK",
+   "date": "2023-01-27",
+   "album": "BOX TRUCK",
+   "album_id": 398719287,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2116722147,
+   "source": "own",
+   "duration": 112,
+   "dupe_albums": [
+    "Yung Wolf"
+   ],
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [
+    {
+     "code": "BD0DOT",
+     "id": 952489877,
+     "title": "BOX TRUCK",
+     "iswc": null,
+     "known": 75,
+     "writers": [
+      {
+       "ipId": 14182369,
+       "fullName": "AYITE DALMIEDA",
+       "ipiNumber": "01097170545",
+       "roleCode": 11,
+       "propertyId": 952489877
+      },
+      {
+       "ipId": 15237582,
+       "fullName": "YUNG WOLF",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 952489877
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "BEATSTARS PUBLISHING WORLDWIDE",
+       "administrator": "SENTRIC MUSIC LIMITED",
+       "share": 25,
+       "writers": [
+        "AYITE DALMIEDA"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "SONGTRUST BLVD",
+       "administrator": null,
+       "share": 50,
+       "writers": [
+        "AYITE DALMIEDA"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 14
+    },
+    {
+     "code": "BE5AK6",
+     "id": 994842490,
+     "title": "BOX TRUCK",
+     "iswc": null,
+     "known": 16.66,
+     "writers": [
+      {
+       "ipId": 15752211,
+       "fullName": "AYITE DALMEIDA",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 994842490
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "CREATE SONGS PUBLISHING",
+       "administrator": null,
+       "share": 16.66,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 2
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900158",
+   "song": "Billionaire Goals",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525667,
+   "source": "own",
+   "duration": 145,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900159",
+   "song": "Because Of Me",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525677,
+   "source": "own",
+   "duration": 176,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900160",
+   "song": "Remember Me",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525687,
+   "source": "own",
+   "duration": 145,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900161",
+   "song": "Hard Nights",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525707,
+   "source": "own",
+   "duration": 118,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900162",
+   "song": "Turn Into A Memory",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525717,
+   "source": "own",
+   "duration": 107,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900163",
+   "song": "TshirtCameFromRoss",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525737,
+   "source": "own",
+   "duration": 106,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900164",
+   "song": "It's Yung",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525747,
+   "source": "own",
+   "duration": 121,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [
+    {
+     "code": "IG8XLS",
+     "id": 952008612,
+     "title": "ITS YUNG",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 15222970,
+       "fullName": "TIMOTHY STEPHAN STREETS",
+       "ipiNumber": "00371847830",
+       "roleCode": 11,
+       "propertyId": 952008612
+      },
+      {
+       "ipId": 15222971,
+       "fullName": "BIG SAVAGE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 952008612
+      },
+      {
+       "ipId": 15222972,
+       "fullName": "POP LORD",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 952008612
+      },
+      {
+       "ipId": 13472547,
+       "fullName": "THOMAS MILHOUSE",
+       "ipiNumber": "00843655321",
+       "roleCode": 11,
+       "propertyId": 952008612
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "IAM DJMILTICKET INC",
+       "administrator": "VELOCITY FUTURE COLLECTIONS",
+       "share": 25,
+       "writers": [
+        "THOMAS MILHOUSE"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 1
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900165",
+   "song": "Wolf Atlanta",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525757,
+   "source": "own",
+   "duration": 124,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900166",
+   "song": "Half Of Them",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525767,
+   "source": "own",
+   "duration": 151,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900167",
+   "song": "Swap You Out",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525777,
+   "source": "own",
+   "duration": 179,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [
+    {
+     "code": "SC5LTN",
+     "id": 952009568,
+     "title": "SWAP YOU OUT",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 15222972,
+       "fullName": "POP LORD",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 952009568
+      },
+      {
+       "ipId": 13472547,
+       "fullName": "THOMAS MILHOUSE",
+       "ipiNumber": "00843655321",
+       "roleCode": 11,
+       "propertyId": 952009568
+      },
+      {
+       "ipId": 15222970,
+       "fullName": "TIMOTHY STEPHAN STREETS",
+       "ipiNumber": "00371847830",
+       "roleCode": 11,
+       "propertyId": 952009568
+      },
+      {
+       "ipId": 15222971,
+       "fullName": "BIG SAVAGE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 952009568
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "IAM DJMILTICKET INC",
+       "administrator": "VELOCITY FUTURE COLLECTIONS",
+       "share": 25,
+       "writers": [
+        "THOMAS MILHOUSE"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 8
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900168",
+   "song": "Motion",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525787,
+   "source": "own",
+   "duration": 109,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 322750,
+   "spotify_id": "4M6od0ahx7DVKwV7AfAmZN",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "QZGH81900169",
+   "song": "I Am That",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525797,
+   "source": "own",
+   "duration": 157,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [
+    {
+     "code": "I26S94",
+     "id": 993565069,
+     "title": "I AM THAT",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 16129357,
+       "fullName": "GARIAN LYNN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993565069
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "GARIAN LYNN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 8
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900170",
+   "song": "Long Way From Lee Street",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525807,
+   "source": "own",
+   "duration": 105,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [
+    {
+     "code": "LF1Z9I",
+     "id": 956757264,
+     "title": "LONG WAY FROM LEE STREET",
+     "iswc": null,
+     "known": 16.67,
+     "writers": [
+      {
+       "ipId": 13221015,
+       "fullName": "JEFFREY LYNN JONES",
+       "ipiNumber": "00759474294",
+       "roleCode": 11,
+       "propertyId": 956757264
+      },
+      {
+       "ipId": 13519569,
+       "fullName": "CRAIG WEST",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 956757264
+      },
+      {
+       "ipId": 13350849,
+       "fullName": "YAKKI DIVOSHI",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 956757264
+      },
+      {
+       "ipId": 15237582,
+       "fullName": "YUNG WOLF",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 956757264
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "SONY/ATV SONGS LLC",
+       "administrator": null,
+       "share": 16.67,
+       "writers": [
+        "JEFFREY LYNN JONES"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 7
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900171",
+   "song": "On My Trail",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525817,
+   "source": "own",
+   "duration": 124,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [
+    {
+     "code": "OC82J1",
+     "id": 961891617,
+     "title": "ON MY TRAIL",
+     "iswc": null,
+     "known": 16.66,
+     "writers": [
+      {
+       "ipId": 15530078,
+       "fullName": "CHRIS II COTHARN II",
+       "ipiNumber": "00812576734",
+       "roleCode": 11,
+       "propertyId": 961891617
+      },
+      {
+       "ipId": 15222971,
+       "fullName": "BIG SAVAGE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 961891617
+      },
+      {
+       "ipId": 15222970,
+       "fullName": "TIMOTHY STEPHAN STREETS",
+       "ipiNumber": "00371847830",
+       "roleCode": 11,
+       "propertyId": 961891617
+      },
+      {
+       "ipId": 15222972,
+       "fullName": "POP LORD",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 961891617
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "ANNUITY SONGS",
+       "administrator": null,
+       "share": 16.66,
+       "writers": [
+        "CHRIS II COTHARN II"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 7
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900172",
+   "song": "The Family",
+   "date": "2023-03-01",
+   "album": "Yung Wolf",
+   "album_id": 409968267,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2159525827,
+   "source": "own",
+   "duration": 123,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900230",
+   "song": "Give N Go",
+   "date": "2024-02-02",
+   "album": "Give N Go",
+   "album_id": 536190382,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2624404462,
+   "source": "own",
+   "duration": 148,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900232",
+   "song": "Came To Do",
+   "date": "2024-03-08",
+   "album": "Came To Do",
+   "album_id": 549627312,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2668190102,
+   "source": "own",
+   "duration": 120,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900235",
+   "song": "Let Me See It",
+   "date": "2024-08-02",
+   "album": "Let Me See It",
+   "album_id": 619911801,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Gloss Up",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2908972121,
+   "source": "own",
+   "duration": 137,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZZ782498989",
+   "song": "BP (feat. Yung Wolf)",
+   "date": "2024-12-15",
+   "album": "Leeski Flow",
+   "album_id": 669426241,
+   "record_type": "album",
+   "label": "33rdSounds",
+   "artists": [
+    [
+     "1of1lee",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 3089072721,
+   "source": "feature",
+   "duration": 167,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Khyli Lamont Denson"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900237",
+   "song": "Made Me",
+   "date": "2025-02-28",
+   "album": "Made Me",
+   "album_id": 717830991,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3247958481,
+   "source": "own",
+   "duration": 137,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [
+    {
+     "code": "MN9B3Y",
+     "id": 1057083547,
+     "title": "MADE ME",
+     "iswc": null,
+     "known": 16.67,
+     "writers": [
+      {
+       "ipId": 13359883,
+       "fullName": "MARICUS TRAYLOR",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1057083547
+      },
+      {
+       "ipId": 13504736,
+       "fullName": "ANTHONY GARGOURA",
+       "ipiNumber": "01006372301",
+       "roleCode": 11,
+       "propertyId": 1057083547
+      },
+      {
+       "ipId": 13574984,
+       "fullName": "DYLAN HYDE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1057083547
+      },
+      {
+       "ipId": 15690801,
+       "fullName": "TY MAZ",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1057083547
+      }
+     ],
+     "client_on": true,
+     "pubs": [
+      {
+       "publisher": "PAYDAY EMPIRE MUSIC",
+       "administrator": "WARNER CHAPPELL - PAYDAY MUSIC PUBLISHING",
+       "share": 16.67,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 7
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "open",
+   "writer_proven": true,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUGBT2513276",
+   "song": "Don't Bother Me",
+   "date": "2025-07-18",
+   "album": "Don't Bother Me",
+   "album_id": 1076292812,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280039302,
+   "source": "own",
+   "duration": 160,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Traylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "DS0YWZ",
+     "id": 1085732858,
+     "title": "DON'T BOTHER ME",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12397832,
+       "fullName": "LIAM MCALISTER",
+       "ipiNumber": null,
+       "roleCode": 10,
+       "propertyId": 1085732858
+      },
+      {
+       "ipId": 16509250,
+       "fullName": "EMIL VIDENSKI",
+       "ipiNumber": null,
+       "roleCode": 10,
+       "propertyId": 1085732858
+      },
+      {
+       "ipId": 13359883,
+       "fullName": "MARICUS TRAYLOR",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 1085732858
+      },
+      {
+       "ipId": 17422540,
+       "fullName": "MARICUS JR TRAYLOR",
+       "ipiNumber": "01191748923",
+       "roleCode": 11,
+       "propertyId": 1085732858
+      },
+      {
+       "ipId": 16098900,
+       "fullName": "FRIEDRICH-W ROERIG",
+       "ipiNumber": "00394497112",
+       "roleCode": 11,
+       "propertyId": 1085732858
+      },
+      {
+       "ipId": 16773891,
+       "fullName": "EMIL VIDENSKI",
+       "ipiNumber": "01283297722",
+       "roleCode": 11,
+       "propertyId": 1085732858
+      },
+      {
+       "ipId": 13028453,
+       "fullName": "LIAM BARRY MCALISTER",
+       "ipiNumber": "01024054904",
+       "roleCode": 11,
+       "propertyId": 1085732858
+      },
+      {
+       "ipId": 15804047,
+       "fullName": "RYAN MORRISON",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1085732858
+      }
+     ],
+     "client_on": true,
+     "pubs": [
+      {
+       "publisher": "BEATSTARS PUBLISHING WORLDWIDE",
+       "administrator": "SENTRIC MUSIC LIMITED",
+       "share": 12.5,
+       "writers": [
+        "FRIEDRICH-W ROERIG"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "UNITED MARKET MUSIC",
+       "administrator": "EMPIRE SF",
+       "share": 12.5,
+       "writers": [
+        "EMIL VIDENSKI"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 7
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "open",
+   "writer_proven": true,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900227",
+   "song": "Shining",
+   "date": "2023-12-08",
+   "album": "Shining",
+   "album_id": 1076295692,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Young Scooter",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280045762,
+   "source": "own",
+   "duration": 174,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "S71MGH",
+     "id": 1038088415,
+     "title": "SHINING",
+     "iswc": null,
+     "known": 50,
+     "writers": [
+      {
+       "ipId": 15269664,
+       "fullName": "EVAN W HUANG",
+       "ipiNumber": "01072489249",
+       "roleCode": 11,
+       "propertyId": 1038088415
+      },
+      {
+       "ipId": 8876727,
+       "fullName": "KENNETH EDWARD BAILEY",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1038088415
+      },
+      {
+       "ipId": 14440154,
+       "fullName": "MERLE STATEN",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1038088415
+      },
+      {
+       "ipId": 17937514,
+       "fullName": "YUNG WOLF",
+       "ipiNumber": "00371847928",
+       "roleCode": 11,
+       "propertyId": 1038088415
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "WAVE THEORY MUSIC GROUP GLOBAL",
+       "administrator": "EMPIRE STRIKES FIRST",
+       "share": 12.5,
+       "writers": [
+        "EVAN W HUANG"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "EMPIRE STRIKES FIRST",
+       "administrator": null,
+       "share": 25,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "SSMG PUBLISHING",
+       "administrator": "EMPIRE STRIKES FIRST",
+       "share": 12.5,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 6
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUGBT2553218",
+   "song": "Cost",
+   "date": "2025-09-25",
+   "album": "Cost",
+   "album_id": 1076298022,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280053672,
+   "source": "own",
+   "duration": 152,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUMEV2546727",
+   "song": "No Emotions",
+   "date": "2025-03-28",
+   "album": "No Emotions",
+   "album_id": 1076298092,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280053752,
+   "source": "own",
+   "duration": 159,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [
+    {
+     "code": "N99LKQ",
+     "id": 1057120453,
+     "title": "NO EMOTION",
+     "iswc": null,
+     "known": 0,
+     "writers": [
+      {
+       "ipId": 13359883,
+       "fullName": "MARICUS TRAYLOR",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1057120453
+      },
+      {
+       "ipId": 11104873,
+       "fullName": "DAVID MORSE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1057120453
+      },
+      {
+       "ipId": 13504736,
+       "fullName": "ANTHONY GARGOURA",
+       "ipiNumber": "01006372301",
+       "roleCode": 11,
+       "propertyId": 1057120453
+      }
+     ],
+     "client_on": true,
+     "pubs": [],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": false,
+     "recording_count": 0
+    }
+   ],
+   "candidate_note": "Possible singular/plural title variant: catalog No Emotions versus MLC NO EMOTION. The work names Maricus Traylor, shows 0% total known shares and has no recordings attached. Confirm the composition identity before counting it as a matched catalog work.",
+   "mismatched": [],
+   "checked": true,
+   "status": "pending",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUGBT2528666",
+   "song": "SPED",
+   "date": "2025-08-14",
+   "album": "Sped",
+   "album_id": 1076300872,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280059872,
+   "source": "own",
+   "duration": 108,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUGBT2535417",
+   "song": "BP",
+   "date": "2025-08-28",
+   "album": "Bp",
+   "album_id": 1076301052,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Hollywood Yc",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280060062,
+   "source": "own",
+   "duration": 148,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUQ9D2673741",
+   "song": "WHATCHU GONE DO",
+   "date": "2026-07-31",
+   "album": "Whatchu Gone Do",
+   "album_id": 1076304042,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Skooly",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280068092,
+   "source": "own",
+   "duration": 236,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Kazarion Fowler"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 9035,
+   "spotify_id": "07wFy6PVZBzf7sSgiQp4Lr",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "AUQ9D2613020",
+   "song": "Everlast",
+   "date": "2026-01-30",
+   "album": "Everlast",
+   "album_id": 1076304102,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280068542,
+   "source": "own",
+   "duration": 150,
+   "dupe_albums": [
+    "Full Moon"
+   ],
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUMEV2371796",
+   "song": "Chanel Track Shoes",
+   "date": "2023-07-05",
+   "album": "Chanel Track Shoes",
+   "album_id": 1076304192,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ],
+    [
+     "Wee2Hard",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280069982,
+   "source": "own",
+   "duration": 227,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "CJ6GID",
+     "id": 993569279,
+     "title": "CHANEL TRACK SHOES",
+     "iswc": null,
+     "known": 16.66,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993569279
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 16.66,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 19
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900225",
+   "song": "Paper Planes",
+   "date": "2023-10-27",
+   "album": "Paper Planes",
+   "album_id": 1076306392,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280079162,
+   "source": "own",
+   "duration": 115,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900208",
+   "song": "We On",
+   "date": "2023-07-21",
+   "album": "We On",
+   "album_id": 1076306462,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280079922,
+   "source": "own",
+   "duration": 162,
+   "dupe_albums": [
+    "Wolf Pack"
+   ],
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "W40KT0",
+     "id": 993568203,
+     "title": "WE ON",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993568203
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 21
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUGBT2501315",
+   "song": "Printed by The Pack",
+   "date": "2025-06-27",
+   "album": "Printed By the Pack",
+   "album_id": 1076306522,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280080272,
+   "source": "own",
+   "duration": 129,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "PO4FLV",
+     "id": 1057095026,
+     "title": "PRINTED BY THE PACK",
+     "iswc": null,
+     "known": 8.34,
+     "writers": [
+      {
+       "ipId": 13504736,
+       "fullName": "ANTHONY GARGOURA",
+       "ipiNumber": "01006372301",
+       "roleCode": 11,
+       "propertyId": 1057095026
+      },
+      {
+       "ipId": 16132600,
+       "fullName": "SAMUEL TOWERS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1057095026
+      },
+      {
+       "ipId": 13359883,
+       "fullName": "MARICUS TRAYLOR",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1057095026
+      },
+      {
+       "ipId": 15265765,
+       "fullName": "THOMAS CRIMENI",
+       "ipiNumber": "01118097857",
+       "roleCode": 11,
+       "propertyId": 1057095026
+      }
+     ],
+     "client_on": true,
+     "pubs": [
+      {
+       "publisher": "CUBEATZ MUSIC GMBH",
+       "administrator": "DOWNTOWN DLJ SONGS LLC",
+       "share": 4.17,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "BUDDE MUSIC INTERNATIONAL GMBH",
+       "administrator": "DOWNTOWN DLJ SONGS LLC",
+       "share": 4.17,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 8
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "open",
+   "writer_proven": true,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUQ9D2621773",
+   "song": "Hold Da Pain In",
+   "date": "2026-02-27",
+   "album": "Hold Da Pain in",
+   "album_id": 1076308772,
+   "record_type": "single",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280087192,
+   "source": "own",
+   "duration": 159,
+   "dupe_albums": [
+    "Full Moon"
+   ],
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "H31S4P",
+     "id": 1126803495,
+     "title": "HOLD DA PAIN IN",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12948208,
+       "fullName": "MARICUS TAYLOR",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1126803495
+      },
+      {
+       "ipId": 13504736,
+       "fullName": "ANTHONY GARGOURA",
+       "ipiNumber": "01006372301",
+       "roleCode": 11,
+       "propertyId": 1126803495
+      },
+      {
+       "ipId": 13028453,
+       "fullName": "LIAM BARRY MCALISTER",
+       "ipiNumber": "01024054904",
+       "roleCode": 11,
+       "propertyId": 1126803495
+      }
+     ],
+     "client_on": true,
+     "pubs": [
+      {
+       "publisher": "ARTIST 101 PUBLISHING GROUP",
+       "administrator": "KOBALT MUSIC PUB AMERICA INC",
+       "share": 25,
+       "writers": [
+        "LIAM BARRY MCALISTER"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": false,
+     "recording_count": 0
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "unlinked",
+   "writer_proven": true,
+   "attributable": false,
+   "plays": 13849,
+   "spotify_id": "2pdywY8rmpE1nJEsq1pJ5l",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "CH7812685787",
+   "song": "DON'T SAY NUN",
+   "date": "2025-10-27",
+   "album": "Don't Say Nun",
+   "album_id": 1080341462,
+   "record_type": "single",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Rylo Rodriguez",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290524942,
+   "source": "own",
+   "duration": 202,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [
+    {
+     "code": "DS8ANF",
+     "id": 1074224836,
+     "title": "DONT SAY NUN",
+     "iswc": null,
+     "known": 50.01,
+     "writers": [
+      {
+       "ipId": 15269664,
+       "fullName": "EVAN W HUANG",
+       "ipiNumber": "01072489249",
+       "roleCode": 10,
+       "propertyId": 1074224836
+      },
+      {
+       "ipId": 14010227,
+       "fullName": "WILSON WHITLOCK",
+       "ipiNumber": "01029665546",
+       "roleCode": 10,
+       "propertyId": 1074224836
+      },
+      {
+       "ipId": 14965780,
+       "fullName": "OFER ISHAI",
+       "ipiNumber": "01114579074",
+       "roleCode": 10,
+       "propertyId": 1074224836
+      },
+      {
+       "ipId": 13143079,
+       "fullName": "RYAN PRESTON ADAMS",
+       "ipiNumber": "00373781629",
+       "roleCode": 9,
+       "propertyId": 1074224836
+      },
+      {
+       "ipId": 15237582,
+       "fullName": "YUNG WOLF",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 1074224836
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "Wilson Whitlock",
+       "administrator": null,
+       "share": 16.67,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "EMPIRE STRIKES FIRST",
+       "administrator": null,
+       "share": 16.67,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "SONY/ATV SONGS LLC",
+       "administrator": null,
+       "share": 16.67,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": false,
+     "recording_count": 1
+    }
+   ],
+   "candidate_note": "A same-title work has related recording-artist, co-writer or artist-named publishing evidence, but the composition and reviewed ISRC match are not confirmed. Excluded from confirmed work and attribution totals.",
+   "mismatched": [],
+   "checked": true,
+   "status": "pending",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "spotify_version_ambiguous": true
+  },
+  {
+   "isrc": "AUQ9D2628356",
+   "song": "CALL FROM HEAVEN",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531422,
+   "source": "own",
+   "duration": 160,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 2631,
+   "spotify_id": "4m4h5EDBU7oOZ5PhHXjtGm",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "AUQ9D2628358",
+   "song": "GRIEVING & GRINDING",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531432,
+   "source": "own",
+   "duration": 154,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 31770,
+   "spotify_id": "577HCDiQG6ISAfMhePd0ly",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "AUQ9D2628362",
+   "song": "BY 2MR",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531452,
+   "source": "own",
+   "duration": 133,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "BJ1PHZ",
+     "id": 1126803475,
+     "title": "BY 2MR",
+     "iswc": null,
+     "known": 6.25,
+     "writers": [
+      {
+       "ipId": 12948208,
+       "fullName": "MARICUS TAYLOR",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1126803475
+      },
+      {
+       "ipId": 18250947,
+       "fullName": "T9C T9C",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1126803475
+      },
+      {
+       "ipId": 13504736,
+       "fullName": "ANTHONY GARGOURA",
+       "ipiNumber": "01006372301",
+       "roleCode": 11,
+       "propertyId": 1126803475
+      },
+      {
+       "ipId": 14825631,
+       "fullName": "OLIVER CRONIN",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1126803475
+      },
+      {
+       "ipId": 13028453,
+       "fullName": "LIAM BARRY MCALISTER",
+       "ipiNumber": "01024054904",
+       "roleCode": 11,
+       "propertyId": 1126803475
+      }
+     ],
+     "client_on": true,
+     "pubs": [
+      {
+       "publisher": "ARTIST 101 PUBLISHING GROUP",
+       "administrator": "KOBALT MUSIC PUB AMERICA INC",
+       "share": 6.25,
+       "writers": [
+        "LIAM BARRY MCALISTER"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": false,
+     "recording_count": 0
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "unlinked",
+   "writer_proven": true,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUQ9D2628366",
+   "song": "CHOSEN CHILD",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531462,
+   "source": "own",
+   "duration": 151,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 3903,
+   "spotify_id": "2GvwalwntP5hJiKzRwQeXL",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "AUQ9D2628368",
+   "song": "WAZZAM",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531472,
+   "source": "own",
+   "duration": 141,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 50236,
+   "spotify_id": "6OlC7iC9O9RJJ5QIxKMvV6",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "AUQ9D2628381",
+   "song": "FOR SUM",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531482,
+   "source": "own",
+   "duration": 145,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUQ9D2628369",
+   "song": "SONG FOR YOU",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531492,
+   "source": "own",
+   "duration": 164,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUGBT2571510",
+   "song": "DON'T SAY NUN",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Rylo Rodriguez",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 4290531512,
+   "source": "own",
+   "duration": 202,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "DS8ANF",
+     "id": 1074224836,
+     "title": "DONT SAY NUN",
+     "iswc": null,
+     "known": 50.01,
+     "writers": [
+      {
+       "ipId": 15269664,
+       "fullName": "EVAN W HUANG",
+       "ipiNumber": "01072489249",
+       "roleCode": 10,
+       "propertyId": 1074224836
+      },
+      {
+       "ipId": 14010227,
+       "fullName": "WILSON WHITLOCK",
+       "ipiNumber": "01029665546",
+       "roleCode": 10,
+       "propertyId": 1074224836
+      },
+      {
+       "ipId": 14965780,
+       "fullName": "OFER ISHAI",
+       "ipiNumber": "01114579074",
+       "roleCode": 10,
+       "propertyId": 1074224836
+      },
+      {
+       "ipId": 13143079,
+       "fullName": "RYAN PRESTON ADAMS",
+       "ipiNumber": "00373781629",
+       "roleCode": 9,
+       "propertyId": 1074224836
+      },
+      {
+       "ipId": 15237582,
+       "fullName": "YUNG WOLF",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 1074224836
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "Wilson Whitlock",
+       "administrator": null,
+       "share": 16.67,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "EMPIRE STRIKES FIRST",
+       "administrator": null,
+       "share": 16.67,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "SONY/ATV SONGS LLC",
+       "administrator": null,
+       "share": 16.67,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 1
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "spotify_version_ambiguous": true
+  },
+  {
+   "isrc": "AUQ9D2628373",
+   "song": "GOTTA MAKE EM PAY",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531522,
+   "source": "own",
+   "duration": 141,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUQ9D2628375",
+   "song": "LEARN YA LESSON",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "YFN Lucci",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 4290531532,
+   "source": "own",
+   "duration": 216,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 20962,
+   "spotify_id": "2l3HvGDJRtRHAlaFcCKxU2",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "AUQ9D2628376",
+   "song": "SCARRED FOREVER",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531542,
+   "source": "own",
+   "duration": 163,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUQ9D2628377",
+   "song": "WRONG AT TIMES",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Lil Yachty",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 4290531552,
+   "source": "own",
+   "duration": 158,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUQ9D2628378",
+   "song": "BACK IN MY BAG",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531562,
+   "source": "own",
+   "duration": 144,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "AUQ9D2628380",
+   "song": "SO FAR",
+   "date": "2026-03-20",
+   "album": "Full Moon",
+   "album_id": 1080344322,
+   "record_type": "album",
+   "label": "Yung Wolf",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290531572,
+   "source": "own",
+   "duration": 218,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 9536,
+   "spotify_id": "5PgChd70dB6P1djF0vdttr",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "QZGH81900210",
+   "song": "No Hook",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ],
+    [
+     "Takegod",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 4290705342,
+   "source": "own",
+   "duration": 153,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "N72DHR",
+     "id": 993566498,
+     "title": "NO HOOK",
+     "iswc": null,
+     "known": 16.66,
+     "writers": [
+      {
+       "ipId": 16129357,
+       "fullName": "GARIAN LYNN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993566498
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 16.66,
+       "writers": [
+        "GARIAN LYNN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 6
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900211",
+   "song": "On Hand",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705352,
+   "source": "own",
+   "duration": 192,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "OL73FE",
+     "id": 993563665,
+     "title": "ON HAND",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993563665
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 11
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900212",
+   "song": "Fine China",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705362,
+   "source": "own",
+   "duration": 162,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "FB0E7Q",
+     "id": 993573008,
+     "title": "FINE CHINA",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993573008
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 11
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900213",
+   "song": "Ion Wanna Vibe",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705372,
+   "source": "own",
+   "duration": 127,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "I26TBC",
+     "id": 993567061,
+     "title": "ION WANNA VIBE",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993567061
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 11
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900214",
+   "song": "Havin",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ],
+    [
+     "PopLord",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 4290705382,
+   "source": "own",
+   "duration": 166,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "HP4Z68",
+     "id": 992017862,
+     "title": "HAVIN",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 16098900,
+       "fullName": "FRIEDRICH-W ROERIG",
+       "ipiNumber": "00394497112",
+       "roleCode": 10,
+       "propertyId": 992017862
+      },
+      {
+       "ipId": 16105107,
+       "fullName": "GARIN WALLS",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 992017862
+      },
+      {
+       "ipId": 16105108,
+       "fullName": "MARICUS TRAYLOR JR",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 992017862
+      },
+      {
+       "ipId": 9380712,
+       "fullName": "YAKKI DAVIS",
+       "ipiNumber": null,
+       "roleCode": 10,
+       "propertyId": 992017862
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "BEATSTARS PUBLISHING WORLDWIDE",
+       "administrator": "SENTRIC MUSIC LIMITED",
+       "share": 25,
+       "writers": [
+        "FRIEDRICH-W ROERIG"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 1
+    },
+    {
+     "code": "HP8B3N",
+     "id": 993571019,
+     "title": "HAVIN",
+     "iswc": null,
+     "known": 16.66,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993571019
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 16.66,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 8
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900215",
+   "song": "Way I Live",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ],
+    [
+     "Hylan Starr",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 4290705392,
+   "source": "own",
+   "duration": 158,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips",
+    "Hylan Starr"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "W40KUU",
+     "id": 993570005,
+     "title": "WAY I LIVE",
+     "iswc": null,
+     "known": 16.66,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993570005
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 16.66,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 9
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900216",
+   "song": "Product of the Trenches",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705402,
+   "source": "own",
+   "duration": 204,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Aaron Phillips",
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "PJ0INT",
+     "id": 961890199,
+     "title": "PRODUCT OF THE TRENCHES",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 14811080,
+       "fullName": "ACTION PACK",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 961890199
+      },
+      {
+       "ipId": 15530078,
+       "fullName": "CHRIS II COTHARN II",
+       "ipiNumber": "00812576734",
+       "roleCode": 11,
+       "propertyId": 961890199
+      },
+      {
+       "ipId": 15222971,
+       "fullName": "BIG SAVAGE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 961890199
+      },
+      {
+       "ipId": 15222970,
+       "fullName": "TIMOTHY STEPHAN STREETS",
+       "ipiNumber": "00371847830",
+       "roleCode": 11,
+       "propertyId": 961890199
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "ANNUITY SONGS",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "CHRIS II COTHARN II"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 11
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900217",
+   "song": "Lights Out",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705412,
+   "source": "own",
+   "duration": 155,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Aaron Phillips",
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "LT06M3",
+     "id": 1050148428,
+     "title": "LIGHTS OUT",
+     "iswc": "T3264527411",
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 14442758,
+       "fullName": "OSCAR BRAOJOS GARCIA",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1050148428
+      },
+      {
+       "ipId": 15237582,
+       "fullName": "YUNG WOLF",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1050148428
+      },
+      {
+       "ipId": 14811080,
+       "fullName": "ACTION PACK",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1050148428
+      },
+      {
+       "ipId": 15222971,
+       "fullName": "BIG SAVAGE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1050148428
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "PAYDAY EMPIRE MUSIC",
+       "administrator": "WARNER CHAPPELL - PAYDAY MUSIC PUBLISHING",
+       "share": 25,
+       "writers": [
+        "OSCAR BRAOJOS GARCIA",
+        "OSCAR BRAOJOS GARCIA"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 4
+    },
+    {
+     "code": "LS5C5M",
+     "id": 993570800,
+     "title": "LIGHTS OUT",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993570800
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 6
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900218",
+   "song": "Fast Money",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705422,
+   "source": "own",
+   "duration": 174,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "FB0E3U",
+     "id": 993565475,
+     "title": "FAST MONEY",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993565475
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 11
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900219",
+   "song": "Feel Alive",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705432,
+   "source": "own",
+   "duration": 174,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Aaron Phillips",
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "FI63QL",
+     "id": 961889787,
+     "title": "FEEL ALIVE",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 15530078,
+       "fullName": "CHRIS II COTHARN II",
+       "ipiNumber": "00812576734",
+       "roleCode": 11,
+       "propertyId": 961889787
+      },
+      {
+       "ipId": 15222971,
+       "fullName": "BIG SAVAGE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 961889787
+      },
+      {
+       "ipId": 15222970,
+       "fullName": "TIMOTHY STEPHAN STREETS",
+       "ipiNumber": "00371847830",
+       "roleCode": 11,
+       "propertyId": 961889787
+      },
+      {
+       "ipId": 14811080,
+       "fullName": "ACTION PACK",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 961889787
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "ANNUITY SONGS",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "CHRIS II COTHARN II"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 13
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900221",
+   "song": "Dubai",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705452,
+   "source": "own",
+   "duration": 202,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "DC297S",
+     "id": 961891515,
+     "title": "DUBAI",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 15530078,
+       "fullName": "CHRIS II COTHARN II",
+       "ipiNumber": "00812576734",
+       "roleCode": 11,
+       "propertyId": 961891515
+      },
+      {
+       "ipId": 15222971,
+       "fullName": "BIG SAVAGE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 961891515
+      },
+      {
+       "ipId": 15222970,
+       "fullName": "TIMOTHY STEPHAN STREETS",
+       "ipiNumber": "00371847830",
+       "roleCode": 11,
+       "propertyId": 961891515
+      },
+      {
+       "ipId": 14811080,
+       "fullName": "ACTION PACK",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 961891515
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "ANNUITY SONGS",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "CHRIS II COTHARN II"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 13
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900222",
+   "song": "Growing Pains",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705462,
+   "source": "own",
+   "duration": 182,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Aaron Phillips",
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "GD70C0",
+     "id": 966984372,
+     "title": "GROWING PAINS",
+     "iswc": null,
+     "known": 50,
+     "writers": [
+      {
+       "ipId": 15237582,
+       "fullName": "YUNG WOLF",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 966984372
+      },
+      {
+       "ipId": 14811080,
+       "fullName": "ACTION PACK",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 966984372
+      },
+      {
+       "ipId": 15609391,
+       "fullName": "YAUHENI KURHAN",
+       "ipiNumber": "01126031411",
+       "roleCode": 10,
+       "propertyId": 966984372
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "BEATSTARS PUBLISHING WORLDWIDE",
+       "administrator": "SENTRIC MUSIC LIMITED",
+       "share": 50,
+       "writers": [
+        "YAUHENI KURHAN",
+        "YAUHENI KURHAN"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 9
+    },
+    {
+     "code": "GF0QC8",
+     "id": 993564325,
+     "title": "GROWING PAINS",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993564325
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 4
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900223",
+   "song": "Switch It Up",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4290705472,
+   "source": "own",
+   "duration": 181,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "S56E61",
+     "id": 993571124,
+     "title": "SWITCH IT UP",
+     "iswc": null,
+     "known": 25,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993571124
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 25,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 11
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZGH81900224",
+   "song": "Chanel Track Shoes",
+   "date": "2023-07-28",
+   "album": "Wolf Pack",
+   "album_id": 1080401572,
+   "record_type": "album",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ],
+    [
+     "Wee2Hard",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 4290705482,
+   "source": "own",
+   "duration": 227,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Maricus Taylor",
+    "Aaron Phillips"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "CJ6GID",
+     "id": 993569279,
+     "title": "CHANEL TRACK SHOES",
+     "iswc": null,
+     "known": 16.66,
+     "writers": [
+      {
+       "ipId": 12385351,
+       "fullName": "GARIAN WALLS",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 993569279
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "REGALIAS DIGITALES",
+       "administrator": null,
+       "share": 16.66,
+       "writers": [
+        "GARIAN WALLS"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 19
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "USLD91804273",
+   "song": "Rich Together (feat. Yung Wolf)",
+   "date": "2026-10-20",
+   "album": "The Last Sipper",
+   "album_id": 1125536142,
+   "record_type": "album",
+   "label": "Bally Baby",
+   "artists": [
+    [
+     "Bally Baby",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 4357643162,
+   "source": "feature",
+   "duration": 205,
+   "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "writers_label": [
+    "Bally Baby"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  }
+ ],
+ "attribution_audit": [
+  {
+   "composition": "MADE ME",
+   "mlc_codes": [
+    "MN9B3Y"
+   ],
+   "isrcs": [
+    "QZGH81900237"
+   ],
+   "writer_evidence": "MLC verified writer-name credit",
+   "attributable": false,
+   "artist_named_entity_pending": false,
+   "duplicate_record_review": false
+  },
+  {
+   "composition": "DON'T BOTHER ME",
+   "mlc_codes": [
+    "DS0YWZ"
+   ],
+   "isrcs": [
+    "AUGBT2513276"
+   ],
+   "writer_evidence": "MLC verified writer-name credit",
+   "attributable": false,
+   "artist_named_entity_pending": false,
+   "duplicate_record_review": false
+  },
+  {
+   "composition": "PRINTED BY THE PACK",
+   "mlc_codes": [
+    "PO4FLV"
+   ],
+   "isrcs": [
+    "AUGBT2501315"
+   ],
+   "writer_evidence": "MLC verified writer-name credit",
+   "attributable": false,
+   "artist_named_entity_pending": false,
+   "duplicate_record_review": false
+  },
+  {
+   "composition": "HOLD DA PAIN IN",
+   "mlc_codes": [
+    "H31S4P"
+   ],
+   "isrcs": [
+    "AUQ9D2621773"
+   ],
+   "writer_evidence": "MLC verified writer-name credit",
+   "attributable": false,
+   "artist_named_entity_pending": false,
+   "duplicate_record_review": false
+  },
+  {
+   "composition": "BY 2MR",
+   "mlc_codes": [
+    "BJ1PHZ"
+   ],
+   "isrcs": [
+    "AUQ9D2628362"
+   ],
+   "writer_evidence": "MLC verified writer-name credit",
+   "attributable": false,
+   "artist_named_entity_pending": false,
+   "duplicate_record_review": false
+  }
+ ],
+ "findings": [
+  {
+   "title": "Five compositions support a focused attribution review.",
+   "body": "Your legal writer names are evidenced on <b>5 unique compositions, spanning 5 reviewed recordings</b>. No positive MLC publisher/admin claim whose own writer chain names that identity was identified on those five. The works are \u201cMade Me,\u201d \u201cDon\u2019t Bother Me,\u201d \u201cPrinted By the Pack,\u201d \u201cHold Da Pain In\u201d and \u201cBy 2MR.\u201d This is an apparent collection-attribution gap, with exact entitlement and current representation to be verified from agreements."
+  },
+  {
+   "title": "Two existing works need recording-link verification.",
+   "body": "\u201cHOLD DA PAIN IN\u201d <a href=\"https://portal.themlc.com/catalog/work/1126803495\" target=\"_blank\" rel=\"noopener noreferrer\">H31S4P</a> shows <b>25% total known shares</b>; \u201cBY 2MR\u201d <a href=\"https://portal.themlc.com/catalog/work/1126803475\" target=\"_blank\" rel=\"noopener noreferrer\">BJ1PHZ</a> shows <b>6.25%</b>. Both name MARICUS TAYLOR. The Kobalt-administered Artist 101 claim names co-writer Liam Barry McAlister. Direct searches did not confirm the reviewed ISRCs on these works. Verify the composition/version and attach the recordings to the correct existing work rather than filing a duplicate."
+  },
+  {
+   "title": "Open shares are visible, but the remainder is not your split.",
+   "body": "\u201cMADE ME\u201d <a href=\"https://portal.themlc.com/catalog/work/1057083547\" target=\"_blank\" rel=\"noopener noreferrer\">MN9B3Y</a> shows <b>16.67%</b> known shares, \u201cPRINTED BY THE PACK\u201d <a href=\"https://portal.themlc.com/catalog/work/1057095026\" target=\"_blank\" rel=\"noopener noreferrer\">PO4FLV</a> <b>8.34%</b>, and \u201cDON\u2019T BOTHER ME\u201d <a href=\"https://portal.themlc.com/catalog/work/1085732858\" target=\"_blank\" rel=\"noopener noreferrer\">DS0YWZ</a> <b>25%</b>. The first two have publisher rows whose own writer lists are empty, so attribution remains unresolved. On \u201cDon\u2019t Bother Me,\u201d the visible BeatStars/Sentric and United Market/EMPIRE claims explicitly name other writers. Verify your split and administration history before proposing any claim."
+  },
+  {
+   "title": "Resolve Taylor, Traylor and stage-name writer records first.",
+   "body": "Label and registry sources use <b>MARICUS TAYLOR</b>, <b>MARICUS TRAYLOR</b> and <b>MARICUS JR TRAYLOR</b>; the last appears on \u201cDon\u2019t Bother Me\u201d with IPI <b>01191748923</b>. Confirm that IPI and preferred legal spelling in your own account. The shared Deezer profile also returned <b>141 other or unverified same-name recordings</b>, excluded from the report. Stage-name-only writer records are flagged for identity verification rather than automatically treated as your legal writer evidence. The off-catalog \u201cNO EMOTION\u201d work N99LKQ shows 0% known shares and is a possible title variant of \u201cNo Emotions\u201d; it remains unconfirmed and outside the five-composition attribution count."
+  },
+  {
+   "title": "Prioritize the current catalog without overlooking missing credits.",
+   "body": "Across 66 retained recordings, 35 have no MLC work identified and 24 have a work whose writer attribution needs verification. The ten sampled Spotify tracks total <b>629,669 plays</b>, led by \u201cMotion\u201d (322,750) and \u201cDon\u2019t Say Nun\u201d (164,997). Treat the current Full Moon records and these exposed recordings as a documentation priority. A performing or featured-artist credit alone does not establish a writing share."
+  }
+ ],
+ "supplementary_searches": [
+  {
+   "source_file": "ipi_01191748923.json",
+   "total": 1,
+   "work_codes": [
+    "DS0YWZ"
+   ]
+  },
+  {
+   "source_file": "writer_MARICUS_JR_TRAYLOR.json",
+   "total": 1,
+   "work_codes": [
+    "DS0YWZ"
+   ]
+  }
+ ],
+ "gmr_performer_writer_search": null,
+ "gmr_sampled_title_search": null,
+ "queries": [
+  {
+   "key": "control",
+   "page": 0,
+   "criteria": {
+    "combinedTitlesExact": "BOHEMIAN RHAPSODY"
+   },
+   "total": 22,
+   "returned": 22
+  },
+  {
+   "key": "artist",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingArtists": "YUNG WOLF"
+   },
+   "total": 51578,
+   "returned": 100
+  },
+  {
+   "key": "artist",
+   "page": 1,
+   "criteria": {
+    "matchedRecordingArtists": "YUNG WOLF"
+   },
+   "total": 51578,
+   "returned": 100
+  },
+  {
+   "key": "writer_MARICUS_TAYLOR",
+   "page": 0,
+   "criteria": {
+    "writerFullNamesExact": "MARICUS TAYLOR"
+   },
+   "total": 5,
+   "returned": 5
+  },
+  {
+   "key": "writer_MARICUS_TRAYLOR",
+   "page": 0,
+   "criteria": {
+    "writerFullNamesExact": "MARICUS TRAYLOR"
+   },
+   "total": 5,
+   "returned": 5
+  },
+  {
+   "key": "writer_YUNG_WOLF",
+   "page": 0,
+   "criteria": {
+    "writerFullNamesExact": "YUNG WOLF"
+   },
+   "total": 13,
+   "returned": 13
+  },
+  {
+   "key": "isrc_USLD91804273",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "USLD91804273"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2673741",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2673741"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628356",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628356"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628358",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628358"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628362",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628362"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628366",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628366"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628368",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628368"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628381",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628381"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628369",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628369"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628373",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628373"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628375",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628375"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628376",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628376"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628377",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628377"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628378",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628378"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2628380",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2628380"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2621773",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2621773"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUQ9D2613020",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUQ9D2613020"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_CH7812685787",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "CH7812685787"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUGBT2553218",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUGBT2553218"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUGBT2535417",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUGBT2535417"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUGBT2528666",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUGBT2528666"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_AUMEV2546727",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "AUMEV2546727"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZZ782498989",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZZ782498989"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900235",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900235"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900232",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900232"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900230",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900230"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900225",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900225"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900158",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900158"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900159",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900159"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900160",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900160"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900161",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900161"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900162",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900162"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900163",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900163"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900165",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900165"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900166",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900166"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900168",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900168"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900172",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900172"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900155",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900155"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZGH81900149",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZGH81900149"
+   },
+   "total": 0,
+   "returned": 0
+  }
+ ]
+}

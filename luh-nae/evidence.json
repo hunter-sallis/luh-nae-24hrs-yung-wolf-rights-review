@@ -1,0 +1,1771 @@
+{
+ "prepared": "2026-11-02",
+ "metadata": {
+  "artist": "Luh Nae",
+  "recordings": 29,
+  "own": 25,
+  "features": 4,
+  "statuses": {
+   "missing": 28,
+   "unlinked": 1
+  },
+  "checked": 29,
+  "writer_compositions": 1,
+  "writer_recordings": 1,
+  "attributed_compositions": 0,
+  "gap_compositions": 1,
+  "entity_pending_compositions": 0,
+  "label_legal_writer_recordings": 21,
+  "label_writer_recordings": 25,
+  "plays_observed": 3082531,
+  "plays_observed_tracks": 9,
+  "monthly_listeners": 302013,
+  "excluded_identity": 0
+ },
+ "identity_basis": "Instagram @babyimnae identifies Luh Nae; label-supplied credits repeatedly name Janae Chatman. Legal identity and primary IPI require account confirmation.",
+ "spotify_basis": "Read from Spotify artist Popular tables in the browser. Counts are sampled lifetime recording plays, not total catalog exposure. Null means no readable counter, not zero.",
+ "spotify_sample": {
+  "artist_id": "0BdeKVmnO8H0Y1vIvRjoK1",
+  "monthly_listeners": 302013,
+  "tracks": [
+   [
+    "Geeked Shit (remix)",
+    "0zRkeslMkmS7y4RNCCwIgH",
+    1932229
+   ],
+   [
+    "Geeked Shit",
+    "2r0Mbg957HAK9L4zQbuiiT",
+    1050596
+   ],
+   [
+    "Where Ya From",
+    "24xCrwi6ChUpL9v26aORBl",
+    68712
+   ],
+   [
+    "I Luv Hoes",
+    "4k8taQLXk2fdSvsEkxMOQr",
+    18814
+   ],
+   [
+    "Racks Just Hit",
+    "5IDfFcYiyxciaNFLTRTd7u",
+    1217
+   ],
+   [
+    "GET FREAKY",
+    "59hK3Ow6Ks2WaXRJUL9muA",
+    null
+   ],
+   [
+    "Racks on me",
+    "7if4JZ9AVafMzi3ioKEfwm",
+    4557
+   ],
+   [
+    "Spend",
+    "0wMBsg4HLCGfu3vXqLpzHS",
+    3199
+   ],
+   [
+    "Play Time Over",
+    "0C2gkiggiUdCghA88P5tPg",
+    2088
+   ],
+   [
+    "F that Bitch",
+    "6tfS1HIC6LXEpu10wYiBv0",
+    1119
+   ]
+  ]
+ },
+ "rows": [
+  {
+   "isrc": "QZFYX2365049",
+   "song": "Don't Mention Me",
+   "date": "2023-01-04",
+   "album": "Don't Mention Me",
+   "album_id": 392920697,
+   "record_type": "single",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2095032127,
+   "source": "own",
+   "duration": 111,
+   "dupe_albums": [
+    "Pretty Young Gangsta"
+   ],
+   "writers_label": [
+    "Luh Nae"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZHN32333580",
+   "song": "Hood Bitch (feat. Luh Nae)",
+   "date": "2023-03-17",
+   "album": "The Wolfpack",
+   "album_id": 419883187,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "B.A.M Entertainment",
+     "Main"
+    ],
+    [
+     "Luh Nae",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 2200963717,
+   "source": "feature",
+   "duration": 137,
+   "writers_label": [
+    "Luh Nae"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383533",
+   "song": "Turnt Freestyle",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2485679821,
+   "source": "own",
+   "duration": 120,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZHN32333575",
+   "song": "Walking (feat. Luh Nae)",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "B.A.M Entertainment",
+     "Main"
+    ],
+    [
+     "Luh Nae",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 2485679831,
+   "source": "own",
+   "duration": 155,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383534",
+   "song": "Out Of Pocket",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2485679841,
+   "source": "own",
+   "duration": 140,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383535",
+   "song": "Hoochie Mama (feat. Dreek Jones)",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ],
+    [
+     "Dreek Jones",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 2485679851,
+   "source": "own",
+   "duration": 126,
+   "writers_label": [
+    "Dreek Jones",
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383536",
+   "song": "Get Back",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2485679861,
+   "source": "own",
+   "duration": 139,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383537",
+   "song": "Vibes",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2485679871,
+   "source": "own",
+   "duration": 188,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383538",
+   "song": "Movie",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2485679881,
+   "source": "own",
+   "duration": 135,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383539",
+   "song": "Paper Chasing (feat. Dreek Jones)",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ],
+    [
+     "Dreek Jones",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 2485679891,
+   "source": "own",
+   "duration": 162,
+   "writers_label": [
+    "Dreek Jones",
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383540",
+   "song": "Asshole",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2485679901,
+   "source": "own",
+   "duration": 151,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383541",
+   "song": "Big Purse",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2485679911,
+   "source": "own",
+   "duration": 137,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383542",
+   "song": "Bad Bitches",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2485679921,
+   "source": "own",
+   "duration": 161,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZTB52383543",
+   "song": "Spend It",
+   "date": "2023-10-13",
+   "album": "Pretty Young Gangsta",
+   "album_id": 496659701,
+   "record_type": "album",
+   "label": "By Any Means Entertainment",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2485679931,
+   "source": "own",
+   "duration": 133,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZWFX2431420",
+   "song": "Whole Nother Planet (feat. Luh Nae & Macdon)",
+   "date": "2024-11-03",
+   "album": "Choppa City",
+   "album_id": 664878021,
+   "record_type": "album",
+   "label": "6692848 Records DK",
+   "artists": [
+    [
+     "esb choppa",
+     "Main"
+    ],
+    [
+     "Luh Nae",
+     "Featured"
+    ],
+    [
+     "Macdon",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 3072121661,
+   "source": "feature",
+   "duration": 178,
+   "writers_label": [
+    "Maleek DeQuon Anderson"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QT3F32552781",
+   "song": "F that Bitch",
+   "date": "2025-09-27",
+   "album": "F that Bitch",
+   "album_id": 827689341,
+   "record_type": "single",
+   "label": "Pretty Young Gangsta",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3573539661,
+   "source": "own",
+   "duration": 167,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 1119,
+   "spotify_id": "6tfS1HIC6LXEpu10wYiBv0",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "QT3F32552808",
+   "song": "UH HUH",
+   "date": "2025-09-26",
+   "album": "UH HUH",
+   "album_id": 827689361,
+   "record_type": "single",
+   "label": "Pretty Young Gangsta",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3573539691,
+   "source": "own",
+   "duration": 109,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QT3F32552792",
+   "song": "Racks on me",
+   "date": "2025-09-29",
+   "album": "Racks on me",
+   "album_id": 827689441,
+   "record_type": "single",
+   "label": "Pretty Young Gangsta",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3573539971,
+   "source": "own",
+   "duration": 142,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 4557,
+   "spotify_id": "7if4JZ9AVafMzi3ioKEfwm",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "QT3F52548325",
+   "song": "Play Time Over (feat. Dreek Jones)",
+   "date": "2025-10-01",
+   "album": "Play Time Over (feat. Dreek Jones)",
+   "album_id": 829491021,
+   "record_type": "single",
+   "label": "Pretty Young Gangsta",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ],
+    [
+     "Dreek Jones",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 3578400181,
+   "source": "own",
+   "duration": 153,
+   "writers_label": [
+    "Luh Nae"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 2088,
+   "spotify_id": "0C2gkiggiUdCghA88P5tPg",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "QZFYZ2606497",
+   "song": "Say That",
+   "date": "2026-01-04",
+   "album": "Say That",
+   "album_id": 889967672,
+   "record_type": "single",
+   "label": "Pretty Young Gangsta",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3753608062,
+   "source": "own",
+   "duration": 100,
+   "writers_label": [
+    "Luh Nae"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZDA52686438",
+   "song": "Spend",
+   "date": "2026-01-16",
+   "album": "Spend",
+   "album_id": 897003022,
+   "record_type": "single",
+   "label": "Pretty Young Gangsta",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3772974212,
+   "source": "own",
+   "duration": 139,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 3199,
+   "spotify_id": "0wMBsg4HLCGfu3vXqLpzHS",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "QZDA62618938",
+   "song": "Glasses nd a wig (feat. Luh Nae)",
+   "date": "2026-01-13",
+   "album": "Glasses nd a wig (feat. Luh Nae)",
+   "album_id": 897351142,
+   "record_type": "single",
+   "label": "9918234 Records DK",
+   "artists": [
+    [
+     "luh youngen1",
+     "Main"
+    ],
+    [
+     "Luh Nae",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 3773876872,
+   "source": "feature",
+   "duration": 155,
+   "writers_label": [
+    "Elijah Thompsn"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZZ7M2635244",
+   "song": "Geeked Shit",
+   "date": "2026-05-15",
+   "album": "Geeked Shit",
+   "album_id": 981553981,
+   "record_type": "single",
+   "label": "Pretty Young Gangsta",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4018286281,
+   "source": "own",
+   "duration": 127,
+   "writers_label": [
+    "Janae Chatman",
+    "Aldreco Jones"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "spotify_version_ambiguous": true
+  },
+  {
+   "isrc": "QZNMT2698440",
+   "song": "Bend Over (ATLMix)",
+   "date": "2026-06-13",
+   "album": "Welcome To The Club (Deluxe)",
+   "album_id": 1003530911,
+   "record_type": "album",
+   "label": "10k Recordings",
+   "artists": [
+    [
+     "10K.Caash",
+     "Main"
+    ],
+    [
+     "Luh Nae",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": 4081415921,
+   "source": "feature",
+   "duration": 169,
+   "writers_label": [
+    "Treyvon Britt"
+   ],
+   "label_client": false,
+   "works": [
+    {
+     "code": "BI5VM7",
+     "id": 1117560087,
+     "title": "BEND OVER ATLMIX",
+     "iswc": null,
+     "known": 35,
+     "writers": [
+      {
+       "ipId": 18072326,
+       "fullName": "LUH NAE",
+       "ipiNumber": null,
+       "roleCode": 11,
+       "propertyId": 1117560087
+      },
+      {
+       "ipId": 17546145,
+       "fullName": "CALEN LAVON SMITH",
+       "ipiNumber": "01029716460",
+       "roleCode": 11,
+       "propertyId": 1117560087
+      },
+      {
+       "ipId": 13671749,
+       "fullName": "TREYVON BRITT",
+       "ipiNumber": "00395925801",
+       "roleCode": 11,
+       "propertyId": 1117560087
+      }
+     ],
+     "client_on": true,
+     "pubs": [
+      {
+       "publisher": "10KCAASH PUBLISHING",
+       "administrator": "VELOCITY FUTURE COLLECTIONS",
+       "share": 35,
+       "writers": [
+        "TREYVON BRITT"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": false,
+     "recording_count": 0
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "unlinked",
+   "writer_proven": true,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null
+  },
+  {
+   "isrc": "QZRD92609177",
+   "song": "Geeked Shit",
+   "date": "2026-07-02",
+   "album": "Geeked Shit",
+   "album_id": 1019085641,
+   "record_type": "single",
+   "label": "QCLG",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4126979941,
+   "source": "own",
+   "duration": 127,
+   "writers_label": [
+    "Kosal Teap",
+    "Logan Boutros",
+    "Hiroki Kuriyama"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "spotify_version_ambiguous": true
+  },
+  {
+   "isrc": "QZRD92609207",
+   "song": "Geeked Shit (remix)",
+   "date": "2026-07-17",
+   "album": "Geeked Shit (remix)",
+   "album_id": 1028506502,
+   "record_type": "single",
+   "label": "QCLG",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ],
+    [
+     "PLUTO",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4152378142,
+   "source": "own",
+   "duration": 165,
+   "writers_label": [
+    "Matt Teap",
+    "Janae Chatman",
+    "Jada Amaurie Smith",
+    "Al'dreco Jones",
+    "Bakari Smith",
+    "Logan Boutros",
+    "Hiroki Kuriyama"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 1932229,
+   "spotify_id": "0zRkeslMkmS7y4RNCCwIgH",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "QZRD92609297",
+   "song": "Where Ya From",
+   "date": "2026-08-21",
+   "album": "Where Ya From",
+   "album_id": 1053815752,
+   "record_type": "single",
+   "label": "QCLG",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ],
+    [
+     "Dreek Jones",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4222888232,
+   "source": "own",
+   "duration": 155,
+   "writers_label": [
+    "Janae Chatman",
+    "Al'dreco Jones"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 68712,
+   "spotify_id": "24xCrwi6ChUpL9v26aORBl",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "QZRD92609358",
+   "song": "I Luv Hoes",
+   "date": "2026-09-11",
+   "album": "I Luv Hoes",
+   "album_id": 1065581701,
+   "record_type": "single",
+   "label": "QCLG",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4252752861,
+   "source": "own",
+   "duration": 150,
+   "writers_label": [
+    "Janae Chatman",
+    "Kosal Teap",
+    "Herbert V. Waters"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 18814,
+   "spotify_id": "4k8taQLXk2fdSvsEkxMOQr",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  },
+  {
+   "isrc": "QZRD92609556",
+   "song": "Racks Just Hit",
+   "date": "2026-10-30",
+   "album": "Racks Just Hit",
+   "album_id": 1129150391,
+   "record_type": "single",
+   "label": "QC",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4367674381,
+   "source": "own",
+   "duration": 139,
+   "writers_label": [
+    "Janae Chatman",
+    "Donte Ononiewu"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 1217,
+   "spotify_id": "5IDfFcYiyxciaNFLTRTd7u",
+   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+  }
+ ],
+ "attribution_audit": [
+  {
+   "composition": "BEND OVER ATLMIX",
+   "mlc_codes": [
+    "BI5VM7"
+   ],
+   "isrcs": [
+    "QZNMT2698440"
+   ],
+   "writer_evidence": "MLC verified writer-name credit",
+   "attributable": false,
+   "artist_named_entity_pending": false,
+   "duplicate_record_review": false
+  }
+ ],
+ "findings": [
+  {
+   "title": "One existing work supports a focused attribution review.",
+   "body": "\u201cBEND OVER ATLMIX\u201d <a href=\"https://portal.themlc.com/catalog/work/1117560087\" target=\"_blank\" rel=\"noopener noreferrer\">BI5VM7</a> names <b>LUH NAE</b> and co-writers Calen Lavon Smith and Treyvon Britt. The title, stage name and shared co-writer credit support a match to your catalog recording. The work shows <b>35% total known shares</b>, with 10KCaash Publishing \u2192 Velocity Future Collections naming only Treyvon Britt in its own writer chain. No attributable claim was identified for the Luh Nae writer interest, and no recording is attached to the work. Confirm the composition, account identity and splits, then investigate the recording link and the apparent attribution gap; the 65% open remainder is not automatically yours."
+  },
+  {
+   "title": "Start with the recordings that already have visible exposure.",
+   "body": "No matching MLC work was identified for <b>28 of 29 reviewed recordings</b>, including the original and remix of \u201cGeeked Shit,\u201d \u201cWhere Ya From,\u201d \u201cI Luv Hoes\u201d and \u201cRacks Just Hit.\u201d The Spotify sample totals <b>3,082,531 plays across nine readable counters</b>. \u201cGeeked Shit\u201d shows 1,050,596 plays and the PLUTO remix shows 1,932,229. These are separate recording/version observations; their streams do not establish how much of either composition you own. \u201cGET FREAKY\u201d also appears on the verified Spotify profile, but its ISRC and counter were not captured and it sits outside the 29-ISRC registry denominator."
+  },
+  {
+   "title": "Use Janae Chatman to reconcile your writer identity.",
+   "body": "Your legal-name writer credit appears in label metadata on <b>21 recordings</b>, with four further recordings using the stage name. The MLC LUH NAE writer line on \u201cBend Over\u201d has no IPI shown. Your primary writer IPI and current PRO/MLC accounts were not established by this review. Do not create another writer identity until the existing account and all spelling/name variants have been reconciled."
+  },
+  {
+   "title": "Check both Geeked Shit recording identifiers.",
+   "body": "Deezer returns \u201cGeeked Shit\u201d under <b>QZZ7M2635244</b> (Pretty Young Gangsta) and <b>QZRD92609177</b> (QCLG), plus the remix under <b>QZRD92609207</b>. Treat these as three recording identifiers to verify, not three automatically distinct compositions. Confirm which original recordings share a composition and whether the remix adds writers, then attach the correct recordings to the verified work. Recent-release search misses can reflect ingestion or processing delays; check administrator delivery confirmations before filing."
+  },
+  {
+   "title": "One off-catalog writer-name match is a useful identity lead.",
+   "body": "MLC \u201cMONEY IN THE BANK\u201d <a href=\"https://portal.themlc.com/catalog/work/1058435271\" target=\"_blank\" rel=\"noopener noreferrer\">MO1VTX</a> names JANAE CHATMAN without an IPI and shows <b>50% total known shares</b>. The visible BeatStars \u2192 Sentric claim names Benjamin Bialy in its own writer chain. This title was not found in the reviewed DSP catalog, so it is excluded from all headline counts. Confirm whether it is your composition before treating it as an apparent attribution gap; its 50% open remainder is not automatically your entitlement."
+  }
+ ],
+ "supplementary_searches": [
+  {
+   "source_file": "title_PLAY_TIME_OVER.json",
+   "total": 4,
+   "work_codes": [
+    "PN1NT5",
+    "PV7MSQ",
+    "PM9HXR",
+    "PO1DSC"
+   ]
+  },
+  {
+   "source_file": "title_RACKS_ON_ME.json",
+   "total": 75,
+   "work_codes": [
+    "RO56VC",
+    "RW2RE3",
+    "RB8U4N",
+    "RC3UC8",
+    "RC49QP",
+    "RB7R7R",
+    "RC48IL",
+    "RB2C3X",
+    "RA7B7N",
+    "RA7W28",
+    "RA8XFY",
+    "RA9QGH",
+    "RB2ZOI",
+    "RB16AV",
+    "RVBFBQ",
+    "RD1UF8",
+    "RS2J8Y",
+    "R72ETH",
+    "RS759P",
+    "RS3K66",
+    "RN8T90",
+    "RO5WBP",
+    "RO8D43",
+    "RO441V",
+    "RN60GD",
+    "RN6LNB",
+    "RB7MSS",
+    "RC7LZZ",
+    "RB80NY",
+    "RB47IU",
+    "RB46NW",
+    "RB2HT2",
+    "RA4ZE1",
+    "RB2YKR",
+    "RA69DM",
+    "RB0CY6",
+    "RA4BDZ",
+    "RA8GGU",
+    "RB1R3A",
+    "RVBQ74",
+    "RVAXR0",
+    "RVANUJ",
+    "R49244",
+    "RS3EHP",
+    "RO8E3H",
+    "RN7JS1",
+    "RO25AW",
+    "RO7QB9",
+    "RN6MJB",
+    "RO1ZES",
+    "RB6KI5",
+    "RC27UM",
+    "RB81P5",
+    "RC6OVS",
+    "RC1H9A",
+    "RA5GYN",
+    "RB5LW9",
+    "RA8KE1",
+    "RA6U73",
+    "RB1940",
+    "RA23W1",
+    "RB0DDX",
+    "RB0DCM",
+    "RA3WBP",
+    "RB2Z0B",
+    "RVAVU1",
+    "RVBL42",
+    "RI6QVA",
+    "R637W0",
+    "RR7FQM",
+    "RI9UVF",
+    "RP4W6E",
+    "RO8MSJ",
+    "RO112V",
+    "RO6TX4"
+   ]
+  },
+  {
+   "source_file": "title_SPEND.json",
+   "total": 75,
+   "work_codes": [
+    "S54BZE",
+    "SI2OWW",
+    "SB88HY",
+    "SB33BY",
+    "SB3FJ4",
+    "SH7V4J",
+    "SH1JU3",
+    "SH8TMM",
+    "SC77PY",
+    "X3195Q",
+    "SX2J0L",
+    "SW7QAP",
+    "SW29KW",
+    "SV3LD5",
+    "S83XCG",
+    "S76WMV",
+    "S661WL",
+    "S470B1",
+    "S57T21",
+    "S54DCF",
+    "S51UCN",
+    "SC0T9G",
+    "SA5H5S",
+    "SA98AA",
+    "SB3X4G",
+    "SA20VM",
+    "SH78HW",
+    "SD1NT6",
+    "SC751W",
+    "X1822X",
+    "S2188J",
+    "SVFUET",
+    "S15QK9",
+    "S998LE",
+    "S99LKF",
+    "SW2J36",
+    "S83WUY",
+    "S72J2F",
+    "S68A4C",
+    "S687XU",
+    "S582W1",
+    "S497PI",
+    "S94PYK",
+    "S89D3S",
+    "SI4FCJ",
+    "SB5HFI",
+    "SB1BA6",
+    "SA510N",
+    "SB3QXH",
+    "SA6EYG",
+    "SH3QYX",
+    "SH6SZZ",
+    "SD2HWO",
+    "SC81G9",
+    "SC8T4S",
+    "SD0164",
+    "SD6DSU",
+    "S3736G",
+    "S88267",
+    "SD7XOA",
+    "S110MZ",
+    "S07FM2",
+    "S08N5F",
+    "SZ626H",
+    "S03Q3D",
+    "SW29VQ",
+    "S78NOF",
+    "S77XBA",
+    "S69BUF",
+    "S70L6B",
+    "S47JQD",
+    "S58GYU",
+    "SC4KVR",
+    "D4287L",
+    "SV3LYI"
+   ]
+  },
+  {
+   "source_file": "title_GEEKED_SHIT.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "title_I_LUV_HOES.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "title_RACKS_JUST_HIT.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "title_GEEKED_SHIT_REMIX.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "title_F_THAT_BITCH.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "title_GET_FREAKY.json",
+   "total": 66,
+   "work_codes": [
+    "GE707S",
+    "GD9T7R",
+    "GE8S3Y",
+    "GE3DL8",
+    "GA9G8V",
+    "GA3ISG",
+    "GA6Y9R",
+    "GA5KZO",
+    "GA0THG",
+    "GA5P96",
+    "G1359V",
+    "GV84DE",
+    "GV7AUI",
+    "GV9TDE",
+    "GV8RUT",
+    "G79TFH",
+    "GC2JVQ",
+    "GB4YKO",
+    "GF2DJZ",
+    "GE6SCR",
+    "GE7DLL",
+    "GD9TDR",
+    "GE5UXT",
+    "GE09G4",
+    "GA6HU5",
+    "GA8KAL",
+    "GA7M2M",
+    "GA6YO4",
+    "GV7AFH",
+    "GVCQA3",
+    "GV8M5K",
+    "GV9KRY",
+    "G761BU",
+    "GR2L8N",
+    "GB8TQ4",
+    "GB855T",
+    "GG2KHK",
+    "GF77KK",
+    "GE5QIX",
+    "GE8MSU",
+    "GD6XDD",
+    "GA46NG",
+    "GD90TQ",
+    "GA8DGN",
+    "GA0JZZ",
+    "GA39XZ",
+    "GA6F6Q",
+    "GA6S7C",
+    "GA5M2D",
+    "GA47RP",
+    "GA2Q00",
+    "GA3CFC",
+    "GA1GZS",
+    "G1830T",
+    "GVCV0A",
+    "G34646",
+    "GA1EQ3",
+    "GV8YUH",
+    "GV98EQ",
+    "GK0TFU",
+    "GD3JU7",
+    "GJ8UVB",
+    "GC2BF8",
+    "SVC8K6",
+    "GE0WON",
+    "GA96K6"
+   ]
+  },
+  {
+   "source_file": "title_WHERE_YA_FROM.json",
+   "total": 14,
+   "work_codes": [
+    "WA80HS",
+    "WV9OB9",
+    "WD05DT",
+    "WC5TLM",
+    "WA79AU",
+    "WA9FNO",
+    "WB89UL",
+    "WVBMBS",
+    "W13327",
+    "WN9E3R",
+    "W59RF7",
+    "W1953X",
+    "W3718R",
+    "WB9F9I"
+   ]
+  }
+ ],
+ "gmr_performer_writer_search": null,
+ "gmr_sampled_title_search": null,
+ "queries": [
+  {
+   "key": "control",
+   "page": 0,
+   "criteria": {
+    "combinedTitlesExact": "BOHEMIAN RHAPSODY"
+   },
+   "total": 22,
+   "returned": 22
+  },
+  {
+   "key": "artist",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingArtists": "LUH NAE"
+   },
+   "total": 2972,
+   "returned": 100
+  },
+  {
+   "key": "artist",
+   "page": 1,
+   "criteria": {
+    "matchedRecordingArtists": "LUH NAE"
+   },
+   "total": 2972,
+   "returned": 100
+  },
+  {
+   "key": "writer_JANAE_CHATMAN",
+   "page": 0,
+   "criteria": {
+    "writerFullNamesExact": "JANAE CHATMAN"
+   },
+   "total": 1,
+   "returned": 1
+  },
+  {
+   "key": "writer_LUH_NAE",
+   "page": 0,
+   "criteria": {
+    "writerFullNamesExact": "LUH NAE"
+   },
+   "total": 1,
+   "returned": 1
+  },
+  {
+   "key": "isrc_QZRD92609556",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZRD92609556"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZRD92609358",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZRD92609358"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZRD92609297",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZRD92609297"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZRD92609207",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZRD92609207"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZRD92609177",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZRD92609177"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZNMT2698440",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZNMT2698440"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZZ7M2635244",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZZ7M2635244"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZDA52686438",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZDA52686438"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZDA62618938",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZDA62618938"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZFYZ2606497",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZFYZ2606497"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QT3F52548325",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QT3F52548325"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QT3F32552792",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QT3F32552792"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QT3F32552781",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QT3F32552781"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QT3F32552808",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QT3F32552808"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZWFX2431420",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZWFX2431420"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383533",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383533"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZHN32333575",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZHN32333575"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383534",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383534"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383535",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383535"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383536",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383536"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383537",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383537"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383538",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383538"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383539",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383539"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383540",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383540"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383541",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383541"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383542",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383542"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZTB52383543",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZTB52383543"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZHN32333580",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZHN32333580"
+   },
+   "total": 0,
+   "returned": 0
+  },
+  {
+   "key": "isrc_QZFYX2365049",
+   "page": 0,
+   "criteria": {
+    "matchedRecordingIsrcs": "QZFYX2365049"
+   },
+   "total": 0,
+   "returned": 0
+  }
+ ]
+}
