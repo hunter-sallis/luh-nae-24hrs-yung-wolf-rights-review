@@ -286,7 +286,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "UP10M'S PUBLISHING",
@@ -300,7 +300,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 15
     }
@@ -1618,7 +1618,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "FLOSSTRADAMUS",
@@ -1648,7 +1648,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 141
     },
@@ -2331,7 +2331,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "FLOSSTRADAMUS",
@@ -2361,7 +2361,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 141
     }
@@ -3447,7 +3447,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "PAYDAY EMPIRE MUSIC",
@@ -3467,7 +3467,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 30
     },
@@ -3576,11 +3576,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 7
     }
@@ -5032,11 +5032,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 11
     }
@@ -6184,7 +6184,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "FLOSSTRADAMUS",
@@ -6214,7 +6214,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 141
     },
@@ -8190,7 +8190,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "FLOSSTRADAMUS",
@@ -8220,7 +8220,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 141
     },
@@ -8585,11 +8585,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 39
     }
@@ -8772,11 +8772,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 39
     },
@@ -10448,7 +10448,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "UP10M'S PUBLISHING",
@@ -10462,7 +10462,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 34
     }
@@ -13125,11 +13125,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 42
     }
@@ -15198,7 +15198,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "PAYDAY TUNES CANADA",
@@ -15212,7 +15212,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 18
     }
@@ -18162,7 +18162,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "SONGTRUST BLVD",
@@ -18174,7 +18174,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 7
     }
@@ -18265,11 +18265,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 8
     }
@@ -18365,11 +18365,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 8
     }
@@ -18467,11 +18467,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 7
     }
@@ -18562,11 +18562,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 6
     }
@@ -18687,11 +18687,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 8
     }
@@ -18782,11 +18782,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 6
     }
@@ -18877,11 +18877,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 7
     }
@@ -18975,11 +18975,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 52
     }
@@ -21149,11 +21149,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 9
     }
@@ -21232,11 +21232,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 9
     }
@@ -21326,11 +21326,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 7
     }
@@ -21413,11 +21413,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 6
     }
@@ -21500,11 +21500,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 11
     }
@@ -21594,11 +21594,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 8
     }
@@ -21677,11 +21677,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 4
     }
@@ -21778,11 +21778,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 5
     }
@@ -21868,11 +21868,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 9
     }
@@ -21951,11 +21951,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 9
     }
@@ -22034,11 +22034,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 8
     }
@@ -22135,11 +22135,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 6
     }
@@ -23624,11 +23624,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 9
     }
@@ -23786,11 +23786,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -24167,7 +24167,7 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "Todd Norman",
@@ -24179,7 +24179,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 33
     }
@@ -24297,7 +24297,7 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "KELLAN PUBLISHING",
@@ -24309,7 +24309,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 32
     },
@@ -24390,7 +24390,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "KELLAN PUBLISHING",
@@ -24402,7 +24402,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 3
     }
@@ -24488,11 +24488,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 30
     },
@@ -24545,11 +24545,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -24635,11 +24635,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 31
     },
@@ -24692,11 +24692,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -24793,11 +24793,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 27
     },
@@ -24857,11 +24857,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -24963,11 +24963,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 28
     }
@@ -25053,11 +25053,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 30
     },
@@ -25110,11 +25110,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -25238,11 +25238,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 26
     }
@@ -25429,11 +25429,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 39
     },
@@ -25659,11 +25659,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 20
     }
@@ -25790,7 +25790,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "WARNER-TAMERLANE PUBLISHING CORP.",
@@ -25805,7 +25805,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 55
     }
@@ -25902,11 +25902,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 52
     }
@@ -26072,7 +26072,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "UP10M'S PUBLISHING",
@@ -26096,7 +26096,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 51
     }
@@ -27637,11 +27637,11 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 39
     },
@@ -28735,7 +28735,7 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "SONGS OF UNIVERSAL, INC.",
@@ -28761,7 +28761,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 36
     }
@@ -29803,7 +29803,7 @@
         "ROBERT III DAVIS"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "SONGS OF UNIVERSAL, INC.",
@@ -29831,7 +29831,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": true,
      "recording_count": 29
     }
@@ -31030,7 +31030,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "THESE ARE PULSE SONGS",
@@ -31044,7 +31044,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -31478,7 +31478,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "THESE ARE PULSE SONGS",
@@ -31492,7 +31492,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -31568,7 +31568,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "THESE ARE PULSE SONGS",
@@ -31582,7 +31582,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -31668,11 +31668,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -31748,7 +31748,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "THESE ARE PULSE SONGS",
@@ -31762,7 +31762,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -31852,11 +31852,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -31932,7 +31932,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "THESE ARE PULSE SONGS",
@@ -31946,7 +31946,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32032,11 +32032,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32122,11 +32122,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32216,11 +32216,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32300,7 +32300,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "THESE ARE PULSE SONGS",
@@ -32314,7 +32314,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32400,11 +32400,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32542,11 +32542,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32641,11 +32641,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32747,11 +32747,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32846,11 +32846,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -32952,11 +32952,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -33048,7 +33048,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "THESE ARE PULSE SONGS",
@@ -33062,7 +33062,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -33165,11 +33165,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -33261,7 +33261,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "THESE ARE PULSE SONGS",
@@ -33275,7 +33275,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -33370,11 +33370,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -33476,11 +33476,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -33575,11 +33575,11 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -33664,7 +33664,7 @@
         "ROBERT DAVIS IIII"
        ],
        "attributable": true,
-       "artist_named_entity": true
+       "artist_named_entity": false
       },
       {
        "publisher": "THESE ARE PULSE SONGS",
@@ -33678,7 +33678,7 @@
       }
      ],
      "attributable": true,
-     "artist_named_entity": true,
+     "artist_named_entity": false,
      "linked": false,
      "recording_count": 0
     }
@@ -36777,6 +36777,7 @@
   "writer_directory": [],
   "works": []
  },
+ "gmr_verified_catalog_matches": null,
  "queries": [
   {
    "key": "control",
