@@ -2,87 +2,778 @@
  "prepared": "2026-11-02",
  "metadata": {
   "artist": "Yung Wolf",
-  "recordings": 66,
-  "own": 64,
-  "features": 2,
+  "recordings": 75,
+  "own": 65,
+  "features": 10,
   "statuses": {
-   "missing": 35,
-   "credit": 24,
+   "missing": 41,
+   "credit": 26,
    "open": 3,
-   "pending": 2,
+   "pending": 3,
    "unlinked": 2
   },
-  "checked": 66,
+  "checked": 74,
   "writer_compositions": 5,
   "writer_recordings": 5,
   "attributed_compositions": 0,
   "gap_compositions": 5,
   "entity_pending_compositions": 0,
-  "label_legal_writer_recordings": 41,
-  "label_writer_recordings": 41,
-  "plays_observed": 629669,
-  "plays_observed_tracks": 10,
+  "label_legal_writer_recordings": 42,
+  "label_writer_recordings": 42,
+  "plays_observed": 1377268,
+  "plays_observed_tracks": 71,
   "monthly_listeners": 5482,
-  "excluded_identity": 141
+  "excluded_identity": 143,
+  "stream_unavailable": 4,
+  "exposure_groups": 71,
+  "raw_recording_stream_sum": 1581745,
+  "overlap_adjustment": 204477,
+  "platform_minima": {
+   "YouTube Views": 6871906,
+   "SoundCloud Streams": 0,
+   "Pandora Streams": 1171812,
+   "Shazam Count": 8853
+  },
+  "platform_coverage": {
+   "YouTube Views": 36,
+   "SoundCloud Streams": 0,
+   "Pandora Streams": 43,
+   "Shazam Count": 31
+  },
+  "stream_basis": "Complete Chartmetric export by exact ISRC, supplemented with exact-ISRC Spotify track counters. Headline is a conservative minimum: maximum available Spotify counter per normalized title + credited artist set; remix/speed/version words are retained. All ISRCs remain in the ledger. Counters can overlap across reissues and platform-linked versions; headline is not a precise all-time royalty statement. Missing counters are excluded, never replaced with zero."
  },
  "identity_basis": "Instagram @yungwolf_1, the Wolfpack Global Music releases and the verified Spotify profile agree. Label metadata alternates Maricus Taylor and Maricus Traylor. The preferred legal spelling and primary IPI remain to be verified.",
- "spotify_basis": "Read from Spotify artist Popular tables in the browser. Counts are sampled lifetime recording plays, not total catalog exposure. Null means no readable counter, not zero.",
- "spotify_sample": {
-  "artist_id": "12wAA2EoMsNYtnTqEvn1y0",
-  "monthly_listeners": 5482,
-  "tracks": [
-   [
-    "Motion",
-    "4M6od0ahx7DVKwV7AfAmZN",
-    322750
-   ],
-   [
-    "WAZZAM",
-    "6OlC7iC9O9RJJ5QIxKMvV6",
-    50236
-   ],
-   [
-    "DON'T SAY NUN",
-    "6mjHoVd8s97JUSkAZzwjsD",
-    164997
-   ],
-   [
-    "GRIEVING & GRINDING",
-    "577HCDiQG6ISAfMhePd0ly",
-    31770
-   ],
-   [
-    "WHATCHU GONE DO",
-    "07wFy6PVZBzf7sSgiQp4Lr",
-    9035
-   ],
-   [
-    "HOLD DA PAIN IN",
-    "2pdywY8rmpE1nJEsq1pJ5l",
-    13849
-   ],
-   [
-    "CHOSEN CHILD",
-    "2GvwalwntP5hJiKzRwQeXL",
-    3903
-   ],
-   [
-    "CALL FROM HEAVEN",
-    "4m4h5EDBU7oOZ5PhHXjtGm",
-    2631
-   ],
-   [
-    "LEARN YA LESSON",
-    "2l3HvGDJRtRHAlaFcCKxU2",
-    20962
-   ],
-   [
-    "SO FAR",
-    "5PgChd70dB6P1djF0vdttr",
-    9536
-   ]
-  ]
+ "streaming_basis": "Complete Chartmetric export by exact ISRC, supplemented with exact-ISRC Spotify track counters. Headline is a conservative minimum: maximum available Spotify counter per normalized title + credited artist set; remix/speed/version words are retained. All ISRCs remain in the ledger. Counters can overlap across reissues and platform-linked versions; headline is not a precise all-time royalty statement. Missing counters are excluded, never replaced with zero.",
+ "chartmetric_provenance": {
+  "downloaded": "2026-11-02",
+  "artist": "Yung Wolf",
+  "profile_id": 10166728,
+  "export_rows": 78,
+  "unique_isrcs": 78,
+  "prior_catalog": 66,
+  "merged_catalog": 79,
+  "blank_streams": 9,
+  "basis": "Native Download CSV from complete Tracks table; exported rows include recording versions nested under grouped UI entries. Blank fields are missing source data, never zero."
  },
+ "identity_review": [
+  {
+   "song": "No Worriez (feat. Yung Wolf & Brizzle Worrell)",
+   "isrc": "QZDA61845910",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/4XVWctwRAKAUV0cLhEVl9R. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "La Noche",
+   "isrc": "TCADZ1804273",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Crescendo (feat. Yung Wolf)",
+   "isrc": "QZES81852509",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/1U0WnOD3YhhK97h7gj1Ra5. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "Fiend",
+   "isrc": "QZDA51965843",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Samurai (feat. J. Serve, Ant! Foreign, Ivan L & Yung Wolf)",
+   "isrc": "QZDA71959629",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/1U0WnOD3YhhK97h7gj1Ra5. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "King",
+   "isrc": "QZES51933738",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Lost Souls (feat. Abksteph)",
+   "isrc": "QZES51933739",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Jack the Ripper",
+   "isrc": "QZES51933740",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Gang",
+   "isrc": "QZES51933741",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Novacane (Interlude)",
+   "isrc": "QZES51933742",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Talkin'",
+   "isrc": "QZES51933743",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "School of Rock",
+   "isrc": "QZES51933744",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Death Pit",
+   "isrc": "QZES51933745",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "3900 (feat. Mushawn Knowles)",
+   "isrc": "QZES51933746",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Thrax",
+   "isrc": "QZES51933747",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Geekin' (feat. Ghoulavelii)",
+   "isrc": "QZES51933748",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Paw Patrol",
+   "isrc": "QZFZ21925091",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Rich Shit (feat. Sleepyq & Yung Wolf)",
+   "isrc": "QZFZ71957767",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/1U0WnOD3YhhK97h7gj1Ra5. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "6ixftdeep (feat. Yung Wolf)",
+   "isrc": "QZFZ71957769",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/1U0WnOD3YhhK97h7gj1Ra5. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "Ugly Mob (feat. Dom, VCR James, Kid Genius, BC, Yung Wolf, Pewdiepie & the Hawk)",
+   "isrc": "QZFZ71957778",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/1U0WnOD3YhhK97h7gj1Ra5. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "Private Jet",
+   "isrc": "QZHN51956559",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "SOS",
+   "isrc": "QZHN51956560",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Rude Boy (feat. Ghoulavelii)",
+   "isrc": "QZHN51956561",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Death in Tune",
+   "isrc": "QZHN51956562",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Niggas Lame (feat. Ghoulavelii)",
+   "isrc": "QZHN51956563",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Expensive",
+   "isrc": "QZFYZ2061201",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Rack That Up",
+   "isrc": "QZFYZ2061202",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Kenny G",
+   "isrc": "QZFYZ2061203",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Mood Swings",
+   "isrc": "QZFYZ2061204",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "No Fear",
+   "isrc": "QZFYZ2061205",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Up All Night (feat. Baja Boy)",
+   "isrc": "QZFYZ2061206",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Game Over",
+   "isrc": "QZFYZ2061207",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Hollywood Heath (Intro)",
+   "isrc": "QZHNB2017201",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Run Away",
+   "isrc": "QZHNB2017202",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Fuck It Up Bae",
+   "isrc": "QZHNB2017203",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Lock Jaw",
+   "isrc": "QZHN72039817",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "LA Life 4 Me",
+   "isrc": "QZHNB2017204",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Talk 2 Me Nice (feat. Noah)",
+   "isrc": "QZHNB2017205",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "San Fran (21 Models)",
+   "isrc": "QZHNB2017206",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Overdose (Interlude)",
+   "isrc": "QZHNB2017207",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Sad As Fuck (Self Destruct)",
+   "isrc": "QZHNB2017209",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Vampire",
+   "isrc": "QZHNB2017210",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Whatchu On",
+   "isrc": "QZHNB2017211",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Bad Romance",
+   "isrc": "QZES62006762",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Chose Up",
+   "isrc": "QZHN92093106",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "If I Fall",
+   "isrc": "QZHNB2017212",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "27 Club",
+   "isrc": "QZHNB2017213",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Teen XTC (Intro)",
+   "isrc": "QZES52134292",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Screamin' Yeah",
+   "isrc": "QZES52134293",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "WGF (White Girl Fantasy)",
+   "isrc": "QZES52134294",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Lust (feat. Shawn Parker)",
+   "isrc": "QZES52134295",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Be the 1",
+   "isrc": "QZES52134296",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Up Now (feat. Walt.)",
+   "isrc": "QZES52134297",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Casanova",
+   "isrc": "QZES52134298",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Smells Like Teen Spirit (Interlude)",
+   "isrc": "QZES52134299",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Teen Spirit",
+   "isrc": "QZES52134300",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Eren Yeager",
+   "isrc": "QZES52134301",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Love Sick",
+   "isrc": "QZES52134302",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "MIA",
+   "isrc": "QZES52134303",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "LA Nights",
+   "isrc": "QZES52134304",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "PARADOX",
+   "isrc": "QZHN82190449",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "TAKE OFF",
+   "isrc": "QZHN82190450",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "HAUS MUZIK",
+   "isrc": "QZHN82190452",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "MY BLOOD",
+   "isrc": "QZHN82190454",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "BEGINNINGS",
+   "isrc": "QZHN82190456",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "BLACK SAMURAI",
+   "isrc": "QZHN82190458",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "TELL EM",
+   "isrc": "QZHN82190460",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "LAST DROP",
+   "isrc": "QZHN82190462",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Flawless (feat. Yung Wolf)",
+   "isrc": "QZK6M2146936",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/4EH8pGMNwvGjCgbd2fmQXJ. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "LENNY KRAVITZ (feat. Yung Wolf)",
+   "isrc": "QZNWW2162030",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "The Explanation (Intro)",
+   "isrc": "QZRP42180968",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Highs & Lows",
+   "isrc": "QZRP42180969",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Slip 'N Slide",
+   "isrc": "QZRP42180970",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Fashion Week (feat. Yeat)",
+   "isrc": "QZRP42180971",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "LA 2 London",
+   "isrc": "QZRP42180972",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "I Wanna Party",
+   "isrc": "QZRP42180973",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Dementia (Barely)",
+   "isrc": "QZRP42180974",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Demon Time",
+   "isrc": "QZRP42180975",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "This or That",
+   "isrc": "QZRP42180976",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Tesla",
+   "isrc": "QZRP42180977",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Boy Toy (Interlude)",
+   "isrc": "QZRP42180978",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Emotionally Stressed",
+   "isrc": "QZRP42180979",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Innocence",
+   "isrc": "QZRP42180980",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "4 U",
+   "isrc": "QZRP42180981",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "2 Long",
+   "isrc": "QZRP42180982",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "All Boys Wear P!NK",
+   "isrc": "QZRP42180983",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Save Me (feat. Noah)",
+   "isrc": "QZK6G2213377",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "AGIRLISAGUN \ufe3b\u30c7\u2550\u4e00 (feat. Yung Wolf)",
+   "isrc": "QZK6G2282592",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/27gPbWnoWp4klWhkPVOA9H, /artist/27gPbWnoWp4klWhkPVOA9H/discography/album. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "The Breakup / 2 High 4 Love",
+   "isrc": "QZPLS2265565",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Heartbreaker",
+   "isrc": "QZPLS2265566",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "X",
+   "isrc": "QZPLS2265567",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "In da Club",
+   "isrc": "QZPLS2265568",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Elon (feat. Vyne)",
+   "isrc": "QZPLS2265569",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "On 1",
+   "isrc": "QZPLS2265570",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "MDMA (Interlude)",
+   "isrc": "QZPLS2265571",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Des!gner Drugs",
+   "isrc": "QZPLS2265572",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "NarcotiX",
+   "isrc": "QZPLS2265573",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Junky Love (Sid & Nancy)",
+   "isrc": "QZPLS2265574",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Dirt",
+   "isrc": "QZPLS2265575",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Hidden Hills",
+   "isrc": "QZPLS2265576",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Po' Me Up",
+   "isrc": "QZPLS2265577",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Des!gner Life",
+   "isrc": "QZPLS2265578",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "I'm/Him",
+   "isrc": "QZHNA2337288",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Lovely",
+   "isrc": "QZMEP2396517",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "CAN'T+FORGET (feat. Yung Wolf)",
+   "isrc": "QZMER2337362",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/27gPbWnoWp4klWhkPVOA9H, /artist/27gPbWnoWp4klWhkPVOA9H/discography/album. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "Loads Coming In (feat. Yung Wolf)",
+   "isrc": "QZRP52398592",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/0A2jF0U9yC9K5WienxumRb. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "Demon (feat. Yung Wolf)",
+   "isrc": "QZTAT2320263",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/27gPbWnoWp4klWhkPVOA9H. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "Iced Out (feat. Yung Wolf)",
+   "isrc": "QZTAT2320268",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/27gPbWnoWp4klWhkPVOA9H, /artist/27gPbWnoWp4klWhkPVOA9H/discography/album. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "juliet must die (feat. Jammabands)",
+   "isrc": "QZTAX2301537",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "tour life/miss u",
+   "isrc": "QZTAX2301538",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "face em",
+   "isrc": "QZTAX2301539",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "make it hurt",
+   "isrc": "QZTAX2301540",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "forbidden fruit",
+   "isrc": "QZTAX2301541",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "ZIPLOC (feat. Yung Wolf)",
+   "isrc": "QZTBD2321580",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "Where bouts",
+   "isrc": "QZPLR2368613",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/66ZrlddtGtSFo4SE5P8bMr. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "lemme hold U?",
+   "isrc": "QZTBD2415016",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "#southsidehomecoming (feat. Yung Wolf)",
+   "isrc": "QZWFJ2471818",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/27gPbWnoWp4klWhkPVOA9H, /artist/27gPbWnoWp4klWhkPVOA9H/discography/album. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "Bunda (feat. Fheezy & Yung wolf)",
+   "isrc": "QZDA62479308",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/1QhZaIJQT4aKhoa23jtH8B. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "INTRO",
+   "isrc": "QT3FH2575829",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "GUTS",
+   "isrc": "QT3FH2575830",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "CALLIN'",
+   "isrc": "QT3FH2575831",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "MAIN HOE",
+   "isrc": "QT3FH2575832",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "HAPPY HOUSE",
+   "isrc": "QT3FH2575833",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "MEANT 2 B",
+   "isrc": "QT3FH2575834",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "LETTER 2 NOAH (RIP NEZ)",
+   "isrc": "QT3FH2575835",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "FINISH THEM (INTERLUDE)",
+   "isrc": "QT3FH2575836",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "LOST MY MIND",
+   "isrc": "QT3FH2575837",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "LOVE/HATE ME",
+   "isrc": "QT3FH2575838",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "BODY",
+   "isrc": "QT3FH2575839",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "FUCK & 4GET",
+   "isrc": "QT3FH2575840",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "HEAVEN",
+   "isrc": "QT3FH2575841",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "SAME BENZ",
+   "isrc": "QT3FH2575842",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "FREE KE",
+   "isrc": "QT3FH2575843",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "STILL LOVE YA",
+   "isrc": "QT3FH2575844",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "WALK IT OFF",
+   "isrc": "QT3FH2575845",
+   "reason": "Same-name DSP profile contamination or unverified feature identity; excluded from reviewed catalog totals"
+  },
+  {
+   "song": "7PACK (feat. Yung wolf)",
+   "isrc": "QT6G52535497",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/7G8FD4IQyj3G1LJnOpDR0u. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "Be Honest (feat. Yung Wolf)",
+   "isrc": "QT6EG2617154",
+   "reason": "Exact-ISRC Spotify recording credits another Yung Wolf artist profile: /artist/2u6p3kibaXtUtfqEDbONV4. Not the supplied artist profile 12wAA2EoMsNYtnTqEvn1y0."
+  },
+  {
+   "song": "Love",
+   "isrc": "GBSMU3556470",
+   "reason": "Historical Team 5Hunna association in Chartmetric, absent from current Spotify ISRC search and Deezer ISRC lookup. Client performer identity unconfirmed; retained visibly for identity review."
+  },
+  {
+   "song": "Brothers Keeper",
+   "isrc": "GBSMU3556472",
+   "reason": "Historical Team 5Hunna association in Chartmetric, absent from current Spotify ISRC search and Deezer ISRC lookup. Client performer identity unconfirmed; retained visibly for identity review."
+  },
+  {
+   "song": "Real Life",
+   "isrc": "GBSMU3556469",
+   "reason": "Historical Team 5Hunna association in Chartmetric, absent from current Spotify ISRC search and Deezer ISRC lookup. Client performer identity unconfirmed; retained visibly for identity review."
+  },
+  {
+   "song": "Brothers",
+   "isrc": "GBSMU3556471",
+   "reason": "Historical Team 5Hunna association in Chartmetric, absent from current Spotify ISRC search and Deezer ISRC lookup. Client performer identity unconfirmed; retained visibly for identity review."
+  },
+  {
+   "song": "Drugz",
+   "isrc": "GBSMU3556476",
+   "reason": "Historical Team 5Hunna association in Chartmetric, absent from current Spotify ISRC search and Deezer ISRC lookup. Client performer identity unconfirmed; retained visibly for identity review."
+  },
+  {
+   "song": "MARGIELA / MAD (feat. Yung Wolf)",
+   "isrc": "QZFZ22592588",
+   "reason": "The same ISRC is linked to both the Atlanta client profile and Tacoma artist profile on Spotify. Recording identity unresolved; 1,560 visible plays excluded from the client exposure minimum."
+  }
+ ],
+ "gmr_full_title_review": null,
+ "gmr_full_title_sweep": null,
  "rows": [
   {
    "isrc": "QZGH81900149",
@@ -105,6 +796,16 @@
     "Yung Wolf"
    ],
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Cryin Laughin",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "140532",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "126180",
+    "Shazam Count": "875"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -117,8 +818,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 140532,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 126180,
+    "Shazam Count": 875
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "CRYINLAUGHIN|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900155",
@@ -142,6 +851,16 @@
    "source": "own",
    "duration": 154,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Active",
+    "Artist": "TakeGod, Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "2584",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Take God",
     "Yung Wolf"
@@ -155,8 +874,13 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 2584,
+   "spotify_id": null,
+   "stream_platforms": {},
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "ACTIVE|TAKEGOD|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900154",
@@ -179,6 +903,16 @@
     "Yung Wolf"
    ],
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "BOX TRUCK",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "6403",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "35200",
+    "Shazam Count": "151"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -273,8 +1007,16 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 6403,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 35200,
+    "Shazam Count": 151
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BOXTRUCK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900158",
@@ -294,6 +1036,16 @@
    "source": "own",
    "duration": 145,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Billionaire Goals",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "28095",
+    "YouTube Views": "1260275",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "78",
+    "Shazam Count": "918"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -306,8 +1058,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 28095,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 1260275,
+    "Pandora Streams": 78,
+    "Shazam Count": 918
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BILLIONAIREGOALS|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900159",
@@ -327,6 +1088,16 @@
    "source": "own",
    "duration": 176,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Because Of Me",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "5792",
+    "YouTube Views": "263543",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "41",
+    "Shazam Count": "276"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -339,8 +1110,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 5792,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 263543,
+    "Pandora Streams": 41,
+    "Shazam Count": 276
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BECAUSEOFME|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900160",
@@ -360,6 +1140,16 @@
    "source": "own",
    "duration": 145,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Remember Me",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "3270",
+    "YouTube Views": "80743",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "42",
+    "Shazam Count": "98"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -372,8 +1162,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 3270,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 80743,
+    "Pandora Streams": 42,
+    "Shazam Count": 98
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "REMEMBERME|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900161",
@@ -393,6 +1192,16 @@
    "source": "own",
    "duration": 118,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Hard Nights",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "2298",
+    "YouTube Views": "1074",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "90",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -405,8 +1214,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 2298,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 1074,
+    "Pandora Streams": 90
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "HARDNIGHTS|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900162",
@@ -426,6 +1243,16 @@
    "source": "own",
    "duration": 107,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Turn Into A Memory",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "2859",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "47",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -438,8 +1265,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 2859,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 47
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "TURNINTOAMEMORY|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900163",
@@ -459,6 +1293,16 @@
    "source": "own",
    "duration": 106,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "TshirtCameFromRoss",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "2297",
+    "YouTube Views": "566",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "12",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -471,8 +1315,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 2297,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 566,
+    "Pandora Streams": 12
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "TSHIRTCAMEFROMROSS|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900164",
@@ -492,6 +1344,16 @@
    "source": "own",
    "duration": 121,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "It's Yung",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "3125",
+    "YouTube Views": "149933",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "60",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -559,8 +1421,16 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 3125,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 149933,
+    "Pandora Streams": 60
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "ITSYUNG|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900165",
@@ -580,6 +1450,16 @@
    "source": "own",
    "duration": 124,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Wolf Atlanta",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "13509",
+    "YouTube Views": "709",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "151",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -592,8 +1472,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 13509,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 709,
+    "Pandora Streams": 151
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WOLFATLANTA|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900166",
@@ -613,6 +1501,16 @@
    "source": "own",
    "duration": 151,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Half Of Them",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "2396",
+    "YouTube Views": "224633",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "34",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -625,8 +1523,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 2396,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 224633,
+    "Pandora Streams": 34
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "HALFOFTHEM|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900167",
@@ -646,6 +1552,16 @@
    "source": "own",
    "duration": 179,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Swap You Out",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "1743",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "72",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -713,8 +1629,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1743,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 72
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SWAPYOUOUT|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900168",
@@ -734,6 +1657,16 @@
    "source": "own",
    "duration": 109,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Motion",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "320683",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "18"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -746,9 +1679,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 322750,
-   "spotify_id": "4M6od0ahx7DVKwV7AfAmZN",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 320683,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 18
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "MOTION|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900169",
@@ -772,6 +1711,16 @@
    "source": "own",
    "duration": 157,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "I Am That",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "55801",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "55481",
+    "Shazam Count": "318"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -818,8 +1767,16 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 55801,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 55481,
+    "Shazam Count": 318
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "IAMTHAT|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900170",
@@ -839,6 +1796,16 @@
    "source": "own",
    "duration": 105,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Long Way From Lee Street",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "1567",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "81",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -906,8 +1873,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1567,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 81
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "LONGWAYFROMLEESTREET|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900171",
@@ -927,6 +1901,16 @@
    "source": "own",
    "duration": 124,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "On My Trail",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "1886",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "17",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -994,8 +1978,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1886,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 17
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "ONMYTRAIL|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900172",
@@ -1015,6 +2006,16 @@
    "source": "own",
    "duration": 123,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "The Family",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "2260",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "6",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -1027,8 +2028,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 2260,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 6
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "THEFAMILY|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900230",
@@ -1048,6 +2056,16 @@
    "source": "own",
    "duration": 148,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Give N Go",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "6778",
+    "YouTube Views": "134607",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "63837",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -1060,8 +2078,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 6778,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 134607,
+    "Pandora Streams": 63837
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GIVENGO|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900232",
@@ -1081,6 +2107,16 @@
    "source": "own",
    "duration": 120,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Came To Do",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "946"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -1093,8 +2129,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 6590,
+   "spotify_id": "2kkJl4iUVwex92WecPfUZq",
+   "stream_platforms": {
+    "Shazam Count": 946
+   },
+   "spotify_match_basis": "Spotify exact-ISRC search and visible track counter, 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "CAMETODO|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900235",
@@ -1118,6 +2161,16 @@
    "source": "own",
    "duration": 137,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Let Me See It",
+    "Artist": "Yung Wolf, Gloss Up",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "22684",
+    "YouTube Views": "6866",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "585"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -1130,8 +2183,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 22684,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 6866,
+    "Shazam Count": 585
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "LETMESEEIT|GLOSSUP|YUNGWOLF"
   },
   {
    "isrc": "QZZ782498989",
@@ -1155,6 +2216,16 @@
    "source": "feature",
    "duration": 167,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "BP",
+    "Artist": "1of1lee, Yung Wolf",
+    "Record Label": "33rdSounds",
+    "Spotify Streams": "5972",
+    "YouTube Views": "14479",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "230"
+   },
    "writers_label": [
     "Khyli Lamont Denson"
    ],
@@ -1167,8 +2238,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 5972,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 14479,
+    "Shazam Count": 230
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BP|1OF1LEE|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900237",
@@ -1188,6 +2267,16 @@
    "source": "own",
    "duration": 137,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Made Me",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "1567",
+    "YouTube Views": "626179",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "633"
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -1253,8 +2342,16 @@
    "status": "open",
    "writer_proven": true,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1567,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 626179,
+    "Shazam Count": 633
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "MADEME|YUNGWOLF"
   },
   {
    "isrc": "AUGBT2513276",
@@ -1274,6 +2371,16 @@
    "source": "own",
    "duration": 160,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Don't Bother Me",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "2815",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "127",
+    "Shazam Count": "468"
+   },
    "writers_label": [
     "Maricus Traylor"
    ],
@@ -1379,8 +2486,16 @@
    "status": "open",
    "writer_proven": true,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 2815,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 127,
+    "Shazam Count": 468
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "DONTBOTHERME|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900227",
@@ -1404,6 +2519,16 @@
    "source": "own",
    "duration": 174,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Shining",
+    "Artist": "Yung Wolf, Young Scooter",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "24758",
+    "YouTube Views": "123066",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "84",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -1487,8 +2612,16 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 24758,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 123066,
+    "Pandora Streams": 84
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SHINING|YOUNGSCOOTER|YUNGWOLF"
   },
   {
    "isrc": "AUGBT2553218",
@@ -1508,6 +2641,16 @@
    "source": "own",
    "duration": 152,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Cost",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "11181",
+    "YouTube Views": "741202",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "45",
+    "Shazam Count": "382"
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -1520,8 +2663,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 11181,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 741202,
+    "Pandora Streams": 45,
+    "Shazam Count": 382
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "COST|YUNGWOLF"
   },
   {
    "isrc": "AUMEV2546727",
@@ -1541,6 +2693,16 @@
    "source": "own",
    "duration": 159,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "No Emotions",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "12827",
+    "YouTube Views": "602194",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "46",
+    "Shazam Count": "973"
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -1590,8 +2752,17 @@
    "status": "pending",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 12827,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 602194,
+    "Pandora Streams": 46,
+    "Shazam Count": 973
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "NOEMOTIONS|YUNGWOLF"
   },
   {
    "isrc": "AUGBT2528666",
@@ -1611,6 +2782,16 @@
    "source": "own",
    "duration": 108,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "SPED",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "5818",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "34",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -1623,8 +2804,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 5818,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 34
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SPED|YUNGWOLF"
   },
   {
    "isrc": "AUGBT2535417",
@@ -1648,6 +2836,16 @@
    "source": "own",
    "duration": 148,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "BP",
+    "Artist": "Yung Wolf, Hollywood Yc",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "1123",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "622",
+    "Shazam Count": "46"
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -1660,8 +2858,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1123,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 622,
+    "Shazam Count": 46
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BP|HOLLYWOODYC|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2673741",
@@ -1685,6 +2891,16 @@
    "source": "own",
    "duration": 236,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "WHATCHU GONE DO",
+    "Artist": "Yung Wolf, Skooly",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "8097",
+    "YouTube Views": "9151",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "89",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor",
     "Kazarion Fowler"
@@ -1698,9 +2914,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 9035,
-   "spotify_id": "07wFy6PVZBzf7sSgiQp4Lr",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 8097,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 9151,
+    "Pandora Streams": 89
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WHATCHUGONEDO|SKOOLY|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2613020",
@@ -1723,6 +2946,16 @@
     "Full Moon"
    ],
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "EVERLAST",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "2864",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "124",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -1735,8 +2968,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 2864,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 124
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "EVERLAST|YUNGWOLF"
   },
   {
    "isrc": "AUMEV2371796",
@@ -1764,6 +3004,16 @@
    "source": "own",
    "duration": 227,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Chanel Track Shoes",
+    "Artist": "Yung Wolf, Action Pack, Wee2Hard",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "40383",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "246"
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -1810,8 +3060,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 40383,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 246
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "CHANELTRACKSHOES|ACTIONPACK|WEE2HARD|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900225",
@@ -1831,6 +3088,16 @@
    "source": "own",
    "duration": 115,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Paper Planes",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "28402",
+    "YouTube Views": "144107",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Yung Wolf"
    ],
@@ -1843,8 +3110,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 28402,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 144107
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "PAPERPLANES|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900208",
@@ -1871,6 +3145,16 @@
     "Wolf Pack"
    ],
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "We On",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "9058",
+    "YouTube Views": "131140",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "128"
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -1917,8 +3201,16 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 9058,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 131140,
+    "Shazam Count": 128
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WEON|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "AUGBT2501315",
@@ -1938,6 +3230,16 @@
    "source": "own",
    "duration": 129,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Printed by The Pack",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "23952",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "74",
+    "Shazam Count": "211"
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2011,8 +3313,16 @@
    "status": "open",
    "writer_proven": true,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 23952,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 74,
+    "Shazam Count": 211
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "PRINTEDBYTHEPACK|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2621773",
@@ -2035,6 +3345,16 @@
     "Full Moon"
    ],
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "HOLD DA PAIN IN",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "13836",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "186",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2095,9 +3415,15 @@
    "status": "unlinked",
    "writer_proven": true,
    "attributable": false,
-   "plays": 13849,
-   "spotify_id": "2pdywY8rmpE1nJEsq1pJ5l",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 13836,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 186
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "HOLDDAPAININ|YUNGWOLF"
   },
   {
    "isrc": "CH7812685787",
@@ -2121,6 +3447,16 @@
    "source": "own",
    "duration": 202,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "DON'T SAY NUN",
+    "Artist": "Yung Wolf, Rylo Rodriguez",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "164094",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2209,9 +3545,13 @@
    "status": "pending",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
+   "plays": 164094,
    "spotify_id": null,
-   "spotify_version_ambiguous": true
+   "stream_platforms": {},
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "DONTSAYNUN|RYLORODRIGUEZ|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628356",
@@ -2231,6 +3571,16 @@
    "source": "own",
    "duration": 160,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "CALL FROM HEAVEN",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "2577",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "359",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2243,9 +3593,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 2631,
-   "spotify_id": "4m4h5EDBU7oOZ5PhHXjtGm",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 2577,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 359
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "CALLFROMHEAVEN|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628358",
@@ -2265,6 +3621,16 @@
    "source": "own",
    "duration": 154,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "GRIEVING & GRINDING",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "31692",
+    "YouTube Views": "22636",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "388",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2277,9 +3643,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 31770,
-   "spotify_id": "577HCDiQG6ISAfMhePd0ly",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 31692,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 22636,
+    "Pandora Streams": 388
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GRIEVINGGRINDING|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628362",
@@ -2299,6 +3672,16 @@
    "source": "own",
    "duration": 133,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "BY 2MR",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "7929",
+    "YouTube Views": "3969",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "467",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2373,8 +3756,16 @@
    "status": "unlinked",
    "writer_proven": true,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 7929,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 3969,
+    "Pandora Streams": 467
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BY2MR|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628366",
@@ -2394,6 +3785,16 @@
    "source": "own",
    "duration": 151,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "CHOSEN CHILD",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "3896",
+    "YouTube Views": "173412",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "815",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2406,9 +3807,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 3903,
-   "spotify_id": "2GvwalwntP5hJiKzRwQeXL",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 3896,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 173412,
+    "Pandora Streams": 815
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "CHOSENCHILD|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628368",
@@ -2428,6 +3836,16 @@
    "source": "own",
    "duration": 141,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "WAZZAM",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "50111",
+    "YouTube Views": "334706",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "820",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2440,9 +3858,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 50236,
-   "spotify_id": "6OlC7iC9O9RJJ5QIxKMvV6",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 50111,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 334706,
+    "Pandora Streams": 820
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WAZZAM|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628381",
@@ -2462,6 +3887,16 @@
    "source": "own",
    "duration": 145,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "FOR SUM",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "2382",
+    "YouTube Views": "388929",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "127",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2474,8 +3909,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 2382,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 388929,
+    "Pandora Streams": 127
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "FORSUM|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628369",
@@ -2495,6 +3938,16 @@
    "source": "own",
    "duration": 164,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "SONG FOR YOU",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "1793",
+    "YouTube Views": "222955",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "96",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2507,8 +3960,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1793,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 222955,
+    "Pandora Streams": 96
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SONGFORYOU|YUNGWOLF"
   },
   {
    "isrc": "AUGBT2571510",
@@ -2532,6 +3993,16 @@
    "source": "own",
    "duration": 202,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Don't Say Nun",
+    "Artist": "Yung Wolf, Rylo Rodriguez",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "164920",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "881956",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2620,9 +4091,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
+   "plays": 164920,
    "spotify_id": null,
-   "spotify_version_ambiguous": true
+   "stream_platforms": {
+    "Pandora Streams": 881956
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "DONTSAYNUN|RYLORODRIGUEZ|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628373",
@@ -2642,6 +4119,16 @@
    "source": "own",
    "duration": 141,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "GOTTA MAKE EM PAY",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "1903",
+    "YouTube Views": "2212",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "160",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2654,8 +4141,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1903,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 2212,
+    "Pandora Streams": 160
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GOTTAMAKEEMPAY|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628375",
@@ -2679,6 +4174,16 @@
    "source": "own",
    "duration": 216,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "LEARN YA LESSON",
+    "Artist": "Yung Wolf, YFN Lucci",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "20952",
+    "YouTube Views": "2810",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "1006",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2691,9 +4196,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 20962,
-   "spotify_id": "2l3HvGDJRtRHAlaFcCKxU2",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 20952,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 2810,
+    "Pandora Streams": 1006
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "LEARNYALESSON|YFNLUCCI|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628376",
@@ -2713,6 +4225,16 @@
    "source": "own",
    "duration": 163,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "SCARRED FOREVER",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "1756",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "43",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2725,8 +4247,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1756,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 43
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SCARREDFOREVER|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628377",
@@ -2750,6 +4279,16 @@
    "source": "own",
    "duration": 158,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "WRONG AT TIMES",
+    "Artist": "Yung Wolf, Lil Yachty",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "4444",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "518",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2762,8 +4301,15 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 4444,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 518
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WRONGATTIMES|LILYACHTY|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628378",
@@ -2783,6 +4329,16 @@
    "source": "own",
    "duration": 144,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "BACK IN MY BAG",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "1743",
+    "YouTube Views": "203987",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "484",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2795,8 +4351,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1743,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 203987,
+    "Pandora Streams": 484
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BACKINMYBAG|YUNGWOLF"
   },
   {
    "isrc": "AUQ9D2628380",
@@ -2816,6 +4380,16 @@
    "source": "own",
    "duration": 218,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "SO FAR",
+    "Artist": "Yung Wolf",
+    "Record Label": "Yung Wolf",
+    "Spotify Streams": "9533",
+    "YouTube Views": "69281",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "968",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor"
    ],
@@ -2828,9 +4402,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 9536,
-   "spotify_id": "5PgChd70dB6P1djF0vdttr",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 9533,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 69281,
+    "Pandora Streams": 968
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SOFAR|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900210",
@@ -2858,6 +4439,16 @@
    "source": "own",
    "duration": 153,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "No Hook",
+    "Artist": "Yung Wolf, Action Pack, TakeGod",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "13251",
+    "YouTube Views": "262",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "72"
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips"
@@ -2905,8 +4496,16 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 13251,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 262,
+    "Shazam Count": 72
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "NOHOOK|ACTIONPACK|TAKEGOD|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900211",
@@ -2930,6 +4529,16 @@
    "source": "own",
    "duration": 192,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "On Hand",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "31751",
+    "YouTube Views": "22059",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "227"
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips"
@@ -2977,8 +4586,16 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 31751,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 22059,
+    "Shazam Count": 227
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "ONHAND|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900212",
@@ -3002,6 +4619,16 @@
    "source": "own",
    "duration": 162,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Fine China",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "27759",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "47"
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips"
@@ -3049,8 +4676,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 27759,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 47
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "FINECHINA|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900213",
@@ -3074,6 +4708,16 @@
    "source": "own",
    "duration": 127,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Ion Wanna Vibe",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "21720",
+    "YouTube Views": "126945",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "68",
+    "Shazam Count": "147"
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips"
@@ -3121,8 +4765,17 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 21720,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 126945,
+    "Pandora Streams": 68,
+    "Shazam Count": 147
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "IONWANNAVIBE|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900214",
@@ -3150,6 +4803,16 @@
    "source": "own",
    "duration": 166,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "havin",
+    "Artist": "Yung Wolf, Action Pack, PopLord",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "23813",
+    "YouTube Views": "695233",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "140"
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips"
@@ -3251,8 +4914,16 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 23813,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 695233,
+    "Shazam Count": 140
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "HAVIN|ACTIONPACK|POPLORD|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900215",
@@ -3280,6 +4951,16 @@
    "source": "own",
    "duration": 158,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Way I Live (feat. Hylan Starr)",
+    "Artist": "Yung Wolf, Action Pack, Hylan Starr",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "26975",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "27"
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips",
@@ -3328,8 +5009,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 26975,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 27
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WAYILIVE|ACTIONPACK|HYLANSTARR|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900216",
@@ -3353,6 +5041,16 @@
    "source": "own",
    "duration": 204,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Product Of The Trenches",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "10970",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "58"
+   },
    "writers_label": [
     "Aaron Phillips",
     "Maricus Taylor"
@@ -3421,8 +5119,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 10970,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 58
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "PRODUCTOFTHETRENCHES|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900217",
@@ -3446,6 +5151,16 @@
    "source": "own",
    "duration": 155,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Lights Out",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "7102",
+    "YouTube Views": "5051",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Aaron Phillips",
     "Maricus Taylor"
@@ -3548,8 +5263,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 7102,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 5051
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "LIGHTSOUT|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900218",
@@ -3573,6 +5295,16 @@
    "source": "own",
    "duration": 174,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Fast Money",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "21152",
+    "YouTube Views": "54150",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "167"
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips"
@@ -3620,8 +5352,16 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 21152,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 54150,
+    "Shazam Count": 167
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "FASTMONEY|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900219",
@@ -3645,6 +5385,16 @@
    "source": "own",
    "duration": 174,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Feel Alive",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "8540",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "53"
+   },
    "writers_label": [
     "Aaron Phillips",
     "Maricus Taylor"
@@ -3713,8 +5463,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 8540,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 53
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "FEELALIVE|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900221",
@@ -3738,6 +5495,16 @@
    "source": "own",
    "duration": 202,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Dubai",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "4621",
+    "YouTube Views": "23304",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips"
@@ -3806,8 +5573,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 4621,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 23304
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "DUBAI|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900222",
@@ -3831,6 +5605,16 @@
    "source": "own",
    "duration": 182,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Growing Pains",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "4506",
+    "YouTube Views": "5538",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Aaron Phillips",
     "Maricus Taylor"
@@ -3926,8 +5710,15 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 4506,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 5538
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GROWINGPAINS|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900223",
@@ -3951,6 +5742,16 @@
    "source": "own",
    "duration": 181,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Switch It Up",
+    "Artist": "Yung Wolf, Action Pack",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "5927",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips"
@@ -3998,8 +5799,13 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 5927,
+   "spotify_id": null,
+   "stream_platforms": {},
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SWITCHITUP|ACTIONPACK|YUNGWOLF"
   },
   {
    "isrc": "QZGH81900224",
@@ -4027,6 +5833,16 @@
    "source": "own",
    "duration": 227,
    "identity_basis": "Wolfpack Global Music label, Maricus Taylor/Traylor writer credit, or verified Spotify/Instagram catalog cross-check",
+   "chartmetric_observation": {
+    "Track": "Chanel Track Shoes",
+    "Artist": "Yung Wolf, Action Pack, Wee2Hard",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "40383",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Maricus Taylor",
     "Aaron Phillips"
@@ -4074,8 +5890,13 @@
    "status": "credit",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 40383,
+   "spotify_id": null,
+   "stream_platforms": {},
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "CHANELTRACKSHOES|ACTIONPACK|WEE2HARD|YUNGWOLF"
   },
   {
    "isrc": "USLD91804273",
@@ -4111,8 +5932,609 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
+   "plays": 21347,
+   "spotify_id": "57q2sgImJ65faCEbJxyIcz",
+   "stream_platforms": {},
+   "spotify_match_basis": "Spotify exact-ISRC search and visible track counter, 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "RICHTOGETHER|BALLYBABY|YUNGWOLF"
+  },
+  {
+   "isrc": "AUGBT2592740",
+   "song": "Throw Me Off",
+   "date": "2025-12-12",
+   "album": "Throw Me Off",
+   "album_id": 1076304122,
+   "record_type": "",
+   "label": "Wolfpack Global Music",
+   "artists": [
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4280068852,
+   "source": "own",
+   "duration": 137,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "Throw Me Off",
+    "Artist": "Yung Wolf",
+    "Record Label": "Wolfpack Global Music",
+    "Spotify Streams": "1022",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "677",
+    "Shazam Count": ""
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Maricus Taylor"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 1022,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 677
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "THROWMEOFF|YUNGWOLF"
+  },
+  {
+   "isrc": "USLD91774988",
+   "song": "SCENE (feat. Yung Wolf)",
+   "date": "2025-04-21",
+   "album": "BREAK THE SILENCE",
+   "album_id": 1076145402,
+   "record_type": "",
+   "label": "Lil Silent",
+   "artists": [
+    [
+     "Lil Silent",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4279634182,
+   "source": "feature",
+   "duration": 156,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "SCENE (feat. Yung Wolf)",
+    "Artist": "Lil Silent, Yung Wolf",
+    "Record Label": "Lil Silent",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Lil Silent",
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "0zSR990drRdd5imi9vxW9e",
+   "stream_platforms": {},
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SCENE|LILSILENT|YUNGWOLF"
+  },
+  {
+   "isrc": "QZNMW2472417",
+   "song": "Hunnids",
+   "date": "2024-10-11",
+   "album": "Hunnids",
+   "album_id": 653906781,
+   "record_type": "",
+   "label": "Trillionair3",
+   "artists": [
+    [
+     "Trillionair3",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3036271451,
+   "source": "feature",
+   "duration": 162,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "Hunnids",
+    "Artist": "Trillionair3, Yung Wolf",
+    "Record Label": "Trillionair3",
+    "Spotify Streams": "3013",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "4"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Derrick Wideman"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 3013,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 4
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "HUNNIDS|TRILLIONAIR3|YUNGWOLF"
+  },
+  {
+   "isrc": "QZW9L2352678",
+   "song": "Deeper",
+   "date": "2023-12-01",
+   "album": "Book of Eli",
+   "album_id": 519312942,
+   "record_type": "",
+   "label": "ynt eli",
+   "artists": [
+    [
+     "YNT Eli",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2568254442,
+   "source": "feature",
+   "duration": 170,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "Deeper",
+    "Artist": "YNT Eli, Yung Wolf",
+    "Record Label": "ynt eli",
+    "Spotify Streams": "1115",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "7"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Elijah Payton"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 1115,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 7
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "DEEPER|YNTELI|YUNGWOLF"
+  },
+  {
+   "isrc": "QZJ842003981",
+   "song": "SAME WEEK",
+   "date": "2023-10-27",
+   "album": "Bigger Than Life",
+   "album_id": 504534611,
+   "record_type": "",
+   "label": "10K Projects",
+   "artists": [
+    [
+     "Yns Corey",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2513674731,
+   "source": "feature",
+   "duration": 186,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "SAME WEEK",
+    "Artist": "Yns Corey, Action Pack, Yung Wolf",
+    "Record Label": "10K Projects",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "280"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Jacorey Jews",
+    "Action Pack",
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 280
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SAMEWEEK|ACTIONPACK|YNSCOREY|YUNGWOLF"
+  },
+  {
+   "isrc": "QZJ842003989",
+   "song": "WORKING ON MYSELF (feat. Yung Wolf)",
+   "date": "2023-10-27",
+   "album": "",
+   "album_id": null,
+   "record_type": "",
+   "label": "10K Projects",
+   "artists": [
+    [
+     "Yns Corey",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": null,
+   "source": "feature",
+   "duration": null,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "WORKING ON MYSELF (feat. Yung Wolf)",
+    "Artist": "Yns Corey, Yung Wolf",
+    "Record Label": "10K Projects",
+    "Spotify Streams": "9258",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
+   "writers_label": [],
+   "label_client": false,
+   "works": [
+    {
+     "code": "W56UBH",
+     "id": 1046130079,
+     "title": "WORKING ON MYSELF (FEAT. YUNG WOLF)",
+     "iswc": null,
+     "known": 50,
+     "writers": [
+      {
+       "ipId": 15641237,
+       "fullName": "ELIJAH CRAWFORD",
+       "ipiNumber": "01209765343",
+       "roleCode": 10,
+       "propertyId": 1046130079
+      },
+      {
+       "ipId": 15237582,
+       "fullName": "YUNG WOLF",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 1046130079
+      },
+      {
+       "ipId": 15632470,
+       "fullName": "JACOREY JEWS",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 1046130079
+      },
+      {
+       "ipId": 17642483,
+       "fullName": "ELIJAH CRAWFORD",
+       "ipiNumber": "01231586467",
+       "roleCode": 10,
+       "propertyId": 1046130079
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "BEATSTARS PUBLISHING WORLDWIDE",
+       "administrator": "SENTRIC MUSIC LIMITED",
+       "share": 50,
+       "writers": [
+        "ELIJAH CRAWFORD"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 8
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 9258,
+   "spotify_id": null,
+   "stream_platforms": {},
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WORKINGONMYSELF|YNSCOREY|YUNGWOLF"
+  },
+  {
+   "isrc": "QZJ842003990",
+   "song": "SAME WEEK (feat. Action Pack & Yung Wolf)",
+   "date": "2023-10-27",
+   "album": "",
+   "album_id": null,
+   "record_type": "",
+   "label": "10K Projects",
+   "artists": [
+    [
+     "Yns Corey",
+     "Main"
+    ],
+    [
+     "Action Pack",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": null,
+   "source": "feature",
+   "duration": null,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "SAME WEEK (feat. Action Pack & Yung Wolf)",
+    "Artist": "Yns Corey, Action Pack, Yung Wolf",
+    "Record Label": "10K Projects",
+    "Spotify Streams": "1990",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
+   "writers_label": [],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 1990,
+   "spotify_id": null,
+   "stream_platforms": {},
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SAMEWEEK|ACTIONPACK|YNSCOREY|YUNGWOLF"
+  },
+  {
+   "isrc": "QZJ842003980",
+   "song": "WORKING ON MYSELF",
+   "date": "2023-10-27",
+   "album": "Bigger Than Life",
+   "album_id": 504534611,
+   "record_type": "",
+   "label": "10K Projects",
+   "artists": [
+    [
+     "Yns Corey",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 2513674721,
+   "source": "feature",
+   "duration": 185,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "WORKING ON MYSELF",
+    "Artist": "Yns Corey, Yung Wolf",
+    "Record Label": "10K Projects",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "122"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Jacorey Jews",
+    "Yung Wolf"
+   ],
+   "label_client": false,
+   "works": [
+    {
+     "code": "W56UBH",
+     "id": 1046130079,
+     "title": "WORKING ON MYSELF (FEAT. YUNG WOLF)",
+     "iswc": null,
+     "known": 50,
+     "writers": [
+      {
+       "ipId": 15641237,
+       "fullName": "ELIJAH CRAWFORD",
+       "ipiNumber": "01209765343",
+       "roleCode": 10,
+       "propertyId": 1046130079
+      },
+      {
+       "ipId": 15237582,
+       "fullName": "YUNG WOLF",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 1046130079
+      },
+      {
+       "ipId": 15632470,
+       "fullName": "JACOREY JEWS",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 1046130079
+      },
+      {
+       "ipId": 17642483,
+       "fullName": "ELIJAH CRAWFORD",
+       "ipiNumber": "01231586467",
+       "roleCode": 10,
+       "propertyId": 1046130079
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "BEATSTARS PUBLISHING WORLDWIDE",
+       "administrator": "SENTRIC MUSIC LIMITED",
+       "share": 50,
+       "writers": [
+        "ELIJAH CRAWFORD"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 8
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 122
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WORKINGONMYSELF|YNSCOREY|YUNGWOLF"
+  },
+  {
+   "isrc": "",
+   "song": "Break Me Down",
+   "date": "2025-06-09",
+   "album": "Apologies \u2019n Advance",
+   "album_id": null,
+   "record_type": "album",
+   "label": "NTB SOUNDS",
+   "artists": [
+    [
+     "M1LES",
+     "Main"
+    ],
+    [
+     "Yung Wolf",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": null,
+   "source": "feature",
+   "duration": null,
+   "spotify_catalog_id": "2xqE3iUT9BPWJN2bbbNMC7",
+   "identity_basis": "Spotify track and exact featured artist profile link verified in browser; source catalog does not return an ISRC. Retained with recording identity pending, not omitted.",
+   "discovery_source": "Spotify verified appears-on/artist recording, 2026-11-02",
+   "writers_label": [],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": false,
+   "status": "pending",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": "2xqE3iUT9BPWJN2bbbNMC7",
+   "stream_platforms": {},
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BREAKMEDOWN|M1LES|YUNGWOLF"
   }
  ],
  "attribution_audit": [
@@ -4197,20 +6619,108 @@
   },
   {
    "title": "Resolve Taylor, Traylor and stage-name writer records first.",
-   "body": "Label and registry sources use <b>MARICUS TAYLOR</b>, <b>MARICUS TRAYLOR</b> and <b>MARICUS JR TRAYLOR</b>; the last appears on \u201cDon\u2019t Bother Me\u201d with IPI <b>01191748923</b>. Confirm that IPI and preferred legal spelling in your own account. The shared Deezer profile also returned <b>141 other or unverified same-name recordings</b>, excluded from the report. Stage-name-only writer records are flagged for identity verification rather than automatically treated as your legal writer evidence. The off-catalog \u201cNO EMOTION\u201d work N99LKQ shows 0% known shares and is a possible title variant of \u201cNo Emotions\u201d; it remains unconfirmed and outside the five-composition attribution count."
+   "body": "Label and registry sources use <b>MARICUS TAYLOR</b>, <b>MARICUS TRAYLOR</b> and <b>MARICUS JR TRAYLOR</b>; the last appears on \u201cDon\u2019t Bother Me\u201d with IPI <b>01191748923</b>. Confirm that IPI and preferred legal spelling in your own account. The shared Deezer profile also returned <b>143 other or unverified same-name recordings</b>, excluded from client totals. Stage-name-only writer records are flagged for identity verification rather than automatically treated as your legal writer evidence. The off-catalog \u201cNO EMOTION\u201d work N99LKQ shows 0% known shares and is a possible title variant of \u201cNo Emotions\u201d; it remains unconfirmed and outside the five-composition attribution count. Exact-ISRC Spotify checks separate the previously excluded features from other Wolf artist profiles. The Noah \u201cMARGIELA / MAD\u201d delivery is linked to both Atlanta and Tacoma profiles under one ISRC; it remains in the visible identity-review ledger, outside client exposure and attribution totals."
   },
   {
    "title": "Prioritize the current catalog without overlooking missing credits.",
-   "body": "Across 66 retained recordings, 35 have no MLC work identified and 24 have a work whose writer attribution needs verification. The ten sampled Spotify tracks total <b>629,669 plays</b>, led by \u201cMotion\u201d (322,750) and \u201cDon\u2019t Say Nun\u201d (164,997). Treat the current Full Moon records and these exposed recordings as a documentation priority. A performing or featured-artist credit alone does not establish a writing share."
+   "body": "The complete catalog review includes <b>75 recordings</b>, with Spotify counters supplied for <b>71</b>. The conservative exposure floor is <b>1,377,268 Spotify plays</b>; unavailable counters are excluded, and overlapping same-title/artist versions are not added together. The per-recording streaming audit preserves every supplied counter and platform value. The catalog now includes \u201cThrow Me Off,\u201d \u201cHunnids,\u201d \u201cDeeper,\u201d the Yns Corey features and their source versions, \u201cSCENE,\u201d and the Spotify-confirmed M1LES feature \u201cBreak Me Down.\u201d The last has no ISRC supplied by the source catalog and remains marked for identifier verification. 41 recordings have no matching MLC work identified, while 26 have a matching work whose writer identity needs verification. Featured-artist credit alone does not establish a writing share."
   }
  ],
  "supplementary_searches": [
+  {
+   "source_file": "isrc_QZJ842003990.json",
+   "total": 0,
+   "work_codes": []
+  },
   {
    "source_file": "ipi_01191748923.json",
    "total": 1,
    "work_codes": [
     "DS0YWZ"
    ]
+  },
+  {
+   "source_file": "isrc_GBSMU3556476.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZFZ22592588.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_GBSMU3556471.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZW9L2352678.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_GBSMU3556470.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_USLD91774988.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZJ842003981.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_GBSMU3556469.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "expanded_control.json",
+   "total": 22,
+   "work_codes": [
+    "BE4PYQ",
+    "BC65M2",
+    "BVDIYC",
+    "BVBQE3",
+    "BF73RU",
+    "BA2APG",
+    "BA7TCK",
+    "B6587F",
+    "BI7JLD",
+    "BO3O71",
+    "BG0P8R",
+    "BC6W6C",
+    "BD41L6",
+    "BA9SU7",
+    "BC0FE0",
+    "BC1KLX",
+    "B60422",
+    "BA616T",
+    "BV8ELH",
+    "BP8T5W",
+    "BF7M4Y",
+    "BD9NV1"
+   ]
+  },
+  {
+   "source_file": "isrc_AUGBT2592740.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_GBSMU3556472.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZNMW2472417.json",
+   "total": 0,
+   "work_codes": []
   },
   {
    "source_file": "writer_MARICUS_JR_TRAYLOR.json",
@@ -4628,6 +7138,110 @@
    },
    "total": 0,
    "returned": 0
+  },
+  {
+   "key": "expanded_control",
+   "criteria": {
+    "combinedTitlesExact": "BOHEMIAN RHAPSODY"
+   },
+   "total": 22,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_AUGBT2592740",
+   "criteria": {
+    "matchedRecordingIsrcs": "AUGBT2592740"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_USLD91774988",
+   "criteria": {
+    "matchedRecordingIsrcs": "USLD91774988"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZNMW2472417",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZNMW2472417"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZW9L2352678",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZW9L2352678"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZJ842003981",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZJ842003981"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZJ842003990",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZJ842003990"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_GBSMU3556470",
+   "criteria": {
+    "matchedRecordingIsrcs": "GBSMU3556470"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_GBSMU3556472",
+   "criteria": {
+    "matchedRecordingIsrcs": "GBSMU3556472"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_GBSMU3556469",
+   "criteria": {
+    "matchedRecordingIsrcs": "GBSMU3556469"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_GBSMU3556471",
+   "criteria": {
+    "matchedRecordingIsrcs": "GBSMU3556471"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_GBSMU3556476",
+   "criteria": {
+    "matchedRecordingIsrcs": "GBSMU3556476"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZFZ22592588",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZFZ22592588"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
   }
  ]
 }

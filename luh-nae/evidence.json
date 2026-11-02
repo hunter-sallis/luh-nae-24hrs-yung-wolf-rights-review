@@ -2,84 +2,62 @@
  "prepared": "2026-11-02",
  "metadata": {
   "artist": "Luh Nae",
-  "recordings": 29,
-  "own": 25,
-  "features": 4,
+  "recordings": 43,
+  "own": 36,
+  "features": 7,
   "statuses": {
-   "missing": 28,
-   "unlinked": 1
+   "missing": 39,
+   "unlinked": 1,
+   "credit": 1,
+   "open": 1,
+   "pending": 1
   },
-  "checked": 29,
-  "writer_compositions": 1,
-  "writer_recordings": 1,
+  "checked": 42,
+  "writer_compositions": 2,
+  "writer_recordings": 2,
   "attributed_compositions": 0,
-  "gap_compositions": 1,
+  "gap_compositions": 2,
   "entity_pending_compositions": 0,
-  "label_legal_writer_recordings": 21,
-  "label_writer_recordings": 25,
-  "plays_observed": 3082531,
-  "plays_observed_tracks": 9,
+  "label_legal_writer_recordings": 33,
+  "label_writer_recordings": 38,
+  "plays_observed": 3916577,
+  "plays_observed_tracks": 18,
   "monthly_listeners": 302013,
-  "excluded_identity": 0
+  "excluded_identity": 0,
+  "stream_unavailable": 25,
+  "exposure_groups": 41,
+  "raw_recording_stream_sum": 5815410,
+  "overlap_adjustment": 1898833,
+  "platform_minima": {
+   "YouTube Views": 3653114,
+   "SoundCloud Streams": 49460,
+   "Pandora Streams": 71102,
+   "Shazam Count": 62851
+  },
+  "platform_coverage": {
+   "YouTube Views": 20,
+   "SoundCloud Streams": 4,
+   "Pandora Streams": 23,
+   "Shazam Count": 21
+  },
+  "stream_basis": "Complete Chartmetric export by exact ISRC, supplemented with exact-ISRC Spotify track counters. Headline is a conservative minimum: maximum available Spotify counter per normalized title + credited artist set; remix/speed/version words are retained. All ISRCs remain in the ledger. Counters can overlap across reissues and platform-linked versions; headline is not a precise all-time royalty statement. Missing counters are excluded, never replaced with zero."
  },
  "identity_basis": "Instagram @babyimnae identifies Luh Nae; label-supplied credits repeatedly name Janae Chatman. Legal identity and primary IPI require account confirmation.",
- "spotify_basis": "Read from Spotify artist Popular tables in the browser. Counts are sampled lifetime recording plays, not total catalog exposure. Null means no readable counter, not zero.",
- "spotify_sample": {
-  "artist_id": "0BdeKVmnO8H0Y1vIvRjoK1",
-  "monthly_listeners": 302013,
-  "tracks": [
-   [
-    "Geeked Shit (remix)",
-    "0zRkeslMkmS7y4RNCCwIgH",
-    1932229
-   ],
-   [
-    "Geeked Shit",
-    "2r0Mbg957HAK9L4zQbuiiT",
-    1050596
-   ],
-   [
-    "Where Ya From",
-    "24xCrwi6ChUpL9v26aORBl",
-    68712
-   ],
-   [
-    "I Luv Hoes",
-    "4k8taQLXk2fdSvsEkxMOQr",
-    18814
-   ],
-   [
-    "Racks Just Hit",
-    "5IDfFcYiyxciaNFLTRTd7u",
-    1217
-   ],
-   [
-    "GET FREAKY",
-    "59hK3Ow6Ks2WaXRJUL9muA",
-    null
-   ],
-   [
-    "Racks on me",
-    "7if4JZ9AVafMzi3ioKEfwm",
-    4557
-   ],
-   [
-    "Spend",
-    "0wMBsg4HLCGfu3vXqLpzHS",
-    3199
-   ],
-   [
-    "Play Time Over",
-    "0C2gkiggiUdCghA88P5tPg",
-    2088
-   ],
-   [
-    "F that Bitch",
-    "6tfS1HIC6LXEpu10wYiBv0",
-    1119
-   ]
-  ]
+ "streaming_basis": "Complete Chartmetric export by exact ISRC, supplemented with exact-ISRC Spotify track counters. Headline is a conservative minimum: maximum available Spotify counter per normalized title + credited artist set; remix/speed/version words are retained. All ISRCs remain in the ledger. Counters can overlap across reissues and platform-linked versions; headline is not a precise all-time royalty statement. Missing counters are excluded, never replaced with zero.",
+ "chartmetric_provenance": {
+  "downloaded": "2026-11-02",
+  "artist": "Luh Nae",
+  "profile_id": 11430947,
+  "export_rows": 40,
+  "unique_isrcs": 40,
+  "prior_catalog": 29,
+  "merged_catalog": 42,
+  "blank_streams": 25,
+  "basis": "Native Download CSV from complete Tracks table; exported rows include recording versions nested under grouped UI entries. Blank fields are missing source data, never zero."
  },
+ "identity_review": [],
+ "gmr_full_title_review": null,
+ "gmr_full_title_sweep": null,
  "rows": [
   {
    "isrc": "QZFYX2365049",
@@ -101,6 +79,16 @@
    "dupe_albums": [
     "Pretty Young Gangsta"
    ],
+   "chartmetric_observation": {
+    "Track": "Don't Mention Me",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "1509",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "27",
+    "Shazam Count": "2"
+   },
    "writers_label": [
     "Luh Nae"
    ],
@@ -114,7 +102,16 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "4okQEDj8LKqAJH37fZHFEd",
+   "stream_platforms": {
+    "YouTube Views": 1509,
+    "Pandora Streams": 27,
+    "Shazam Count": 2
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "DONTMENTIONME|LUHNAE"
   },
   {
    "isrc": "QZHN32333580",
@@ -137,6 +134,16 @@
    "deezer_track_id": 2200963717,
    "source": "feature",
    "duration": 137,
+   "chartmetric_observation": {
+    "Track": "Hood Bitch",
+    "Artist": "B.A.M Entertainment, Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Luh Nae"
    ],
@@ -150,7 +157,12 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": null,
+   "stream_platforms": {},
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "HOODBITCH|BAMENTERTAINMENT|LUHNAE"
   },
   {
    "isrc": "QZTB52383533",
@@ -169,6 +181,16 @@
    "deezer_track_id": 2485679821,
    "source": "own",
    "duration": 120,
+   "chartmetric_observation": {
+    "Track": "Turnt Freestyle",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "9725",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "65",
+    "Shazam Count": "3"
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -182,7 +204,16 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "0OUO05hZoHQN39VL08mw8r",
+   "stream_platforms": {
+    "YouTube Views": 9725,
+    "Pandora Streams": 65,
+    "Shazam Count": 3
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "TURNTFREESTYLE|LUHNAE"
   },
   {
    "isrc": "QZHN32333575",
@@ -205,6 +236,16 @@
    "deezer_track_id": 2485679831,
    "source": "own",
    "duration": 155,
+   "chartmetric_observation": {
+    "Track": "Walking (feat. Luh Nae)",
+    "Artist": "B.A.M Entertainment, Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "1"
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -218,7 +259,14 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "56wFGqzjzjeFLcykZkqwc0",
+   "stream_platforms": {
+    "Shazam Count": 1
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WALKING|BAMENTERTAINMENT|LUHNAE"
   },
   {
    "isrc": "QZTB52383534",
@@ -237,6 +285,16 @@
    "deezer_track_id": 2485679841,
    "source": "own",
    "duration": 140,
+   "chartmetric_observation": {
+    "Track": "Out of Pocket",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "758",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "52",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -250,7 +308,15 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "0kKGBys1saU5E0p1IndVHS",
+   "stream_platforms": {
+    "YouTube Views": 758,
+    "Pandora Streams": 52
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "OUTOFPOCKET|LUHNAE"
   },
   {
    "isrc": "QZTB52383535",
@@ -273,6 +339,16 @@
    "deezer_track_id": 2485679851,
    "source": "own",
    "duration": 126,
+   "chartmetric_observation": {
+    "Track": "Hoochie Mama (feat. Dreek Jones)",
+    "Artist": "Luh Nae, Dreek Jones",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "0",
+    "YouTube Views": "1449",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "88",
+    "Shazam Count": "15"
+   },
    "writers_label": [
     "Dreek Jones",
     "Janae Chatman"
@@ -286,8 +362,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 0,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 1449,
+    "Pandora Streams": 88,
+    "Shazam Count": 15
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "HOOCHIEMAMA|DREEKJONES|LUHNAE"
   },
   {
    "isrc": "QZTB52383536",
@@ -306,6 +391,16 @@
    "deezer_track_id": 2485679861,
    "source": "own",
    "duration": 139,
+   "chartmetric_observation": {
+    "Track": "Get Back",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "1791",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "93",
+    "Shazam Count": "1"
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -319,7 +414,16 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "3d9K1pcp3TtSwgNCONvufH",
+   "stream_platforms": {
+    "YouTube Views": 1791,
+    "Pandora Streams": 93,
+    "Shazam Count": 1
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GETBACK|LUHNAE"
   },
   {
    "isrc": "QZTB52383537",
@@ -338,6 +442,16 @@
    "deezer_track_id": 2485679871,
    "source": "own",
    "duration": 188,
+   "chartmetric_observation": {
+    "Track": "Vibes",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "20",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -351,7 +465,14 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "4N4WiYvVgdKGCHPLXUkOzC",
+   "stream_platforms": {
+    "Pandora Streams": 20
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "VIBES|LUHNAE"
   },
   {
    "isrc": "QZTB52383538",
@@ -370,6 +491,16 @@
    "deezer_track_id": 2485679881,
    "source": "own",
    "duration": 135,
+   "chartmetric_observation": {
+    "Track": "Movie",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "910",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "26",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -383,7 +514,15 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "6d00IWy52JidcluwnuwTlj",
+   "stream_platforms": {
+    "YouTube Views": 910,
+    "Pandora Streams": 26
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "MOVIE|LUHNAE"
   },
   {
    "isrc": "QZTB52383539",
@@ -406,6 +545,16 @@
    "deezer_track_id": 2485679891,
    "source": "own",
    "duration": 162,
+   "chartmetric_observation": {
+    "Track": "Paper Chasing",
+    "Artist": "Luh Nae, Dreek Jones",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "7",
+    "Shazam Count": "2"
+   },
    "writers_label": [
     "Dreek Jones",
     "Janae Chatman"
@@ -419,8 +568,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1008,
+   "spotify_id": "2QMKvQzSCnZnfT6oJeNzBl",
+   "stream_platforms": {
+    "Pandora Streams": 7,
+    "Shazam Count": 2
+   },
+   "spotify_match_basis": "Spotify exact-ISRC search and visible track counter, 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "PAPERCHASING|DREEKJONES|LUHNAE"
   },
   {
    "isrc": "QZTB52383540",
@@ -439,6 +596,16 @@
    "deezer_track_id": 2485679901,
    "source": "own",
    "duration": 151,
+   "chartmetric_observation": {
+    "Track": "A*****e",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "0",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "27",
+    "Shazam Count": "2"
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -451,8 +618,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 0,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 27,
+    "Shazam Count": 2
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "ASSHOLE|LUHNAE"
   },
   {
    "isrc": "QZTB52383541",
@@ -471,6 +646,16 @@
    "deezer_track_id": 2485679911,
    "source": "own",
    "duration": 137,
+   "chartmetric_observation": {
+    "Track": "Big Purse",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "644",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "32",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -484,7 +669,15 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "2TRqp2I5NzE0I5uN3Iggh5",
+   "stream_platforms": {
+    "YouTube Views": 644,
+    "Pandora Streams": 32
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BIGPURSE|LUHNAE"
   },
   {
    "isrc": "QZTB52383542",
@@ -503,6 +696,16 @@
    "deezer_track_id": 2485679921,
    "source": "own",
    "duration": 161,
+   "chartmetric_observation": {
+    "Track": "Bad Bitches",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "1071",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "33",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -516,7 +719,15 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "0kvBZITogBZLeLBrPMGdih",
+   "stream_platforms": {
+    "YouTube Views": 1071,
+    "Pandora Streams": 33
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "BADBITCHES|LUHNAE"
   },
   {
    "isrc": "QZTB52383543",
@@ -535,6 +746,16 @@
    "deezer_track_id": 2485679931,
    "source": "own",
    "duration": 133,
+   "chartmetric_observation": {
+    "Track": "Spend It",
+    "Artist": "Luh Nae",
+    "Record Label": "By Any Means Entertainment",
+    "Spotify Streams": "",
+    "YouTube Views": "592",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "28",
+    "Shazam Count": "3"
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -548,7 +769,16 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "6fCjW5ZJOHXAh3XrYsVljI",
+   "stream_platforms": {
+    "YouTube Views": 592,
+    "Pandora Streams": 28,
+    "Shazam Count": 3
+   },
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SPENDIT|LUHNAE"
   },
   {
    "isrc": "QZWFX2431420",
@@ -588,7 +818,12 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "1jyZCrtdK9elDmObYFqZJZ",
+   "stream_platforms": {},
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WHOLENOTHERPLANET|ESBCHOPPA|LUHNAE|MACDON"
   },
   {
    "isrc": "QT3F32552781",
@@ -607,6 +842,16 @@
    "deezer_track_id": 3573539661,
    "source": "own",
    "duration": 167,
+   "chartmetric_observation": {
+    "Track": "F that Bitch",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta",
+    "Spotify Streams": "1109",
+    "YouTube Views": "1864",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "158",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -619,9 +864,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 1119,
-   "spotify_id": "6tfS1HIC6LXEpu10wYiBv0",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 1109,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 1864,
+    "Pandora Streams": 158
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "FTHATBITCH|LUHNAE"
   },
   {
    "isrc": "QT3F32552808",
@@ -640,6 +892,16 @@
    "deezer_track_id": 3573539691,
    "source": "own",
    "duration": 109,
+   "chartmetric_observation": {
+    "Track": "UH HUH",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta",
+    "Spotify Streams": "1386",
+    "YouTube Views": "5847",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "51",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -652,8 +914,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1386,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 5847,
+    "Pandora Streams": 51
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "UHHUH|LUHNAE"
   },
   {
    "isrc": "QT3F32552792",
@@ -672,6 +942,16 @@
    "deezer_track_id": 3573539971,
    "source": "own",
    "duration": 142,
+   "chartmetric_observation": {
+    "Track": "Racks on me",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta",
+    "Spotify Streams": "4491",
+    "YouTube Views": "2771",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "320",
+    "Shazam Count": "9"
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -684,9 +964,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 4557,
-   "spotify_id": "7if4JZ9AVafMzi3ioKEfwm",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 4491,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 2771,
+    "Pandora Streams": 320,
+    "Shazam Count": 9
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "RACKSONME|LUHNAE"
   },
   {
    "isrc": "QT3F52548325",
@@ -709,6 +997,16 @@
    "deezer_track_id": 3578400181,
    "source": "own",
    "duration": 153,
+   "chartmetric_observation": {
+    "Track": "Play Time Over (feat. Dreek Jones)",
+    "Artist": "Luh Nae, Dreek Jones",
+    "Record Label": "Pretty Young Gangsta",
+    "Spotify Streams": "2076",
+    "YouTube Views": "1299",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "11",
+    "Shazam Count": "7"
+   },
    "writers_label": [
     "Luh Nae"
    ],
@@ -721,9 +1019,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 2088,
-   "spotify_id": "0C2gkiggiUdCghA88P5tPg",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 2076,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 1299,
+    "Pandora Streams": 11,
+    "Shazam Count": 7
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "PLAYTIMEOVER|DREEKJONES|LUHNAE"
   },
   {
    "isrc": "QZFYZ2606497",
@@ -742,6 +1048,16 @@
    "deezer_track_id": 3753608062,
    "source": "own",
    "duration": 100,
+   "chartmetric_observation": {
+    "Track": "Say That",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta",
+    "Spotify Streams": "1055",
+    "YouTube Views": "3848",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "102",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Luh Nae"
    ],
@@ -754,8 +1070,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 1055,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 3848,
+    "Pandora Streams": 102
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SAYTHAT|LUHNAE"
   },
   {
    "isrc": "QZDA52686438",
@@ -774,6 +1098,16 @@
    "deezer_track_id": 3772974212,
    "source": "own",
    "duration": 139,
+   "chartmetric_observation": {
+    "Track": "Spend",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta",
+    "Spotify Streams": "3172",
+    "YouTube Views": "5956",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "100",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman"
    ],
@@ -786,9 +1120,16 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 3199,
-   "spotify_id": "0wMBsg4HLCGfu3vXqLpzHS",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 3172,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 5956,
+    "Pandora Streams": 100
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SPEND|LUHNAE"
   },
   {
    "isrc": "QZDA62618938",
@@ -824,7 +1165,12 @@
    "writer_proven": false,
    "attributable": false,
    "plays": null,
-   "spotify_id": null
+   "spotify_id": "4Tbis6MzlTCegGFM18cRgZ",
+   "stream_platforms": {},
+   "spotify_match_basis": null,
+   "stream_status": "Spotify counter hidden",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GLASSESNDAWIG|LUHNAE|LUHYOUNGEN1"
   },
   {
    "isrc": "QZZ7M2635244",
@@ -843,6 +1189,16 @@
    "deezer_track_id": 4018286281,
    "source": "own",
    "duration": 127,
+   "chartmetric_observation": {
+    "Track": "Geeked Shit",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta",
+    "Spotify Streams": "1050596",
+    "YouTube Views": "849074",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "4999",
+    "Shazam Count": "25101"
+   },
    "writers_label": [
     "Janae Chatman",
     "Aldreco Jones"
@@ -856,9 +1212,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
+   "plays": 1050596,
    "spotify_id": null,
-   "spotify_version_ambiguous": true
+   "stream_platforms": {
+    "YouTube Views": 849074,
+    "Pandora Streams": 4999,
+    "Shazam Count": 25101
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GEEKEDSHIT|LUHNAE"
   },
   {
    "isrc": "QZNMT2698440",
@@ -881,6 +1245,16 @@
    "deezer_track_id": 4081415921,
    "source": "feature",
    "duration": 169,
+   "chartmetric_observation": {
+    "Track": "Bend Over (ATLMix)",
+    "Artist": "10k.Caash, Luh Nae",
+    "Record Label": "10k Recordings",
+    "Spotify Streams": "860870",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Treyvon Britt"
    ],
@@ -941,8 +1315,13 @@
    "status": "unlinked",
    "writer_proven": true,
    "attributable": false,
-   "plays": null,
-   "spotify_id": null
+   "plays": 860870,
+   "spotify_id": "2AHRiRd3WKmztBzlNk6rFz",
+   "stream_platforms": {},
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "REVIEWED_SHARED_COUNTER_BEND_OVER_ATLMIX"
   },
   {
    "isrc": "QZRD92609177",
@@ -961,6 +1340,16 @@
    "deezer_track_id": 4126979941,
    "source": "own",
    "duration": 127,
+   "chartmetric_observation": {
+    "Track": "Geeked Shit",
+    "Artist": "Luh Nae",
+    "Record Label": "QCLG",
+    "Spotify Streams": "1037963",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Kosal Teap",
     "Logan Boutros",
@@ -975,9 +1364,13 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": null,
+   "plays": 1037963,
    "spotify_id": null,
-   "spotify_version_ambiguous": true
+   "stream_platforms": {},
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GEEKEDSHIT|LUHNAE"
   },
   {
    "isrc": "QZRD92609207",
@@ -1000,6 +1393,16 @@
    "deezer_track_id": 4152378142,
    "source": "own",
    "duration": 165,
+   "chartmetric_observation": {
+    "Track": "Geeked Shit - remix",
+    "Artist": "Luh Nae, PLUTO",
+    "Record Label": "QCLG",
+    "Spotify Streams": "1903029",
+    "YouTube Views": "1675757",
+    "SoundCloud Streams": "28876",
+    "Pandora Streams": "28170",
+    "Shazam Count": "37357"
+   },
    "writers_label": [
     "Matt Teap",
     "Janae Chatman",
@@ -1018,9 +1421,18 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 1932229,
-   "spotify_id": "0zRkeslMkmS7y4RNCCwIgH",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 1903029,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 1675757,
+    "SoundCloud Streams": 28876,
+    "Pandora Streams": 28170,
+    "Shazam Count": 37357
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GEEKEDSHITREMIX|LUHNAE|PLUTO"
   },
   {
    "isrc": "QZRD92609297",
@@ -1043,6 +1455,16 @@
    "deezer_track_id": 4222888232,
    "source": "own",
    "duration": 155,
+   "chartmetric_observation": {
+    "Track": "Where Ya From",
+    "Artist": "Luh Nae, Dreek Jones",
+    "Record Label": "QCLG",
+    "Spotify Streams": "66771",
+    "YouTube Views": "1028983",
+    "SoundCloud Streams": "15844",
+    "Pandora Streams": "742",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman",
     "Al'dreco Jones"
@@ -1056,9 +1478,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 68712,
-   "spotify_id": "24xCrwi6ChUpL9v26aORBl",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 66771,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 1028983,
+    "SoundCloud Streams": 15844,
+    "Pandora Streams": 742
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "WHEREYAFROM|DREEKJONES|LUHNAE"
   },
   {
    "isrc": "QZRD92609358",
@@ -1077,6 +1507,16 @@
    "deezer_track_id": 4252752861,
    "source": "own",
    "duration": 150,
+   "chartmetric_observation": {
+    "Track": "I Luv Hoes",
+    "Artist": "Luh Nae",
+    "Record Label": "QCLG",
+    "Spotify Streams": "18287",
+    "YouTube Views": "58216",
+    "SoundCloud Streams": "4715",
+    "Pandora Streams": "35534",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman",
     "Kosal Teap",
@@ -1091,9 +1531,17 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 18814,
-   "spotify_id": "4k8taQLXk2fdSvsEkxMOQr",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "plays": 18287,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 58216,
+    "SoundCloud Streams": 4715,
+    "Pandora Streams": 35534
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "ILUVHOES|LUHNAE"
   },
   {
    "isrc": "QZRD92609556",
@@ -1112,6 +1560,16 @@
    "deezer_track_id": 4367674381,
    "source": "own",
    "duration": 139,
+   "chartmetric_observation": {
+    "Track": "Racks Just Hit",
+    "Artist": "Luh Nae",
+    "Record Label": "QC",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "25",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
    "writers_label": [
     "Janae Chatman",
     "Donte Ononiewu"
@@ -1125,9 +1583,846 @@
    "status": "missing",
    "writer_proven": false,
    "attributable": false,
-   "plays": 1217,
+   "plays": 1706,
    "spotify_id": "5IDfFcYiyxciaNFLTRTd7u",
-   "spotify_match_basis": "Artist and version/title match; ISRC not independently returned by Spotify"
+   "stream_platforms": {
+    "SoundCloud Streams": 25
+   },
+   "spotify_match_basis": "Spotify exact-ISRC search and visible track counter, 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "RACKSJUSTHIT|LUHNAE"
+  },
+  {
+   "isrc": "QZPEW0887069",
+   "song": "SHE KNOW",
+   "date": "2026-08-28",
+   "album": "SHE KNOW",
+   "album_id": 1055300582,
+   "record_type": "",
+   "label": "Dreek Jones",
+   "artists": [
+    [
+     "Dreek Jones",
+     "Main"
+    ],
+    [
+     "SMJ",
+     "Main"
+    ],
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 4226404242,
+   "source": "feature",
+   "duration": 143,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "SHE KNOW",
+    "Artist": "Dreek Jones, SMJ, Luh Nae",
+    "Record Label": "Dreek Jones",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Farri 2x",
+    "Aldreco Jones",
+    "Shaniah Jones",
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {},
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "SHEKNOW|DREEKJONES|LUHNAE|SMJ"
+  },
+  {
+   "isrc": "QZLL92621679",
+   "song": "Bend Ova",
+   "date": "2026-02-27",
+   "album": "Trey",
+   "album_id": 925914541,
+   "record_type": "",
+   "label": "10k.Caash",
+   "artists": [
+    [
+     "10k.Caash",
+     "Main"
+    ],
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3863349791,
+   "source": "feature",
+   "duration": 90,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "Bend Ova",
+    "Artist": "10k.Caash, Luh Nae",
+    "Record Label": "10k.Caash",
+    "Spotify Streams": "860870",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "417",
+    "Shazam Count": ""
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman",
+    "Treyvon Britt"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "BJ7YAX",
+     "id": 1087759418,
+     "title": "BEND OVA",
+     "iswc": "T3392188299",
+     "known": 100,
+     "writers": [
+      {
+       "ipId": 17546145,
+       "fullName": "CALEN LAVON SMITH",
+       "ipiNumber": "01029716460",
+       "roleCode": 11,
+       "propertyId": 1087759418
+      },
+      {
+       "ipId": 13671749,
+       "fullName": "TREYVON BRITT",
+       "ipiNumber": "00395925801",
+       "roleCode": 11,
+       "propertyId": 1087759418
+      }
+     ],
+     "client_on": false,
+     "pubs": [
+      {
+       "publisher": "ABSO MUSIC",
+       "administrator": null,
+       "share": 50,
+       "writers": [],
+       "attributable": false,
+       "artist_named_entity": false
+      },
+      {
+       "publisher": "10KCAASH PUBLISHING",
+       "administrator": "VELOCITY FUTURE COLLECTIONS",
+       "share": 50,
+       "writers": [
+        "TREYVON BRITT"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 17
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "credit",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 860870,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Pandora Streams": 417
+   },
+   "spotify_match_basis": "Chartmetric complete artist track export, exact ISRC; downloaded 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "REVIEWED_SHARED_COUNTER_BEND_OVER_ATLMIX"
+  },
+  {
+   "isrc": "QT3F72593712",
+   "song": "Goodies (feat. SMJ)",
+   "date": "2025-10-06",
+   "album": "Goodies (feat. SMJ)",
+   "album_id": 832020491,
+   "record_type": "",
+   "label": "Pretty Young Gangsta",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ],
+    [
+     "SMJ",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3585628191,
+   "source": "own",
+   "duration": 176,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "Goodies (feat. SMJ)",
+    "Artist": "Luh Nae, SMJ",
+    "Record Label": "Pretty Young Gangsta",
+    "Spotify Streams": "",
+    "YouTube Views": "1050",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "8"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Luh Nae"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "YouTube Views": 1050,
+    "Shazam Count": 8
+   },
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GOODIES|LUHNAE|SMJ"
+  },
+  {
+   "isrc": "QZPLS2583205",
+   "song": "5 AM Freestyle",
+   "date": "2025-05-22",
+   "album": "5 AM Freestyle",
+   "album_id": 758907091,
+   "record_type": "",
+   "label": "Get Ya Weight Up",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3373174351,
+   "source": "own",
+   "duration": 110,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "5 AM Freestyle",
+    "Artist": "Luh Nae",
+    "Record Label": "Get Ya Weight Up",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "1"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 1
+   },
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "5AMFREESTYLE|LUHNAE"
+  },
+  {
+   "isrc": "QZPLR2585115",
+   "song": "Money In The Bank",
+   "date": "2025-05-21",
+   "album": "Money In The Bank",
+   "album_id": 758080711,
+   "record_type": "",
+   "label": "Get Ya Weight Up",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3371138431,
+   "source": "own",
+   "duration": 137,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "Money In The Bank",
+    "Artist": "Luh Nae",
+    "Record Label": "Get Ya Weight Up",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "227"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [
+    {
+     "code": "MO1VTX",
+     "id": 1058435271,
+     "title": "MONEY IN THE BANK",
+     "iswc": null,
+     "known": 50,
+     "writers": [
+      {
+       "ipId": 17050946,
+       "fullName": "JANAE CHATMAN",
+       "ipiNumber": null,
+       "roleCode": 9,
+       "propertyId": 1058435271
+      },
+      {
+       "ipId": 15171853,
+       "fullName": "BENJAMIN BIALY",
+       "ipiNumber": "01067976802",
+       "roleCode": 10,
+       "propertyId": 1058435271
+      }
+     ],
+     "client_on": true,
+     "pubs": [
+      {
+       "publisher": "BEATSTARS PUBLISHING WORLDWIDE",
+       "administrator": "SENTRIC MUSIC LIMITED",
+       "share": 50,
+       "writers": [
+        "BENJAMIN BIALY"
+       ],
+       "attributable": false,
+       "artist_named_entity": false
+      }
+     ],
+     "attributable": false,
+     "artist_named_entity": false,
+     "linked": true,
+     "recording_count": 6
+    }
+   ],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "open",
+   "writer_proven": true,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 227
+   },
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "MONEYINTHEBANK|LUHNAE"
+  },
+  {
+   "isrc": "QZPLR2580317",
+   "song": "Can't Stand Me",
+   "date": "2025-05-19",
+   "album": "Can't Stand Me",
+   "album_id": 758027961,
+   "record_type": "",
+   "label": "Get Ya Weight Up",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3370989661,
+   "source": "own",
+   "duration": 116,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "Can't Stand Me",
+    "Artist": "Luh Nae",
+    "Record Label": "Get Ya Weight Up",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "2"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 2
+   },
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "CANTSTANDME|LUHNAE"
+  },
+  {
+   "isrc": "QZPLR2585071",
+   "song": "OVER THAT (feat. Kutta Beatz)",
+   "date": "2025-05-19",
+   "album": "OVER THAT (feat. Kutta Beatz)",
+   "album_id": 758080291,
+   "record_type": "",
+   "label": "Get Ya Weight Up",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3371137461,
+   "source": "own",
+   "duration": 103,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "OVER THAT (feat. Kutta Beatz)",
+    "Artist": "Luh Nae",
+    "Record Label": "Get Ya Weight Up",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "1"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 1
+   },
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "OVERTHAT|LUHNAE"
+  },
+  {
+   "isrc": "QZFYZ2599259",
+   "song": "HIGH",
+   "date": "2025-01-10",
+   "album": "HIGH",
+   "album_id": 694489811,
+   "record_type": "",
+   "label": "Pretty Young Gangsta Music",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3175341331,
+   "source": "own",
+   "duration": 118,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "HIGH",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta Music",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "97"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 97
+   },
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "HIGH|LUHNAE"
+  },
+  {
+   "isrc": "QZZ7L2406923",
+   "song": "FLEX",
+   "date": "2024-11-15",
+   "album": "FLEX",
+   "album_id": 672203231,
+   "record_type": "",
+   "label": "Pretty Young Gangsta Music",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3099112891,
+   "source": "own",
+   "duration": 106,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "FLEX",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta Music",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {},
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "FLEX|LUHNAE"
+  },
+  {
+   "isrc": "QZZ7L2406924",
+   "song": "POP YO SHIT",
+   "date": "2024-11-15",
+   "album": "FLEX",
+   "album_id": 672203231,
+   "record_type": "",
+   "label": "Pretty Young Gangsta Music",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3099112901,
+   "source": "own",
+   "duration": 126,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "POP YO SHIT",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta Music",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "1"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 1
+   },
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "POPYOSHIT|LUHNAE"
+  },
+  {
+   "isrc": "QZZ7L2406925",
+   "song": "espa\u00f1ol",
+   "date": "2024-11-15",
+   "album": "FLEX",
+   "album_id": 672203231,
+   "record_type": "",
+   "label": "Pretty Young Gangsta Music",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ],
+    [
+     "Dreek Jones",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3099112911,
+   "source": "own",
+   "duration": 148,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "espa\u00f1ol",
+    "Artist": "Luh Nae, Dreek Jones",
+    "Record Label": "Pretty Young Gangsta Music",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": ""
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {},
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "ESPANOL|DREEKJONES|LUHNAE"
+  },
+  {
+   "isrc": "QZWFS2411876",
+   "song": "GO",
+   "date": "2024-10-18",
+   "album": "OKAY",
+   "album_id": 659188391,
+   "record_type": "",
+   "label": "Pretty Young Gangsta Music",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3053363311,
+   "source": "own",
+   "duration": 129,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "GO",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta Music",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "8"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 8
+   },
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GO|LUHNAE"
+  },
+  {
+   "isrc": "QZWFS2411875",
+   "song": "OKAY",
+   "date": "2024-10-18",
+   "album": "OKAY",
+   "album_id": 659188391,
+   "record_type": "",
+   "label": "Pretty Young Gangsta Music",
+   "artists": [
+    [
+     "Luh Nae",
+     "Main"
+    ]
+   ],
+   "deezer_track_id": 3053363301,
+   "source": "own",
+   "duration": 124,
+   "identity_basis": "Chartmetric track catalog for the exact Spotify-linked artist profile; source identity requires review where credits conflict",
+   "discovery_source": "Chartmetric complete track CSV, 2026-11-02",
+   "chartmetric_observation": {
+    "Track": "OKAY",
+    "Artist": "Luh Nae",
+    "Record Label": "Pretty Young Gangsta Music",
+    "Spotify Streams": "",
+    "YouTube Views": "",
+    "SoundCloud Streams": "",
+    "Pandora Streams": "",
+    "Shazam Count": "3"
+   },
+   "deezer_isrc_verified": true,
+   "writers_label": [
+    "Janae Chatman"
+   ],
+   "label_client": true,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": true,
+   "status": "missing",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": null,
+   "spotify_id": null,
+   "stream_platforms": {
+    "Shazam Count": 3
+   },
+   "spotify_match_basis": null,
+   "stream_status": "No Spotify ISRC match; Chartmetric count unavailable",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "OKAY|LUHNAE"
+  },
+  {
+   "isrc": "",
+   "song": "GET FREAKY",
+   "date": "2026-10-23",
+   "album": "RV MUSIC",
+   "album_id": null,
+   "record_type": "album",
+   "label": "Wild Beast Incorporated",
+   "artists": [
+    [
+     "King",
+     "Main"
+    ],
+    [
+     "Luh Nae",
+     "Featured"
+    ],
+    [
+     "Dreek Jones",
+     "Featured"
+    ]
+   ],
+   "deezer_track_id": null,
+   "source": "feature",
+   "duration": null,
+   "spotify_catalog_id": "59hK3Ow6Ks2WaXRJUL9muA",
+   "identity_basis": "Spotify track and exact featured artist profile link verified in browser; source catalog does not return an ISRC. Retained with recording identity pending, not omitted.",
+   "discovery_source": "Spotify verified appears-on/artist recording, 2026-11-02",
+   "writers_label": [],
+   "label_client": false,
+   "works": [],
+   "candidate_works": [],
+   "candidate_note": null,
+   "mismatched": [],
+   "checked": false,
+   "status": "pending",
+   "writer_proven": false,
+   "attributable": false,
+   "plays": 1021,
+   "spotify_id": "59hK3Ow6Ks2WaXRJUL9muA",
+   "stream_platforms": {},
+   "spotify_match_basis": "Spotify direct track and artist-profile link; ISRC unavailable, 2026-11-02",
+   "stream_status": "Count supplied",
+   "spotify_version_ambiguous": false,
+   "exposure_group": "GETFREAKY|DREEKJONES|KING|LUHNAE"
   }
  ],
  "attribution_audit": [
@@ -1143,31 +2438,54 @@
    "attributable": false,
    "artist_named_entity_pending": false,
    "duplicate_record_review": false
+  },
+  {
+   "composition": "MONEY IN THE BANK",
+   "mlc_codes": [
+    "MO1VTX"
+   ],
+   "isrcs": [
+    "QZPLR2585115"
+   ],
+   "writer_evidence": "MLC verified writer-name credit",
+   "attributable": false,
+   "artist_named_entity_pending": false,
+   "duplicate_record_review": false
   }
  ],
  "findings": [
   {
-   "title": "One existing work supports a focused attribution review.",
+   "title": "An existing work supports a focused attribution review.",
    "body": "\u201cBEND OVER ATLMIX\u201d <a href=\"https://portal.themlc.com/catalog/work/1117560087\" target=\"_blank\" rel=\"noopener noreferrer\">BI5VM7</a> names <b>LUH NAE</b> and co-writers Calen Lavon Smith and Treyvon Britt. The title, stage name and shared co-writer credit support a match to your catalog recording. The work shows <b>35% total known shares</b>, with 10KCaash Publishing \u2192 Velocity Future Collections naming only Treyvon Britt in its own writer chain. No attributable claim was identified for the Luh Nae writer interest, and no recording is attached to the work. Confirm the composition, account identity and splits, then investigate the recording link and the apparent attribution gap; the 65% open remainder is not automatically yours."
   },
   {
-   "title": "Start with the recordings that already have visible exposure.",
-   "body": "No matching MLC work was identified for <b>28 of 29 reviewed recordings</b>, including the original and remix of \u201cGeeked Shit,\u201d \u201cWhere Ya From,\u201d \u201cI Luv Hoes\u201d and \u201cRacks Just Hit.\u201d The Spotify sample totals <b>3,082,531 plays across nine readable counters</b>. \u201cGeeked Shit\u201d shows 1,050,596 plays and the PLUTO remix shows 1,932,229. These are separate recording/version observations; their streams do not establish how much of either composition you own. \u201cGET FREAKY\u201d also appears on the verified Spotify profile, but its ISRC and counter were not captured and it sits outside the 29-ISRC registry denominator."
+   "title": "Prioritize exposure across the complete discovered catalog.",
+   "body": "No matching MLC work was identified for <b>39 reviewed recordings</b>. The complete catalog review includes <b>43 recordings</b>, with Spotify counters supplied for <b>18</b>. The conservative exposure floor is <b>3,916,577 Spotify plays</b>; unavailable counters are excluded, and overlapping same-title/artist versions are not added together. The per-recording streaming audit preserves every supplied counter and platform value. \u201cGeeked Shit\u201d has two original-delivery identifiers and a separate PLUTO remix. \u201cGET FREAKY,\u201d your feature with King and Dreek Jones, is now included with <b>1,021</b> visible Spotify plays; its ISRC was not returned by the catalog sources and its exact registry link remains pending. Streams do not establish your writing or ownership share."
   },
   {
    "title": "Use Janae Chatman to reconcile your writer identity.",
-   "body": "Your legal-name writer credit appears in label metadata on <b>21 recordings</b>, with four further recordings using the stage name. The MLC LUH NAE writer line on \u201cBend Over\u201d has no IPI shown. Your primary writer IPI and current PRO/MLC accounts were not established by this review. Do not create another writer identity until the existing account and all spelling/name variants have been reconciled."
+   "body": "Your legal-name writer credit appears in label metadata on <b>33 recordings</b>, with 5 further recordings using the stage name. The MLC LUH NAE writer line on \u201cBend Over\u201d has no IPI shown. Your primary writer IPI and current PRO/MLC accounts were not established by this review. Do not create another writer identity until the existing account and all spelling/name variants have been reconciled."
   },
   {
-   "title": "Check both Geeked Shit recording identifiers.",
-   "body": "Deezer returns \u201cGeeked Shit\u201d under <b>QZZ7M2635244</b> (Pretty Young Gangsta) and <b>QZRD92609177</b> (QCLG), plus the remix under <b>QZRD92609207</b>. Treat these as three recording identifiers to verify, not three automatically distinct compositions. Confirm which original recordings share a composition and whether the remix adds writers, then attach the correct recordings to the verified work. Recent-release search misses can reflect ingestion or processing delays; check administrator delivery confirmations before filing."
+   "title": "Reconcile original and alternate delivery identifiers.",
+   "body": "Deezer returns \u201cGeeked Shit\u201d under <b>QZZ7M2635244</b> (Pretty Young Gangsta) and <b>QZRD92609177</b> (QCLG), plus the remix under <b>QZRD92609207</b>. Treat these as three recording identifiers to verify, not three automatically distinct compositions. Confirm which original recordings share a composition and whether the remix adds writers, then attach the correct recordings to the verified work. Recent-release search misses can reflect ingestion or processing delays; check administrator delivery confirmations before filing. The full Chartmetric export also assigns the identical 860,870-play observation to \u201cBend Over (ATLMix)\u201d QZNMT2698440 and \u201cBend Ova\u201d QZLL92621679. That shared source counter is included once in the exposure floor while both ISRCs remain visible for version verification. This does not settle whether the registry works should be the same."
   },
   {
-   "title": "One off-catalog writer-name match is a useful identity lead.",
-   "body": "MLC \u201cMONEY IN THE BANK\u201d <a href=\"https://portal.themlc.com/catalog/work/1058435271\" target=\"_blank\" rel=\"noopener noreferrer\">MO1VTX</a> names JANAE CHATMAN without an IPI and shows <b>50% total known shares</b>. The visible BeatStars \u2192 Sentric claim names Benjamin Bialy in its own writer chain. This title was not found in the reviewed DSP catalog, so it is excluded from all headline counts. Confirm whether it is your composition before treating it as an apparent attribution gap; its 50% open remainder is not automatically your entitlement."
+   "title": "A restored catalog release connects to an existing writer-name lead.",
+   "body": "MLC \u201cMONEY IN THE BANK\u201d <a href=\"https://portal.themlc.com/catalog/work/1058435271\" target=\"_blank\" rel=\"noopener noreferrer\">MO1VTX</a> names JANAE CHATMAN without an IPI and shows <b>50% total known shares</b>. The visible BeatStars \u2192 Sentric claim names Benjamin Bialy in its own writer chain. The complete Chartmetric export restores \u201cMoney In The Bank,\u201d ISRC QZPLR2585115, to the catalog. The title and legal writer name support an existing-work lead, but that recording identifier was not confirmed on the work. It is included as a composition with a recording link needing verification. Confirm the composition, writer identity and splits before any filing; the 50% open remainder is not automatically your entitlement."
   }
  ],
  "supplementary_searches": [
+  {
+   "source_file": "isrc_QZZ7L2406925.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QT3F72593712.json",
+   "total": 0,
+   "work_codes": []
+  },
   {
    "source_file": "title_PLAY_TIME_OVER.json",
    "total": 4,
@@ -1346,6 +2664,36 @@
    "work_codes": []
   },
   {
+   "source_file": "isrc_QZZ7L2406924.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZPEW0887069.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZZ7L2406923.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZPLR2585071.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZWFS2411875.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZPLR2580317.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
    "source_file": "title_I_LUV_HOES.json",
    "total": 0,
    "work_codes": []
@@ -1356,14 +2704,59 @@
    "work_codes": []
   },
   {
+   "source_file": "isrc_QZWFS2411876.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZPLS2583205.json",
+   "total": 0,
+   "work_codes": []
+  },
+  {
    "source_file": "title_GEEKED_SHIT_REMIX.json",
    "total": 0,
    "work_codes": []
   },
   {
+   "source_file": "expanded_control.json",
+   "total": 22,
+   "work_codes": [
+    "BE4PYQ",
+    "BC65M2",
+    "BVDIYC",
+    "BVBQE3",
+    "BF73RU",
+    "BA2APG",
+    "BA7TCK",
+    "B6587F",
+    "BI7JLD",
+    "BO3O71",
+    "BG0P8R",
+    "BC6W6C",
+    "BD41L6",
+    "BA9SU7",
+    "BC0FE0",
+    "BC1KLX",
+    "B60422",
+    "BA616T",
+    "BV8ELH",
+    "BP8T5W",
+    "BF7M4Y",
+    "BD9NV1"
+   ]
+  },
+  {
    "source_file": "title_F_THAT_BITCH.json",
    "total": 0,
    "work_codes": []
+  },
+  {
+   "source_file": "isrc_QZLL92621679.json",
+   "total": 1,
+   "work_codes": [
+    "BJ7YAX"
+   ]
   },
   {
    "source_file": "title_GET_FREAKY.json",
@@ -1456,6 +2849,11 @@
     "W3718R",
     "WB9F9I"
    ]
+  },
+  {
+   "source_file": "isrc_QZFYZ2599259.json",
+   "total": 0,
+   "work_codes": []
   }
  ],
  "gmr_performer_writer_search": null,
@@ -1767,6 +3165,110 @@
    },
    "total": 0,
    "returned": 0
+  },
+  {
+   "key": "expanded_control",
+   "criteria": {
+    "combinedTitlesExact": "BOHEMIAN RHAPSODY"
+   },
+   "total": 22,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZPEW0887069",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZPEW0887069"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZLL92621679",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZLL92621679"
+   },
+   "total": 1,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QT3F72593712",
+   "criteria": {
+    "matchedRecordingIsrcs": "QT3F72593712"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZPLS2583205",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZPLS2583205"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZPLR2580317",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZPLR2580317"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZPLR2585071",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZPLR2585071"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZFYZ2599259",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZFYZ2599259"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZZ7L2406923",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZZ7L2406923"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZZ7L2406924",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZZ7L2406924"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZZ7L2406925",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZZ7L2406925"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZWFS2411876",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZWFS2411876"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
+  },
+  {
+   "key": "isrc_QZWFS2411875",
+   "criteria": {
+    "matchedRecordingIsrcs": "QZWFS2411875"
+   },
+   "total": 0,
+   "source": "Expanded Chartmetric catalog audit"
   }
  ]
 }

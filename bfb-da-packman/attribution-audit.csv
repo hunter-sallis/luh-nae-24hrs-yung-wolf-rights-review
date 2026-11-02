@@ -17,12 +17,12 @@ SCAMYOULOUS,S59SE0,TCAES2019230,MLC verified writer-name credit,True,False,False
 UHHHH,UW7P7P,TCAES2022943,MLC verified writer-name credit,True,False,False
 NORTHSIDE GHETTO SOULJA,ND3GU6,TCAEW2032163,MLC verified writer-name credit,False,True,False
 MADE ME MAD,MO3OVQ,TCAEZ2059705,MLC verified writer-name credit,True,False,False
-FREE JOE EXOTIC,FE9P1E,TCAEX2074092,MLC verified writer-name credit,False,True,False
+FREE JOE EXOTIC,FE9P1E,TCAEX2074092; QMBZ92064619,MLC verified writer-name credit,False,True,False
 FUNTIME,FE9P1N,QMBZ92008383,MLC verified writer-name credit,False,True,False
 HONEY PACK,HQ0ERD,QMBZ92064644; QM4TW2180886,MLC verified writer-name credit,False,True,False
 SLIDE MUSIC,S76RTJ,USQX92100674,MLC verified writer-name credit,True,False,False
 COKE IN THE SPRINTER,CK1CLQ,USUYG1360732; USUYG1375029,MLC verified writer-name credit,True,False,False
-FEDERAL,FB5ZZX,QM4TX2160317,MLC verified writer-name credit,True,False,False
+FEDERAL,FB5ZZX,QM4TX2160317; QM4TX2198281,MLC verified writer-name credit,True,False,False
 WENDY WILLIAMS,WB13L0,QM6P42196852,MLC verified writer-name credit,True,False,False
 NORTHSIDE GHETTO SOLDIER,N95FDZ,QM6N22197020,MLC verified writer-name credit,True,False,False
 OPP IN THE SKY,OM7H5A,QM6N22197159,MLC verified writer-name credit,True,False,False
@@ -38,8 +38,8 @@ CANT BLAME YE,CK1JYZ,TCAGC2235077,MLC verified writer-name credit,True,False,Fal
 LOST WITH MIAMI,LS8WHU,QM24S2201462,MLC verified writer-name credit,True,False,False
 STAINED COUCH,SB6UI8,QM24S2202650,MLC verified writer-name credit,False,True,False
 MEGAN KNEES,MO3OVR,QZK6K2252337,MLC verified writer-name credit,True,False,False
-TRICK,TB9YDP,USUM72220808,MLC verified writer-name credit,False,True,False
-HOE FRIENDS,HB39O3,USUM72222255,MLC verified writer-name credit,False,True,False
+TRICK,TB9YDP,USUM72220808; USUM72220807,MLC verified writer-name credit,False,True,False
+HOE FRIENDS,HB39O3,USUM72222255; USUM72222257,MLC verified writer-name credit,False,True,False
 THE COUNT,T526V5,TCAHB2352317,MLC verified writer-name credit,True,False,False
 GROCERY FREESTYLE,GC2AES,TCAHC2386400,MLC verified writer-name credit,False,True,False
 AREA 51 (PACKMIX) (WITH BFB DA PACKMAN),AC330S,USLD91737293,MLC verified writer-name credit,True,False,False
@@ -49,7 +49,7 @@ AFTER EMINEM,AX8VWX,TCAHE2315440,MLC verified writer-name credit,True,False,Fals
 HOPELESS ISLAND,HP39AG,TCAHF2312572,MLC verified writer-name credit,True,False,False
 LITTLE SPOON,LT2HSH,TCAHI2344448,MLC verified writer-name credit,True,False,False
 SH!TTY PACK (FEAT. BFB DA PACKMAN),SI1GBH,USUYG1501634,MLC verified writer-name credit,True,False,False
-FLINT FLOW,FJ0M6R,USAT22309417,MLC verified writer-name credit,False,True,False
+FLINT FLOW,FJ0M6R,USAT22309417; USAT22309418,MLC verified writer-name credit,False,True,False
 KID GAMES,KB8E3E,QZTB42387437,MLC verified writer-name credit,True,False,False
 DELULU,DS2VRD,TCAHK2339871,MLC verified writer-name credit,True,False,False
 MARVELOUS (FEAT. BFB DA PACKMAN),MI2JK9,QMFME2325401,MLC verified writer-name credit,True,False,False
@@ -89,21 +89,25 @@ BLACC SAM,BP7YH9,TCAJN2501837,MLC verified writer-name credit,False,False,False
 GROOVY GANGSTER,GB5XG6,TCAJM2502357,MLC verified writer-name credit,True,False,False
 BIRD BATH,BE1JPQ,TCAJM2502558,MLC verified writer-name credit,True,False,False
 NO CARBS,N98ASJ,TCAJN2502904,MLC verified writer-name credit,True,False,False
-PLAYIN IT COOL,P92ZA6,USAT22502834,MLC verified writer-name credit,True,False,False
+PLAYIN IT COOL,P92ZA6,USAT22502834; USAT22502835,MLC verified writer-name credit,True,False,False
 TARGET,T52ZCG,TCAJS2503481,MLC verified writer-name credit,True,False,False
 TCB STYLE,T03PQV,QMDA72533781,MLC verified writer-name credit,True,False,False
 CRAB RANGOON,CZ2ZES,TCAKB2505056,MLC verified writer-name credit,False,False,False
 SITTIN,SX3ZS9,TCAKA2505415,MLC verified writer-name credit,True,False,False
 SE LAVI,S76WVA,QT65Y2502210,MLC verified writer-name credit,False,False,False
-BIG BOOM,BF9M5J; BF9UBQ,QT6642534154; USUYG1779783,MLC verified writer-name credit,True,False,True
-"SPUDD THE JEWELER, PT. 2",S76Y21,USUYG1779781,MLC verified writer-name credit,True,False,False
-SMOOTH SHIT TALKING,S76C4S,USUYG1779782,MLC verified writer-name credit,True,False,False
-PLUTO TAUGHT ME,PO4AB3,USUYG1779784,MLC verified writer-name credit,True,False,False
-DR DOLITTLE,DS500Q,USUYG1779785,MLC verified writer-name credit,True,False,False
-EPSTEIN FILES,ES3TIL,USUYG1779786,MLC verified writer-name credit,True,False,False
-STRESSING IN AH MANSION,S76ZCI,USUYG1779787,MLC verified writer-name credit,True,False,False
+BIG BOOM,BF9M5J; BF9UBQ,QT6642534154; USUYG1779783; USUYG1779793,MLC verified writer-name credit,True,False,True
+"SPUDD THE JEWELER, PT. 2",S76Y21,USUYG1779781; QT6652569056,MLC verified writer-name credit,True,False,False
+SMOOTH SHIT TALKING,S76C4S,USUYG1779782; QT6652569057,MLC verified writer-name credit,True,False,False
+PLUTO TAUGHT ME,PO4AB3,USUYG1779784; QT6652569059,MLC verified writer-name credit,True,False,False
+DR DOLITTLE,DS500Q,USUYG1779785; QT6652569060,MLC verified writer-name credit,True,False,False
+EPSTEIN FILES,ES3TIL,USUYG1779786; USUYG1779794; QT6652569061,MLC verified writer-name credit,True,False,False
+STRESSING IN AH MANSION,S76ZCI,USUYG1779787; QT6652569062,MLC verified writer-name credit,True,False,False
 CHEESING,CT3N7J,QT6632601117,MLC verified writer-name credit,True,False,False
 CRYBABY,C57B9Z; C59CAL,QT6632601306,MLC verified writer-name credit,True,False,True
 GET THE BAG,G71MFG,QT6622641693,MLC verified writer-name credit,False,False,False
 SELF THERAPY,S39XXC,QT6662680325,MLC verified writer-name credit,False,False,False
 BUTTERBALL SHAWTY,BI5VMR,QT6662680480,MLC verified writer-name credit,False,False,False
+DOUBLE D'S,D44RDO,QZQAY2672535,MLC verified writer-name credit,False,False,False
+NO SLEEP IN THE STASH HOUSE,N27BAH,QZPEW2627564; QT4K52513965,MLC verified writer-name credit,False,False,False
+A-Z,A99XUA,QZTBD2583911,MLC verified writer-name credit,False,False,False
+FIRST THINGS FIRST,FF041Q,QZK6J2214654,MLC verified writer-name credit,False,False,False
