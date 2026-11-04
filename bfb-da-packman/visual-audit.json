@@ -1,0 +1,2254 @@
+{
+ "basis": "2 November 2026 source snapshot; visuals added 4 November 2026. No new registry or streaming observations.",
+ "categories": {
+  "conflict": "Recording-to-work match needs review",
+  "credit": "Writer attribution needs verification",
+  "unlinked": "Work found \u00b7 recording link unconfirmed",
+  "chain": "Publisher chain/control needs verification",
+  "gap": "Writer evidenced \u00b7 no attributable claim found",
+  "missing": "No MLC work identified",
+  "pending": "Needs verification",
+  "attributed": "Claim attributable to writer identity",
+  "mixed": "Mixed version findings \u00b7 review recordings"
+ },
+ "spotify_basis": "One maximum supplied counter per existing exposure group. Mixed finding groups remain a separate category. Unavailable counters excluded.",
+ "timeline_basis": "One count per retained catalog recording, grouped by source release year and current finding. Publishing-chain counts are per recording per chain, not shares or unique compositions.",
+ "exposure_groups": [
+  {
+   "group": "CONNORSREVENGE|BFBDAPACKMAN",
+   "song": "Connor's Revenge",
+   "plays": 49637,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "ISSASCAM|BFBDAPACKMAN",
+   "song": "Issa Scam",
+   "plays": 178596,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "SNACKTIMEONSOMESHITPATCH|BFBDAPACKMAN",
+   "song": "Snack Time (On Some Shit Patch)",
+   "plays": 464064,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "AUBREYINEEDYOUONTHISSONG|BFBDAPACKMAN",
+   "song": "Aubrey I Need You on This Song",
+   "plays": 302882,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "HIREDATE|BFBDAPACKMAN",
+   "song": "Hire Date",
+   "plays": 65440,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "TAMIKA|BFBDAPACKMAN",
+   "song": "Tamika",
+   "plays": 436247,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "SNACKTIME|BFBDAPACKMAN",
+   "song": "Snack Time",
+   "plays": 464166,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "SAFETYFIRST|BFBDAPACKMAN",
+   "song": "Safety First",
+   "plays": 93237,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "CITEEBOYS|BFBDAPACKMAN",
+   "song": "Citee Boys",
+   "plays": 87211,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "THEWOODLANDS|BFBDAPACKMAN",
+   "song": "The Woodlands",
+   "plays": 148681,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "MARGARINE|BFBDAPACKMAN",
+   "song": "Margarine",
+   "plays": 75690,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "IWONTGOBACK|BFBDAPACKMAN",
+   "song": "I Wont Go Back",
+   "plays": 51051,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "DONE|BFBDAPACKMAN",
+   "song": "Done",
+   "plays": 255430,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "MEXICANJAWN|BFBDAPACKMAN",
+   "song": "Mexican Jawn",
+   "plays": 212918,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "TOGOPLATE|BFBDAPACKMAN",
+   "song": "To Go Plate",
+   "plays": 605565,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "BIGSHARISINTRO|BFBDAPACKMAN",
+   "song": "Big Shari's Intro",
+   "plays": 62621,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "PAROLEOFFICE|BFBDAPACKMAN",
+   "song": "Parole Office",
+   "plays": 422521,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "SERGIOMCFARLANEROBERTTAKBAR|BFBDAPACKMAN",
+   "song": "Sergio McFarlane/Robert Takbar",
+   "plays": 140282,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "IDONTOWNAROLEX|BFBDAPACKMAN",
+   "song": "I Dont Own a Rolex",
+   "plays": 221827,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "FUCKCONDOMS|BFBDAPACKMAN",
+   "song": "Fuck Condoms",
+   "plays": 473411,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "TERRANCETHORTON|BFBDAPACKMAN",
+   "song": "Terrance Thorton",
+   "plays": 100773,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "BLACKSEEDOIL|BFBDAPACKMAN",
+   "song": "BlackSEEDoil",
+   "plays": 289235,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "DONTBEMADATMEOHWELL|BFBDAPACKMAN",
+   "song": "DontBeMadAtMe.. Ohwell",
+   "plays": 155328,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "SCAMYOULOUS|BFBDAPACKMAN|FMBLONGMONEY|TEEJAYX6",
+   "song": "ScamYouLous",
+   "plays": 445919,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Teejayx6, FMB Longmoney"
+  },
+  {
+   "group": "UHHHH|BFBDAPACKMAN",
+   "song": "Uhhhh",
+   "plays": 286839,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "NORTHSIDEGHETTOSOULJA|BFBDAPACKMAN",
+   "song": "NorthSide Ghetto Soulja",
+   "plays": 1410894,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "MADEMEMAD|BFBDAPACKMAN|DICESOHO",
+   "song": "Made Me Mad",
+   "plays": 1017242,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Dice SoHo"
+  },
+  {
+   "group": "LUNCHMONEY|BFBDAPACKMAN|SMOKETHEGREAT",
+   "song": "Lunch Money (feat. BFB Da Packman)",
+   "plays": 36681,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "SmokeTheGreat, Bfb Da Packman"
+  },
+  {
+   "group": "FREEJOEEXOTIC|BFBDAPACKMAN|SADABABY",
+   "song": "Free Joe Exotic",
+   "plays": 23237728,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Sada Baby"
+  },
+  {
+   "group": "FUNTIME|BFBDAPACKMAN|WIZKHALIFA",
+   "song": "Fun Time",
+   "plays": 2140299,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Wiz Khalifa"
+  },
+  {
+   "group": "SLURREDFLOW|BFBDAPACKMAN|REDJAK",
+   "song": "Slurred Flow",
+   "plays": 29538,
+   "category": "missing",
+   "recordings": 4,
+   "spotify_id": "23TEnyopNxsJtDdqYozsWl",
+   "artists": "RedJak, Bfb Da Packman"
+  },
+  {
+   "group": "HONEYPACK|BFBDAPACKMAN",
+   "song": "Honey Pack",
+   "plays": 12187472,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "CANDYLAND|BFBDAPACKMAN|JRUDAKKADURJ",
+   "song": "Candyland (feat. Bfb Da Packman)",
+   "plays": 1647,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jrudak kadurj, Bfb Da Packman"
+  },
+  {
+   "group": "HONEYPACKREMIX|BFBDAPACKMAN|DDG|LILYACHTY",
+   "song": "Honey Pack (feat. Lil Yachty & DDG) (Remix)",
+   "plays": 3760871,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Lil Yachty, DDG"
+  },
+  {
+   "group": "SLIDEMUSIC|BFBDAPACKMAN|ZENORACHI",
+   "song": "Slide Music",
+   "plays": 241655,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "zenorachi, Bfb Da Packman"
+  },
+  {
+   "group": "COKEINTHESPRINTER|BFBDAPACKMAN|DICESOHO",
+   "song": "Coke in the sprinter",
+   "plays": 89329,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Dice SoHo, Bfb Da Packman"
+  },
+  {
+   "group": "FEDERAL|BFBDAPACKMAN",
+   "song": "Federal",
+   "plays": 1277090,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": "1TYY6rPFNDA59opvJjPhPy",
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "WENDYWILLIAMS|BFBDAPACKMAN",
+   "song": "Wendy Williams",
+   "plays": 425781,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "NORTHSIDEGHETTOSOLDIER|BFBDAPACKMAN",
+   "song": "Northside Ghetto Soldier",
+   "plays": 1416395,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "OPPINTHESKY|BFBDAPACKMAN|NOODAH05",
+   "song": "Opp in the Sky (feat. Noodah05)",
+   "plays": 216582,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Noodah05"
+  },
+  {
+   "group": "WEEKENDATSOLOMONS|BFBDAPACKMAN",
+   "song": "Weekend at Solomon's",
+   "plays": 668156,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "OCEANPRIME|BFBDAPACKMAN|COILERAY",
+   "song": "Ocean Prime (feat. Coi Leray)",
+   "plays": 17148345,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Coi Leray"
+  },
+  {
+   "group": "FRENCHMEN|BENNYTHEBUTCHER|BFBDAPACKMAN",
+   "song": "Frenchmen (feat. Benny the Butcher)",
+   "plays": 311899,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Benny The Butcher"
+  },
+  {
+   "group": "SKIT3|BFBDAPACKMAN",
+   "song": "Skit #3",
+   "plays": 195561,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "AQUA|BFBDAPACKMAN|PAYROLLGIOVANNI",
+   "song": "Aqua",
+   "plays": 328694,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Payroll Giovanni"
+  },
+  {
+   "group": "BIGBERTHA|BFBDAPACKMAN|SADABABY",
+   "song": "Big Bertha (feat. Sada Baby)",
+   "plays": 224112,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Sada Baby"
+  },
+  {
+   "group": "BOBANDWEAVE|BFBDAPACKMAN|ZACKFOX",
+   "song": "Bob and Weave",
+   "plays": 2368875,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Zack Fox"
+  },
+  {
+   "group": "ENILAK|BFBDAPACKMAN",
+   "song": "Enilak",
+   "plays": 184898,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "CANTBLAMEYE|BFBDAPACKMAN",
+   "song": "Cant Blame Ye",
+   "plays": 1438390,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "LOSTWITHMIAMI|BFBDAPACKMAN",
+   "song": "Lost With Miami",
+   "plays": 229592,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "STAINEDCOUCH|BFBDAPACKMAN",
+   "song": "Stained Couch",
+   "plays": 1174468,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "MEGANKNEES|BFBDAPACKMAN",
+   "song": "Megan Knees",
+   "plays": 182574,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "FREEYSL|BFBDAPACKMAN|GIZZLEGILLIANTE",
+   "song": "FREE YSL (feat. Bfb da packman)",
+   "plays": 226906,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Gizzle Gilliante, Bfb Da Packman"
+  },
+  {
+   "group": "TRICK|BFBDAPACKMAN",
+   "song": "Trick",
+   "plays": 134991,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "HOEFRIENDS|BFBDAPACKMAN",
+   "song": "Hoe Friends",
+   "plays": 209854,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "ABMODE|ALLBLACK|BFBDAPACKMAN",
+   "song": "AB Mode",
+   "plays": 272471,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "ALLBLACK, Bfb Da Packman"
+  },
+  {
+   "group": "GRILLEDCHEESE|BFBDAPACKMAN|FUNNYMARCO",
+   "song": "Grilled Cheese (feat. Bfb Da Packman)",
+   "plays": 23744,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Funny Marco, Bfb Da Packman"
+  },
+  {
+   "group": "REINSTATEMAEGANHALL|ADRIANBARNES|BFBDAPACKMAN",
+   "song": "Reinstate Maegan Hall",
+   "plays": 57100,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Adrian Barnes, Bfb Da Packman"
+  },
+  {
+   "group": "GODDAMNLIE|ANGELOBOMBAY|BFBDAPACKMAN|BOBBYRAPS|FINDINGNOVYON",
+   "song": "God Damn Lie",
+   "plays": 25627,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Finding Novyon, Angelo Bombay, Bfb Da Packman, Bobby Raps"
+  },
+  {
+   "group": "WHATSTHEWORD|BFBDAPACKMAN|JONAHRAINE",
+   "song": "What's the Word (feat. Bfb Da Packman)",
+   "plays": 29026,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jonah Raine, Bfb Da Packman"
+  },
+  {
+   "group": "THECOUNT|BFBDAPACKMAN",
+   "song": "The Count",
+   "plays": 151690,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "HEAVYMOTION|BFBDAPACKMAN|GOLDENBOYCOUNTUP",
+   "song": "Heavy Motion",
+   "plays": 952263,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Goldenboy Countup, Bfb Da Packman"
+  },
+  {
+   "group": "GROCERYFREESTYLE|BFBDAPACKMAN",
+   "song": "Grocery Freestyle",
+   "plays": 6434676,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "AREA51PACKMIX|BFBDAPACKMAN|BIGKAYBEEZY",
+   "song": "Area 51 (PackMix)",
+   "plays": 793543,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "BigKayBeezy, Bfb Da Packman"
+  },
+  {
+   "group": "PACMAN|24LIK|BFBDAPACKMAN",
+   "song": "Pac Man",
+   "plays": 269218,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24Lik, Bfb Da Packman"
+  },
+  {
+   "group": "FATTBLACCTWINS|BFBDAPACKMAN|MAXOKREAM",
+   "song": "Fatt Blacc Twins (feat. Bfb Da Packman)",
+   "plays": 1121037,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Maxo Kream, Bfb Da Packman"
+  },
+  {
+   "group": "AFTEREMINEM|BFBDAPACKMAN",
+   "song": "After Eminem",
+   "plays": 1055705,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "HOPELESSISLAND|BFBDAPACKMAN",
+   "song": "Hopeless Island",
+   "plays": 477487,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "GROCERYFREESTYLEBLACCMASSMIX|BFBDAPACKMAN",
+   "song": "Grocery Freestyle (Blaccmass Mix)",
+   "plays": 104310,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "LITTLESPOON|BFBDAPACKMAN",
+   "song": "Little Spoon",
+   "plays": 281582,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "MANUP|BFBDAPACKMAN|CASHKIDD",
+   "song": "Man Up",
+   "plays": 976154,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Cash Kidd, Bfb Da Packman"
+  },
+  {
+   "group": "SHTTYPACK|BFBDAPACKMAN|SHITTYBOYZ",
+   "song": "Sh!tty Pack",
+   "plays": 2479926,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "ShittyBoyz, Bfb Da Packman"
+  },
+  {
+   "group": "FLINTFLOW|BABYFXCEE|BFBDAPACKMAN|KRISPYLIFEKIDD|LOUIERAY|RMCMIKE|YSRGRAMZ",
+   "song": "Flint Flow (feat. RMC Mike, KrispyLife Kidd, Louie Ray, Bfb Da Packman, YSR Gramz)",
+   "plays": 12127990,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Babyfxce E, RMC Mike, KrispyLife Kidd, Louie Ray, Bfb Da Packman, Ysr Gramz"
+  },
+  {
+   "group": "KRISPYLUNCHCREW|BFBDAPACKMAN|KRISPYLIFEKIDD",
+   "song": "Krispy Lunchcrew",
+   "plays": 317752,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "KrispyLife Kidd, Bfb Da Packman"
+  },
+  {
+   "group": "KIDGAMES|BFBDAPACKMAN",
+   "song": "KID GAMES",
+   "plays": 126681,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "DELULU|BFBDAPACKMAN|DDG",
+   "song": "Delulu",
+   "plays": 2490710,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, DDG"
+  },
+  {
+   "group": "MARVELOUS|BFBDAPACKMAN|PREMORICE",
+   "song": "MARVELOUS (feat. Bfb Da Packman)",
+   "plays": 322323,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Premo Rice, Bfb Da Packman"
+  },
+  {
+   "group": "NUMBPACKPT2|BFBDAPACKMAN|KURTISNUMB",
+   "song": "NumbPack Pt2 (feat. Bfb Da Packman)",
+   "plays": 4033,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Kurtis Numb, Bfb Da Packman"
+  },
+  {
+   "group": "DIFFERENTSTROKES|AWALLTRENT|BFBDAPACKMAN",
+   "song": "Different strokes (feat. Bfb da Packman)",
+   "plays": 9954,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Awall Trent, Bfb Da Packman"
+  },
+  {
+   "group": "RILEYFREEMAN|BFBDAPACKMAN|YSRGRAMZ",
+   "song": "Riley Freeman (feat. Bfb Da Packman)",
+   "plays": 35895,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ysr Gramz, Bfb Da Packman"
+  },
+  {
+   "group": "KENTUCKYLOVE|BABYFXCEE|BFBDAPACKMAN|KRISPYLIFEKIDD",
+   "song": "Kentucky Love",
+   "plays": 34489796,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Babyfxce E, KrispyLife Kidd"
+  },
+  {
+   "group": "TRUSTTHEPROCESS|BFBDAPACKMAN|PHILTHYRICH",
+   "song": "TRUST THE PROCESS",
+   "plays": 83051,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Philthy Rich, Bfb Da Packman"
+  },
+  {
+   "group": "ILIKE|BFBDAPACKMAN|YHUNGTO",
+   "song": "I LIKE",
+   "plays": 13112,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yhung T.O., Bfb Da Packman"
+  },
+  {
+   "group": "YESORNO|BFBDAPACKMAN|COACHJOEY",
+   "song": "Yes Or No",
+   "plays": 11617,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Coach Joey, Bfb Da Packman"
+  },
+  {
+   "group": "FLASHLIGHT|BFBDAPACKMAN|LUHGARY",
+   "song": "Flashlight (feat. Bfb Da Packman)",
+   "plays": 12477,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luhgary, Bfb Da Packman"
+  },
+  {
+   "group": "PEANUTBUTTER|BFBDAPACKMAN|COOTIE",
+   "song": "Peanut Butter (feat. Bfb Da Packman)",
+   "plays": 72992,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Cootie, Bfb Da Packman"
+  },
+  {
+   "group": "SHAME|BFBDAPACKMAN|YHUNGTO",
+   "song": "Shame",
+   "plays": 683915,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Yhung T.O."
+  },
+  {
+   "group": "RICE|BFBDAPACKMAN",
+   "song": "Rice",
+   "plays": 1970886,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "OLYMPICSHITTALKIN|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Olympic Shit Talkin",
+   "plays": 3924924,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung OG"
+  },
+  {
+   "group": "GILLIEFEST|BFBDAPACKMAN",
+   "song": "Gillie Fest",
+   "plays": 1706863,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "HEAVYFRAUD|BFBDAPACKMAN|SKILLABABY",
+   "song": "Heavy Fraud",
+   "plays": 1658996,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Skilla Baby"
+  },
+  {
+   "group": "ONYOUBAD|03GREEDO|BFBDAPACKMAN",
+   "song": "On You Bad",
+   "plays": 238720,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, 03 Greedo"
+  },
+  {
+   "group": "SPUDDTHEJEWELER|BABYFXCEE|BFBDAPACKMAN|KRISPYLIFEKIDD",
+   "song": "Spudd the Jeweler",
+   "plays": 2418531,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Babyfxce E, KrispyLife Kidd"
+  },
+  {
+   "group": "ICEPACK|BFBDAPACKMAN|ICEWEARVEZZO",
+   "song": "Ice Pack",
+   "plays": 799918,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Icewear Vezzo"
+  },
+  {
+   "group": "LEANBREAK2|BFBDAPACKMAN",
+   "song": "Lean Break 2",
+   "plays": 603228,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "GRINDHARDTHERAPY|BFBDAPACKMAN|STARLITO",
+   "song": "GrindHard Therapy",
+   "plays": 191186,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Starlito"
+  },
+  {
+   "group": "FLINTLASKA|BFBDAPACKMAN|LILDR3CO",
+   "song": "Flint-Laska (feat. Bfb Da Packman)",
+   "plays": 21012,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "LilDr3co, Bfb Da Packman"
+  },
+  {
+   "group": "FLINTSTONES|BABYFXCEE|BFBDAPACKMAN|GRINDHARDE|KRISPYLIFEKIDD|LOUIERAY|RMCMIKE|YNJAY|YSRGRAMZ",
+   "song": "Flint Stones (feat. Babyfxce E, Ysr Gramz, GrindHard E, KrispyLife Kidd, Bfb Da Packman)",
+   "plays": 1190535,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "YN Jay, RMC Mike, Louie Ray, Ysr Gramz, Bfb Da Packman, Grindhard E, KrispyLife Kidd, Babyfxce E"
+  },
+  {
+   "group": "WHITEHORSE|501NIFICENT|BFBDAPACKMAN",
+   "song": "White Horse (feat. Bfb Da Packman)",
+   "plays": 16542,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "501nificent, Bfb Da Packman"
+  },
+  {
+   "group": "MONEYBATTLE|BFBDAPACKMAN|RALFYTHEPLUG",
+   "song": "Money Battle (feat. Bfb Da Packman)",
+   "plays": 39222,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ralfy the Plug, Bfb Da Packman"
+  },
+  {
+   "group": "KATYPERRY|BFBDAPACKMAN",
+   "song": "Katy Perry",
+   "plays": 1022377,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "THEHOOKUP|BFBDAPACKMAN",
+   "song": "The Hook Up",
+   "plays": 195039,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "STOPPLAYING|BFBDAPACKMAN|CHICKENP",
+   "song": "Stop Playing",
+   "plays": 98542,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Chicken P"
+  },
+  {
+   "group": "CHEESESTIXXINTRO|BFBDAPACKMAN",
+   "song": "CheeseStixx Intro",
+   "plays": 69347,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "SYRUPDAMAGE|BFBDAPACKMAN",
+   "song": "Syrup Damage",
+   "plays": 8273281,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "HOOCHIEWALLY|BFBDAPACKMAN|SADABABY|YNJAY",
+   "song": "Hoochie Wally",
+   "plays": 2020865,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Sada Baby, YN Jay"
+  },
+  {
+   "group": "2FEET|BFBDAPACKMAN",
+   "song": "2 Feet",
+   "plays": 2767194,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "YOUMARVELOUS|BFBDAPACKMAN",
+   "song": "You Marvelous",
+   "plays": 516352,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "WOCKHART|BFBDAPACKMAN",
+   "song": "Wockhart",
+   "plays": 653984,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "BOOSIEHOUSE|BFBDAPACKMAN",
+   "song": "Boosie House",
+   "plays": 733009,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "THETERRIBLELOVER|BFBDAPACKMAN",
+   "song": "The Terrible Lover",
+   "plays": 91022,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "MICHLANTAHOUSTON|ALLSTARJR|BABYMONEY|BFBDAPACKMAN",
+   "song": "MichLantaHouston",
+   "plays": 274153,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Baby Money, Allstar Jr"
+  },
+  {
+   "group": "CHEESESTIXXLASTTIMEOUT|BFBDAPACKMAN",
+   "song": "Cheesestixx Last Time Out",
+   "plays": 54301,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "CHICKENTINDERDIPPEDINRANCH|BFBDAPACKMAN|RMCMIKE",
+   "song": "Chicken Tinder Dipped in Ranch",
+   "plays": 732066,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, RMC Mike"
+  },
+  {
+   "group": "BRITNEYSPEARS|BFBDAPACKMAN|CLARESIOBHAN|HELLUVA",
+   "song": "Britney Spears (feat. Bfb Da Packman & Clare Siobhan)",
+   "plays": 60918,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Helluva, Bfb Da Packman, Clare Siobhan"
+  },
+  {
+   "group": "DRIVETHRU|BFBDAPACKMAN|ENRGYBEATS|KILDAOT",
+   "song": "Drive Thru! (feat. Bfb Da Packman & Enrgy Beats)",
+   "plays": 3536,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Kil Da OT, Bfb Da Packman, ENRGY BEATS"
+  },
+  {
+   "group": "LOVELATTO|BFBDAPACKMAN|TAYKEITH",
+   "song": "Love Latto",
+   "plays": 255953,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Tay Keith"
+  },
+  {
+   "group": "TIMTEBOW|BFBDAPACKMAN|KRISPYLIFEKIDD|STUNTMANBEATZ",
+   "song": "Tim Tebow",
+   "plays": 13155,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "KrispyLife Kidd, Stuntman Beatz, Bfb Da Packman"
+  },
+  {
+   "group": "UNCLEBERNIE|BFBDAPACKMAN|REESEYOUNGN",
+   "song": "Uncle Bernie",
+   "plays": 47039,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Reese Youngn, Bfb Da Packman"
+  },
+  {
+   "group": "JINKIES|BFBDAPACKMAN",
+   "song": "Jinkies",
+   "plays": 1377866,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "THETIP|BFBDAPACKMAN|LILJASON",
+   "song": "The Tip (feat. Bfb Da Packman)",
+   "plays": 6349,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lil Jason, Bfb Da Packman"
+  },
+  {
+   "group": "MORETHANBRILLIANT|BFBDAPACKMAN|MIKE|STARLITO",
+   "song": "MoreThanBRILLIANT!",
+   "plays": 135691,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Mike, Starlito"
+  },
+  {
+   "group": "FIXAHFIEN|BFBDAPACKMAN",
+   "song": "Fix Ah Fien",
+   "plays": 2257923,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "OZEMPIC|BFBDAPACKMAN",
+   "song": "Ozempic",
+   "plays": 235585,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "TOPSIDER|BFBDAPACKMAN|SMETAXFREE",
+   "song": "Top Sider",
+   "plays": 178066,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, SME TaxFree"
+  },
+  {
+   "group": "FREEBLUEFACE|BFBDAPACKMAN",
+   "song": "Free Blueface",
+   "plays": 475742,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "STICKYBUSINESS|BABYFXCEE|BABYKIA|BFBDAPACKMAN",
+   "song": "Sticky Business",
+   "plays": 259719,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Babyfxce E, Baby Kia"
+  },
+  {
+   "group": "BLACCSAM|BFBDAPACKMAN|DETWANLOVE",
+   "song": "Blacc Sam",
+   "plays": 387594,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Detwan Love"
+  },
+  {
+   "group": "GROOVYGANGSTER|BFBDAPACKMAN|LARUSSELL",
+   "song": "Groovy Gangster",
+   "plays": 360017,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, LaRussell"
+  },
+  {
+   "group": "BIRDBATH|BFBDAPACKMAN",
+   "song": "Bird Bath",
+   "plays": 2146276,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "UNHEALTHYMEALSONLY|BFBDAPACKMAN|RTBMB",
+   "song": "Unhealthy Meals Only",
+   "plays": 127134,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, RTB MB"
+  },
+  {
+   "group": "VANESSATHOMKINS|BFBDAPACKMAN",
+   "song": "Vanessa Thomkins",
+   "plays": 878914,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "NOCARBS|BFBDAPACKMAN",
+   "song": "No Carbs",
+   "plays": 155781,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "CHICKEN|BFBDAPACKMAN|GMGKEMP",
+   "song": "Chicken (feat. Bfb Da Packman)",
+   "plays": 35452,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "GMG Kemp, Bfb Da Packman"
+  },
+  {
+   "group": "UNOREVERSE|BFBDAPACKMAN|FWMKALEBB",
+   "song": "UNO Reverse",
+   "plays": 473145,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "fwm.kalebb, Bfb Da Packman"
+  },
+  {
+   "group": "PLAYINITCOOL|BFBDAPACKMAN|HEADHUNCHOAMIR",
+   "song": "PLAYIN IT COOL (feat. Bfb Da Packman)",
+   "plays": 480642,
+   "category": "unlinked",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Headhuncho Amir, Bfb Da Packman"
+  },
+  {
+   "group": "INMYPOCKET|BFBDAPACKMAN|CARTIER",
+   "song": "In My Pocket",
+   "plays": 27668,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Cartier, Bfb Da Packman"
+  },
+  {
+   "group": "TELLONME4|BFBDAPACKMAN|SUPAKING",
+   "song": "Tell On Me 4 (feat. Bfb Da Packman)",
+   "plays": 56421,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Supa King, Bfb Da Packman"
+  },
+  {
+   "group": "TARGET|BFBDAPACKMAN|TYLAYAWEH",
+   "song": "Target",
+   "plays": 134421,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Tyla Yaweh"
+  },
+  {
+   "group": "SUMMERTIME|BFBDAPACKMAN|DJUPDOE|LOUIERAY",
+   "song": "Summertime (feat. BFB Da Packman & LOUIE RAY)",
+   "plays": 16084,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "DJ Updoe, Bfb Da Packman, Louie Ray"
+  },
+  {
+   "group": "ANNEFRANK|BFBDAPACKMAN|MDBQLOC",
+   "song": "Anne Frank (feat. Bfb Da Packman)",
+   "plays": 7066,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MDB QLoc, Bfb Da Packman"
+  },
+  {
+   "group": "FLASHINGPINTS|BFBDAPACKMAN",
+   "song": "FLASHING PINTS",
+   "plays": 331447,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "WINNERSCIRCLE|ALLSTARJR|BABYFXCEE|BFBDAPACKMAN|LOUIERAY",
+   "song": "Winners Circle (feat. Bfb Da Packman, Babyfxce E)",
+   "plays": 157502,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Allstar Jr, Louie Ray, Bfb Da Packman, Babyfxce E"
+  },
+  {
+   "group": "TCBSTYLE|BFBDAPACKMAN|PREMORICE|TONYSHHNOW",
+   "song": "TCB Style",
+   "plays": 403302,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Premo Rice, Tony Shhnow, Bfb Da Packman"
+  },
+  {
+   "group": "CRABRANGOON|BFBDAPACKMAN|GRINDHARDE|KINGCASHES",
+   "song": "Crab Rangoon",
+   "plays": 176977,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, King Cashes, Grindhard E"
+  },
+  {
+   "group": "SITTIN|BFBDAPACKMAN|ROB49",
+   "song": "Sittin",
+   "plays": 1220254,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rob 49"
+  },
+  {
+   "group": "ILLIMITABLEDOGSHIT|ALLSTARJR|BFBDAPACKMAN",
+   "song": "Illimitable Dog Shit",
+   "plays": 177709,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Allstar Jr"
+  },
+  {
+   "group": "DOECHII|BFBDAPACKMAN|YUNGGRAVY",
+   "song": "Doechii",
+   "plays": 179671,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Yung Gravy"
+  },
+  {
+   "group": "FREECHICKENP|BFBDAPACKMAN",
+   "song": "Free Chicken P",
+   "plays": 1017125,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "FLYINGCOLORS|BFBDAPACKMAN|KINGHENDRICK",
+   "song": "Flying Colors",
+   "plays": 132669,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, King Hendrick$"
+  },
+  {
+   "group": "SELAVI|BFBDAPACKMAN|BIGSAD1900|KTFOREIGN",
+   "song": "Se Lavi",
+   "plays": 99861,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Big Sad 1900, Kt Foreign"
+  },
+  {
+   "group": "WHAM|BFBDAPACKMAN",
+   "song": "Wham",
+   "plays": 155038,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "XXXXL|BFBDAPACKMAN|HEADHUNCHOAMIR",
+   "song": "Xxxxl",
+   "plays": 45281,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Headhuncho Amir"
+  },
+  {
+   "group": "DOECHIIIMAFIATHON|BFBDAPACKMAN",
+   "song": "Doechiii Mafiathon",
+   "plays": 430504,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "HOTELZAZA|BFBDAPACKMAN",
+   "song": "Hotel Zaza",
+   "plays": 59683,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "BIGMAMA|1KNAE|BFBDAPACKMAN",
+   "song": "Big Mama",
+   "plays": 57598,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "1K Nae, Bfb Da Packman"
+  },
+  {
+   "group": "EVICTED|BFBDAPACKMAN|SOLOMIRI",
+   "song": "Evicted (feat. Bfb Da Packman)",
+   "plays": 13059,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Solo Miri, Bfb Da Packman"
+  },
+  {
+   "group": "STLETTOSTEPPER|BFBDAPACKMAN|KTFOREIGN",
+   "song": "STLETTO STEPPER",
+   "plays": 29696,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Kt Foreign, Bfb Da Packman"
+  },
+  {
+   "group": "BIGBOOM|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Big Boom",
+   "plays": 1355702,
+   "category": "mixed",
+   "recordings": 3,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung OG"
+  },
+  {
+   "group": "JINKIESSLOWED|BFBDAPACKMAN|BFBDAPACKMAN",
+   "song": "Jinkies (Slowed)",
+   "plays": 7195,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": "1iI1OweaXgvN435OGL46Yp",
+   "artists": "Bfb Da Packman, Bfb Da Packman"
+  },
+  {
+   "group": "BIGBOOMATMIX|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Big Boom at MIX",
+   "plays": 2355438,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung OG"
+  },
+  {
+   "group": "CRIMSONTIED|BABYFXCEE|BFBDAPACKMAN|KRISPYLIFEKIDD",
+   "song": "Crimson Tied",
+   "plays": 382147,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "KrispyLife Kidd, Bfb Da Packman, Babyfxce E"
+  },
+  {
+   "group": "SPUDDTHEJEWELERPT2|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Spudd the Jeweler, Pt. 2",
+   "plays": 1058054,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung OG"
+  },
+  {
+   "group": "SMOOTHSHITTALKING|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Smooth Shit Talking",
+   "plays": 428494,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung OG"
+  },
+  {
+   "group": "PLUTOTAUGHTME|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Pluto Taught Me",
+   "plays": 403077,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung OG"
+  },
+  {
+   "group": "DRDOLITTLE|BFBDAPACKMAN|LUHMONTI|RIODAYUNGOG",
+   "song": "Dr Dolittle",
+   "plays": 387699,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung OG, luh Monti"
+  },
+  {
+   "group": "EPSTEINFILES|BABYFXCEE|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Epstein Files",
+   "plays": 1252805,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung OG, Babyfxce E"
+  },
+  {
+   "group": "STRESSINGINAHMANSION|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Stressing in Ah Mansion",
+   "plays": 371808,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung OG"
+  },
+  {
+   "group": "BILLBELICHICK|BFBDAPACKMAN|MGSLEEPY|MYAAP",
+   "song": "Bill Belichick",
+   "plays": 462640,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Mg Sleepy, Bfb Da Packman, Myaap"
+  },
+  {
+   "group": "GOLDENGOOSES|BFBDAPACKMAN|SADABABY",
+   "song": "Golden Gooses",
+   "plays": 230593,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Sada Baby"
+  },
+  {
+   "group": "YEAHIKNOW|ATMDANNY|BFBDAPACKMAN|JEFFSKIGH",
+   "song": "Yeah I Know",
+   "plays": 389813,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jeff Skigh, ATM Danny, Bfb Da Packman"
+  },
+  {
+   "group": "THELOVEHATESONG|BFBDAPACKMAN|DETWANLOVE",
+   "song": "The Love Hate Song",
+   "plays": 136770,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Detwan Love"
+  },
+  {
+   "group": "GOLDENGOOSESATMIX|BFBDAPACKMAN|SADABABY",
+   "song": "Golden Gooses A.T. MIX",
+   "plays": 148055,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Sada Baby, Bfb Da Packman"
+  },
+  {
+   "group": "KNOCKKNOCK|ATLRG|BFBDAPACKMAN",
+   "song": "Knock Knock",
+   "plays": 68436,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "At LRG, Bfb Da Packman"
+  },
+  {
+   "group": "CHEESING|BFBDAPACKMAN|KEYGLOCK",
+   "song": "Cheesing",
+   "plays": 599065,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Key Glock"
+  },
+  {
+   "group": "CRYBABY|BFBDAPACKMAN|KEVINGATES",
+   "song": "Crybaby",
+   "plays": 584392,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Kevin Gates"
+  },
+  {
+   "group": "JUICINUP|BFBDAPACKMAN|TAFIA",
+   "song": "Juicin Up",
+   "plays": 7531,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "2856QlPj5Eh89MAp7waq9u",
+   "artists": "Tafia, Bfb Da Packman"
+  },
+  {
+   "group": "WEAINTMOVINTHESAME|BFBDAPACKMAN|KINGHENDRICK|SAMUELSHABAZZ",
+   "song": "We Aint Movin the Same",
+   "plays": 53312,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Hendrick$, Samuel Shabazz, Bfb Da Packman"
+  },
+  {
+   "group": "GETTHEBAG|BFBDAPACKMAN|DUCKMAN|KINGHENDRICK",
+   "song": "Get the Bag",
+   "plays": 91894,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Hendrick$, Bfb Da Packman, Duckman"
+  },
+  {
+   "group": "BADDIE|APAPS|BFBDAPACKMAN",
+   "song": "Baddie (feat. Bfb Da Packman)",
+   "plays": 5763,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "A.Paps, Bfb Da Packman"
+  },
+  {
+   "group": "1113|BFBDAPACKMAN|TELLYBABY",
+   "song": "11:13 (feat. Bfb Da Packman)",
+   "plays": 8731,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "TellyBaby, Bfb Da Packman"
+  },
+  {
+   "group": "NOMURK|BFBDAPACKMAN",
+   "song": "No Murk",
+   "plays": 98954,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "LILCRACKBABY|BFBDAPACKMAN",
+   "song": "Lil Crack Baby",
+   "plays": 77388,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "MYCHART|BFBDAPACKMAN",
+   "song": "MYCHART",
+   "plays": 135610,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "BADBUNNY|BFBDAPACKMAN",
+   "song": "BAD BUNNY",
+   "plays": 34348,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "CULLYMUSIC|BFBDAPACKMAN",
+   "song": "CULLY MUSIC",
+   "plays": 46738,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "IMPOSSIBLEHAPPINESS|BFBDAPACKMAN",
+   "song": "Impossible Happiness",
+   "plays": 21732,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "SHITTALKINGJAZZ|BFBDAPACKMAN|KRISPYLIFEKIDD",
+   "song": "Shit Talking Jazz",
+   "plays": 65196,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, KrispyLife Kidd"
+  },
+  {
+   "group": "9PILLS|BFBDAPACKMAN|RMCMIKE",
+   "song": "9 Pills",
+   "plays": 354604,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, RMC Mike"
+  },
+  {
+   "group": "ESCORTLOVE|BFBDAPACKMAN",
+   "song": "Escort LOVE",
+   "plays": 28395,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "FISHINGFIT|BFBDAPACKMAN|KRISPYLIFEKIDD|MONEYFRANKLIN",
+   "song": "Fishing Fit",
+   "plays": 32310,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, KrispyLife Kidd, Money franklin"
+  },
+  {
+   "group": "SELFTHERAPY|BFBDAPACKMAN",
+   "song": "SELF THERAPY",
+   "plays": 67382,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "SPECIALEDUCATION|BFBDAPACKMAN|RMCMIKE",
+   "song": "SPECIAL EDUCATION",
+   "plays": 46889,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, RMC Mike"
+  },
+  {
+   "group": "BUTTERBALLSHAWTY|BFBDAPACKMAN",
+   "song": "ButterBALL SHAWTY",
+   "plays": 108235,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "SWISSROLL|BFBDAPACKMAN|SADABABY",
+   "song": "SwissROLL",
+   "plays": 139171,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Sada Baby"
+  },
+  {
+   "group": "ANTISOCIAL|BFBDAPACKMAN|KRISPYLIFEKIDD|OFTEN",
+   "song": "Anti-Social (feat. Bfb Da Packman & KrispyLife Kidd)",
+   "plays": 7953,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Often, Bfb Da Packman, KrispyLife Kidd"
+  },
+  {
+   "group": "CUTTINUP|BFBDAPACKMAN|MRBANKROLL|RG|SIETEGANGYABBIE|TINYDOWN",
+   "song": "Cuttin Up",
+   "plays": 60308,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "RG, Bfb Da Packman, SieteGang Yabbie, Tinydown, Mr. Bankroll"
+  },
+  {
+   "group": "SNEAKYBEATVSPACKMAN|BFBDAPACKMAN",
+   "song": "Sneaky Beat VS PACKMAN",
+   "plays": 260707,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "CRACKGAMES|BFBDAPACKMAN|BIGTROUB",
+   "song": "Crack Games",
+   "plays": 21903,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Big Troub, Bfb Da Packman"
+  },
+  {
+   "group": "HOWTOBALL|BFBDAPACKMAN|DBBOUTABAG",
+   "song": "How To Ball (feat. Bfb Da Packman)",
+   "plays": 26835,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "DB.Boutabag, Bfb Da Packman"
+  },
+  {
+   "group": "GETMONEY|BFBDAPACKMAN|LUHMONTI",
+   "song": "Get Money (feat. Bfb Da Packman)",
+   "plays": 8866,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "luh Monti, Bfb Da Packman"
+  },
+  {
+   "group": "SLYCOOPER|BFBDAPACKMAN",
+   "song": "Sly cooper",
+   "plays": 29806,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "PRESSURE|BFBDAPACKMAN",
+   "song": "PresSURE",
+   "plays": 15729,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman"
+  },
+  {
+   "group": "FREEKALEEK|BFBDAPACKMAN|DREGO|JUGGHARDEN|LUHHDYL",
+   "song": "Freek-A-Leek (feat. Bfb Da Packman, Luhh Dyl & Drego)",
+   "plays": 39260,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jugg Harden, Bfb Da Packman, Luhh Dyl, Drego"
+  },
+  {
+   "group": "JEALOUS|BFBDAPACKMAN|JONNIE",
+   "song": "JEALOUS",
+   "plays": 5313,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "JONNIE, Bfb Da Packman"
+  },
+  {
+   "group": "DOUBLEDS|BFBDAPACKMAN|BIGKAYBEEZY|YUNGRO",
+   "song": "Double D's",
+   "plays": 41244,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "BigKayBeezy, Yung Ro, Bfb Da Packman"
+  },
+  {
+   "group": "EPSTEINFILES|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Epstein Files",
+   "plays": 1209740,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung Og"
+  },
+  {
+   "group": "DRDOLITTLE|BFBDAPACKMAN|RIODAYUNGOG",
+   "song": "Dr Dolittle",
+   "plays": 372892,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, Rio Da Yung Og"
+  },
+  {
+   "group": "THROWTHATASSBACKREMIX|BFBDAPACKMAN|VSFRIZ",
+   "song": "Throw That Ass Back - Remix",
+   "plays": 9522,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "VsFriz, Bfb Da Packman"
+  },
+  {
+   "group": "BUTILIEDBFBDAPACKMANREMIX|BFBDAPACKMAN|ILYKARMA",
+   "song": "But I Lied! (Bfb Da Packman Remix)",
+   "plays": 1121,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, ilykarma"
+  },
+  {
+   "group": "NOSLEEPINTHESTASHHOUSE|BFBDAPACKMAN|MONEYMAKINGBO|RICHBOUTIT",
+   "song": "No Sleep In The Stash House",
+   "plays": 53667,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Rich Bout-It, Bfb Da Packman, MoneyMakingBo"
+  },
+  {
+   "group": "AZ|BFBDAPACKMAN|MABLOOO|MARSOSA|MBMZER0|STUXXA",
+   "song": "a-z",
+   "plays": 1612,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Stuxxa, Bfb Da Packman, MBM Zer0, Marsosa, Mablooo"
+  },
+  {
+   "group": "WORKOUTREMIX|BFBDAPACKMAN|DUBBSAQ",
+   "song": "WORKOUT - Remix",
+   "plays": 14542,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dubb Saq, Bfb Da Packman"
+  },
+  {
+   "group": "PARTYANDBULL|BFBDAPACKMAN|BIGJUNGLE",
+   "song": "party and bull",
+   "plays": 10058,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Big Jungle, Bfb Da Packman"
+  },
+  {
+   "group": "DUMBRAPPER|BFBDAPACKMAN|KINGHENDRICK",
+   "song": "Dumb Rapper",
+   "plays": 15325,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Hendrick$, Bfb Da Packman"
+  },
+  {
+   "group": "NOFRONTIN|1800IT|BABYMONEY|BFBDAPACKMAN|SAMUELSHABAZZ",
+   "song": "No Frontin",
+   "plays": 6471,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "1800it, Bfb Da Packman, Baby Money, Samuel Shabazz"
+  },
+  {
+   "group": "DRUGSMAKEHERHAPPYTOO|BFBDAPACKMAN|MOEJANGLES",
+   "song": "DRUGS MAKE HER HAPPY TOO",
+   "plays": 14182,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Moe Jangles, Bfb Da Packman"
+  },
+  {
+   "group": "RACKREMIX|BFBDAPACKMAN|BIGPOW",
+   "song": "RACK$ - remix",
+   "plays": 3397,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Big Pow, Bfb Da Packman"
+  },
+  {
+   "group": "WOKHEARTSPOPTARTS|BFBDAPACKMAN|LEKL",
+   "song": "Wok Hearts & Pop Tarts",
+   "plays": 57935,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "LEKL, Bfb Da Packman"
+  },
+  {
+   "group": "HEYHEYRADIOEDIT|BFBDAPACKMAN|POLOFROST",
+   "song": "Hey Hey - Radio Edit",
+   "plays": 1836802,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Polo Frost, Bfb Da Packman"
+  },
+  {
+   "group": "HEYHEY|BFBDAPACKMAN|POLOFROST",
+   "song": "Hey Hey",
+   "plays": 1837519,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Polo Frost, Bfb Da Packman"
+  },
+  {
+   "group": "FIRSTTHINGSFIRST|BFBDAPACKMAN|LOREY",
+   "song": "First Things First",
+   "plays": 14683,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lorey, Bfb Da Packman"
+  },
+  {
+   "group": "HATING|BFBDAPACKMAN|LILPATTHENICEST",
+   "song": "Hating",
+   "plays": 67664,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Lil Pat The Nicest, Bfb Da Packman"
+  },
+  {
+   "group": "CHEAPFRIEND|BFBDAPACKMAN|DON4K",
+   "song": "Cheap friend",
+   "plays": 5860,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Don 4k, Bfb Da Packman"
+  },
+  {
+   "group": "TELLMEWHENTOGO|BFBDAPACKMAN|BIGBAKE",
+   "song": "Tell Me When To Go",
+   "plays": 27259,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bigbake, Bfb Da Packman"
+  },
+  {
+   "group": "HEAT|BEATKING|BFBDAPACKMAN",
+   "song": "Heat (feat. BeatKing)",
+   "plays": 39856,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bfb Da Packman, BeatKing"
+  },
+  {
+   "group": "HUNNIDREMIX|BFBDAPACKMAN|DABOII|TOOHDABAND",
+   "song": "Hunnid (feat. Bfb Da Packman & DaBoii) - Remix",
+   "plays": 8087,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Toohda Band$, Bfb Da Packman, DaBoii"
+  },
+  {
+   "group": "ALPHAREMIX|BFBDAPACKMAN|GUAPDAD4000",
+   "song": "Alpha (feat. Bfb Da Packman) - Remix",
+   "plays": 1152717,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Guapdad 4000, Bfb Da Packman"
+  },
+  {
+   "group": "TRYNNAFUCK|BFBDAPACKMAN|DAIFACE",
+   "song": "Trynna Fuck",
+   "plays": 21069,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dai Face, Bfb Da Packman"
+  },
+  {
+   "group": "DEATHNOTE|BANDGANGLONNIEBANDS|BFBDAPACKMAN|DDG|YKP|YKPONTHABEAT",
+   "song": "Deathnote",
+   "plays": 4619,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ykponthabeat, YKP, Band Gang Lonnie Bands, Bfb Da Packman, DDG"
+  },
+  {
+   "group": "OFFENDED|BFBDAPACKMAN|GRINGOGANG",
+   "song": "Offended",
+   "plays": 138519,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Gringo Gang, Bfb Da Packman"
+  },
+  {
+   "group": "SHAKETHATREMIX|BFBDAPACKMAN|LILBOOSIE|MGMFATBOI",
+   "song": "Shake That - Remix",
+   "plays": 4174,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MGM Fat Boi, Bfb Da Packman, Lil Boosie"
+  },
+  {
+   "group": "DOPE|BFBDAPACKMAN|KEONALMIGHTY",
+   "song": "Dope",
+   "plays": 1048,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "KeonAlmighty, Bfb Da Packman"
+  },
+  {
+   "group": "FATNIGGASWINNING|BFBDAPACKMAN|BOONIE",
+   "song": "Fat Niggas Winning",
+   "plays": 26304,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Boonie, Bfb Da Packman"
+  },
+  {
+   "group": "NEXTFRIDAY|BFBDAPACKMAN|BISHOPGQ",
+   "song": "Next Friday",
+   "plays": 5871,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bishop GQ, Bfb Da Packman"
+  },
+  {
+   "group": "KOBEWAY|BFBDAPACKMAN|VIPTHEMESSIAH",
+   "song": "Kobe Way",
+   "plays": 36796,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Vip The Messiah, Bfb Da Packman"
+  },
+  {
+   "group": "TOWNTOPIC|BFBDAPACKMAN|KTOWN",
+   "song": "Town-Topic",
+   "plays": 25417,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "K Town, Bfb Da Packman"
+  }
+ ],
+ "years": [
+  {
+   "year": "2018",
+   "recordings": 3,
+   "categories": {
+    "missing": 1,
+    "attributed": 1,
+    "conflict": 1
+   }
+  },
+  {
+   "year": "2019",
+   "recordings": 23,
+   "categories": {
+    "attributed": 12,
+    "missing": 7,
+    "chain": 3,
+    "conflict": 1
+   }
+  },
+  {
+   "year": "2020",
+   "recordings": 26,
+   "categories": {
+    "attributed": 3,
+    "chain": 3,
+    "missing": 12,
+    "conflict": 1,
+    "credit": 5,
+    "gap": 1,
+    "unlinked": 1
+   }
+  },
+  {
+   "year": "2021",
+   "recordings": 23,
+   "categories": {
+    "chain": 5,
+    "conflict": 3,
+    "attributed": 9,
+    "missing": 6
+   }
+  },
+  {
+   "year": "2022",
+   "recordings": 15,
+   "categories": {
+    "attributed": 4,
+    "chain": 5,
+    "missing": 3,
+    "conflict": 2,
+    "gap": 1
+   }
+  },
+  {
+   "year": "2023",
+   "recordings": 30,
+   "categories": {
+    "credit": 5,
+    "missing": 11,
+    "attributed": 7,
+    "chain": 3,
+    "unlinked": 2,
+    "conflict": 2
+   }
+  },
+  {
+   "year": "2024",
+   "recordings": 42,
+   "categories": {
+    "chain": 8,
+    "gap": 2,
+    "missing": 14,
+    "attributed": 14,
+    "credit": 3,
+    "conflict": 1
+   }
+  },
+  {
+   "year": "2025",
+   "recordings": 78,
+   "categories": {
+    "missing": 29,
+    "attributed": 23,
+    "credit": 8,
+    "conflict": 2,
+    "unlinked": 10,
+    "chain": 1,
+    "gap": 4,
+    "pending": 1
+   }
+  },
+  {
+   "year": "2026",
+   "recordings": 33,
+   "categories": {
+    "missing": 27,
+    "attributed": 2,
+    "gap": 1,
+    "unlinked": 3
+   }
+  }
+ ]
+}

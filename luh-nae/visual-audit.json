@@ -1,0 +1,196 @@
+{
+ "basis": "2 November 2026 source snapshot; visuals added 4 November 2026. No new registry or streaming observations.",
+ "categories": {
+  "conflict": "Recording-to-work match needs review",
+  "credit": "Writer attribution needs verification",
+  "unlinked": "Work found \u00b7 recording link unconfirmed",
+  "chain": "Publisher chain/control needs verification",
+  "gap": "Writer evidenced \u00b7 no attributable claim found",
+  "missing": "No MLC work identified",
+  "pending": "Needs verification",
+  "attributed": "Claim attributable to writer identity",
+  "mixed": "Mixed version findings \u00b7 review recordings"
+ },
+ "spotify_basis": "One maximum supplied counter per existing exposure group. Mixed finding groups remain a separate category. Unavailable counters excluded.",
+ "timeline_basis": "One count per retained catalog recording, grouped by source release year and current finding. Publishing-chain counts are per recording per chain, not shares or unique compositions.",
+ "exposure_groups": [
+  {
+   "group": "HOOCHIEMAMA|DREEKJONES|LUHNAE",
+   "song": "Hoochie Mama (feat. Dreek Jones)",
+   "plays": 0,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae, Dreek Jones"
+  },
+  {
+   "group": "PAPERCHASING|DREEKJONES|LUHNAE",
+   "song": "Paper Chasing (feat. Dreek Jones)",
+   "plays": 1008,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "2QMKvQzSCnZnfT6oJeNzBl",
+   "artists": "Luh Nae, Dreek Jones"
+  },
+  {
+   "group": "ASSHOLE|LUHNAE",
+   "song": "Asshole",
+   "plays": 0,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae"
+  },
+  {
+   "group": "FTHATBITCH|LUHNAE",
+   "song": "F that Bitch",
+   "plays": 1109,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae"
+  },
+  {
+   "group": "UHHUH|LUHNAE",
+   "song": "UH HUH",
+   "plays": 1386,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae"
+  },
+  {
+   "group": "RACKSONME|LUHNAE",
+   "song": "Racks on me",
+   "plays": 4491,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae"
+  },
+  {
+   "group": "PLAYTIMEOVER|DREEKJONES|LUHNAE",
+   "song": "Play Time Over (feat. Dreek Jones)",
+   "plays": 2076,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae, Dreek Jones"
+  },
+  {
+   "group": "SAYTHAT|LUHNAE",
+   "song": "Say That",
+   "plays": 1055,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae"
+  },
+  {
+   "group": "SPEND|LUHNAE",
+   "song": "Spend",
+   "plays": 3172,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae"
+  },
+  {
+   "group": "GEEKEDSHIT|LUHNAE",
+   "song": "Geeked Shit",
+   "plays": 1050596,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Luh Nae"
+  },
+  {
+   "group": "REVIEWED_SHARED_COUNTER_BEND_OVER_ATLMIX",
+   "song": "Bend Over (ATLMix)",
+   "plays": 860870,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": "2AHRiRd3WKmztBzlNk6rFz",
+   "artists": "10K.Caash, Luh Nae"
+  },
+  {
+   "group": "GEEKEDSHITREMIX|LUHNAE|PLUTO",
+   "song": "Geeked Shit (remix)",
+   "plays": 1903029,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae, PLUTO"
+  },
+  {
+   "group": "WHEREYAFROM|DREEKJONES|LUHNAE",
+   "song": "Where Ya From",
+   "plays": 66771,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae, Dreek Jones"
+  },
+  {
+   "group": "ILUVHOES|LUHNAE",
+   "song": "I Luv Hoes",
+   "plays": 18287,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Luh Nae"
+  },
+  {
+   "group": "RACKSJUSTHIT|LUHNAE",
+   "song": "Racks Just Hit",
+   "plays": 1706,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "5IDfFcYiyxciaNFLTRTd7u",
+   "artists": "Luh Nae"
+  },
+  {
+   "group": "GETFREAKY|DREEKJONES|KING|LUHNAE",
+   "song": "GET FREAKY",
+   "plays": 1021,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": "59hK3Ow6Ks2WaXRJUL9muA",
+   "artists": "King, Luh Nae, Dreek Jones"
+  }
+ ],
+ "years": [
+  {
+   "year": "2023",
+   "recordings": 14,
+   "categories": {
+    "missing": 14
+   }
+  },
+  {
+   "year": "2024",
+   "recordings": 6,
+   "categories": {
+    "missing": 6
+   }
+  },
+  {
+   "year": "2025",
+   "recordings": 10,
+   "categories": {
+    "missing": 9,
+    "gap": 1
+   }
+  },
+  {
+   "year": "2026",
+   "recordings": 13,
+   "categories": {
+    "missing": 10,
+    "unlinked": 1,
+    "credit": 1,
+    "pending": 1
+   }
+  }
+ ]
+}

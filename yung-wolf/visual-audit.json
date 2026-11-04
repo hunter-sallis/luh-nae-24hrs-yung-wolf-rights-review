@@ -1,0 +1,681 @@
+{
+ "basis": "2 November 2026 source snapshot; visuals added 4 November 2026. No new registry or streaming observations.",
+ "categories": {
+  "conflict": "Recording-to-work match needs review",
+  "credit": "Writer attribution needs verification",
+  "unlinked": "Work found \u00b7 recording link unconfirmed",
+  "chain": "Publisher chain/control needs verification",
+  "gap": "Writer evidenced \u00b7 no attributable claim found",
+  "missing": "No MLC work identified",
+  "pending": "Needs verification",
+  "attributed": "Claim attributable to writer identity",
+  "mixed": "Mixed version findings \u00b7 review recordings"
+ },
+ "spotify_basis": "One maximum supplied counter per existing exposure group. Mixed finding groups remain a separate category. Unavailable counters excluded.",
+ "timeline_basis": "One count per retained catalog recording, grouped by source release year and current finding. Publishing-chain counts are per recording per chain, not shares or unique compositions.",
+ "exposure_groups": [
+  {
+   "group": "CRYINLAUGHIN|YUNGWOLF",
+   "song": "Cryin Laughin",
+   "plays": 140532,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "ACTIVE|TAKEGOD|YUNGWOLF",
+   "song": "Active",
+   "plays": 2584,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Take God, Yung Wolf"
+  },
+  {
+   "group": "BOXTRUCK|YUNGWOLF",
+   "song": "BOX TRUCK",
+   "plays": 6403,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "BILLIONAIREGOALS|YUNGWOLF",
+   "song": "Billionaire Goals",
+   "plays": 28095,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "BECAUSEOFME|YUNGWOLF",
+   "song": "Because Of Me",
+   "plays": 5792,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "REMEMBERME|YUNGWOLF",
+   "song": "Remember Me",
+   "plays": 3270,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "HARDNIGHTS|YUNGWOLF",
+   "song": "Hard Nights",
+   "plays": 2298,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "TURNINTOAMEMORY|YUNGWOLF",
+   "song": "Turn Into A Memory",
+   "plays": 2859,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "TSHIRTCAMEFROMROSS|YUNGWOLF",
+   "song": "TshirtCameFromRoss",
+   "plays": 2297,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "ITSYUNG|YUNGWOLF",
+   "song": "It's Yung",
+   "plays": 3125,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "WOLFATLANTA|YUNGWOLF",
+   "song": "Wolf Atlanta",
+   "plays": 13509,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "HALFOFTHEM|YUNGWOLF",
+   "song": "Half Of Them",
+   "plays": 2396,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "SWAPYOUOUT|YUNGWOLF",
+   "song": "Swap You Out",
+   "plays": 1743,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "MOTION|YUNGWOLF",
+   "song": "Motion",
+   "plays": 320683,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "IAMTHAT|ACTIONPACK|YUNGWOLF",
+   "song": "I Am That",
+   "plays": 55801,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "LONGWAYFROMLEESTREET|YUNGWOLF",
+   "song": "Long Way From Lee Street",
+   "plays": 1567,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "ONMYTRAIL|YUNGWOLF",
+   "song": "On My Trail",
+   "plays": 1886,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "THEFAMILY|YUNGWOLF",
+   "song": "The Family",
+   "plays": 2260,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "GIVENGO|YUNGWOLF",
+   "song": "Give N Go",
+   "plays": 6778,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "CAMETODO|YUNGWOLF",
+   "song": "Came To Do",
+   "plays": 6590,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "2kkJl4iUVwex92WecPfUZq",
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "LETMESEEIT|GLOSSUP|YUNGWOLF",
+   "song": "Let Me See It",
+   "plays": 22684,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Gloss Up"
+  },
+  {
+   "group": "BP|1OF1LEE|YUNGWOLF",
+   "song": "BP (feat. Yung Wolf)",
+   "plays": 5972,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "1of1lee, Yung Wolf"
+  },
+  {
+   "group": "MADEME|YUNGWOLF",
+   "song": "Made Me",
+   "plays": 1567,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "DONTBOTHERME|YUNGWOLF",
+   "song": "Don't Bother Me",
+   "plays": 2815,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "SHINING|YOUNGSCOOTER|YUNGWOLF",
+   "song": "Shining",
+   "plays": 24758,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Young Scooter"
+  },
+  {
+   "group": "COST|YUNGWOLF",
+   "song": "Cost",
+   "plays": 11181,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "NOEMOTIONS|YUNGWOLF",
+   "song": "No Emotions",
+   "plays": 12827,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "SPED|YUNGWOLF",
+   "song": "SPED",
+   "plays": 5818,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "BP|HOLLYWOODYC|YUNGWOLF",
+   "song": "BP",
+   "plays": 1123,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Hollywood Yc"
+  },
+  {
+   "group": "WHATCHUGONEDO|SKOOLY|YUNGWOLF",
+   "song": "WHATCHU GONE DO",
+   "plays": 8097,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Skooly"
+  },
+  {
+   "group": "EVERLAST|YUNGWOLF",
+   "song": "Everlast",
+   "plays": 2864,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "CHANELTRACKSHOES|ACTIONPACK|WEE2HARD|YUNGWOLF",
+   "song": "Chanel Track Shoes",
+   "plays": 40383,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack, Wee2Hard"
+  },
+  {
+   "group": "PAPERPLANES|YUNGWOLF",
+   "song": "Paper Planes",
+   "plays": 28402,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "WEON|ACTIONPACK|YUNGWOLF",
+   "song": "We On",
+   "plays": 9058,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "PRINTEDBYTHEPACK|YUNGWOLF",
+   "song": "Printed by The Pack",
+   "plays": 23952,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "HOLDDAPAININ|YUNGWOLF",
+   "song": "Hold Da Pain In",
+   "plays": 13836,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "DONTSAYNUN|RYLORODRIGUEZ|YUNGWOLF",
+   "song": "DON'T SAY NUN",
+   "plays": 164920,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Rylo Rodriguez"
+  },
+  {
+   "group": "CALLFROMHEAVEN|YUNGWOLF",
+   "song": "CALL FROM HEAVEN",
+   "plays": 2577,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "GRIEVINGGRINDING|YUNGWOLF",
+   "song": "GRIEVING & GRINDING",
+   "plays": 31692,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "BY2MR|YUNGWOLF",
+   "song": "BY 2MR",
+   "plays": 7929,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "CHOSENCHILD|YUNGWOLF",
+   "song": "CHOSEN CHILD",
+   "plays": 3896,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "WAZZAM|YUNGWOLF",
+   "song": "WAZZAM",
+   "plays": 50111,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "FORSUM|YUNGWOLF",
+   "song": "FOR SUM",
+   "plays": 2382,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "SONGFORYOU|YUNGWOLF",
+   "song": "SONG FOR YOU",
+   "plays": 1793,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "GOTTAMAKEEMPAY|YUNGWOLF",
+   "song": "GOTTA MAKE EM PAY",
+   "plays": 1903,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "LEARNYALESSON|YFNLUCCI|YUNGWOLF",
+   "song": "LEARN YA LESSON",
+   "plays": 20952,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, YFN Lucci"
+  },
+  {
+   "group": "SCARREDFOREVER|YUNGWOLF",
+   "song": "SCARRED FOREVER",
+   "plays": 1756,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "WRONGATTIMES|LILYACHTY|YUNGWOLF",
+   "song": "WRONG AT TIMES",
+   "plays": 4444,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Lil Yachty"
+  },
+  {
+   "group": "BACKINMYBAG|YUNGWOLF",
+   "song": "BACK IN MY BAG",
+   "plays": 1743,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "SOFAR|YUNGWOLF",
+   "song": "SO FAR",
+   "plays": 9533,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "NOHOOK|ACTIONPACK|TAKEGOD|YUNGWOLF",
+   "song": "No Hook",
+   "plays": 13251,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack, Takegod"
+  },
+  {
+   "group": "ONHAND|ACTIONPACK|YUNGWOLF",
+   "song": "On Hand",
+   "plays": 31751,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "FINECHINA|ACTIONPACK|YUNGWOLF",
+   "song": "Fine China",
+   "plays": 27759,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "IONWANNAVIBE|ACTIONPACK|YUNGWOLF",
+   "song": "Ion Wanna Vibe",
+   "plays": 21720,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "HAVIN|ACTIONPACK|POPLORD|YUNGWOLF",
+   "song": "Havin",
+   "plays": 23813,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack, PopLord"
+  },
+  {
+   "group": "WAYILIVE|ACTIONPACK|HYLANSTARR|YUNGWOLF",
+   "song": "Way I Live",
+   "plays": 26975,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack, Hylan Starr"
+  },
+  {
+   "group": "PRODUCTOFTHETRENCHES|ACTIONPACK|YUNGWOLF",
+   "song": "Product of the Trenches",
+   "plays": 10970,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "LIGHTSOUT|ACTIONPACK|YUNGWOLF",
+   "song": "Lights Out",
+   "plays": 7102,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "FASTMONEY|ACTIONPACK|YUNGWOLF",
+   "song": "Fast Money",
+   "plays": 21152,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "FEELALIVE|ACTIONPACK|YUNGWOLF",
+   "song": "Feel Alive",
+   "plays": 8540,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "DUBAI|ACTIONPACK|YUNGWOLF",
+   "song": "Dubai",
+   "plays": 4621,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "GROWINGPAINS|ACTIONPACK|YUNGWOLF",
+   "song": "Growing Pains",
+   "plays": 4506,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "SWITCHITUP|ACTIONPACK|YUNGWOLF",
+   "song": "Switch It Up",
+   "plays": 5927,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf, Action Pack"
+  },
+  {
+   "group": "RICHTOGETHER|BALLYBABY|YUNGWOLF",
+   "song": "Rich Together (feat. Yung Wolf)",
+   "plays": 21347,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "57q2sgImJ65faCEbJxyIcz",
+   "artists": "Bally Baby, Yung Wolf"
+  },
+  {
+   "group": "THROWMEOFF|YUNGWOLF",
+   "song": "Throw Me Off",
+   "plays": 1022,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Wolf"
+  },
+  {
+   "group": "HUNNIDS|TRILLIONAIR3|YUNGWOLF",
+   "song": "Hunnids",
+   "plays": 3013,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Trillionair3, Yung Wolf"
+  },
+  {
+   "group": "DEEPER|YNTELI|YUNGWOLF",
+   "song": "Deeper",
+   "plays": 1115,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "YNT Eli, Yung Wolf"
+  },
+  {
+   "group": "SAMEWEEK|ACTIONPACK|YNSCOREY|YUNGWOLF",
+   "song": "SAME WEEK (feat. Action Pack & Yung Wolf)",
+   "plays": 1990,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Yns Corey, Action Pack, Yung Wolf"
+  },
+  {
+   "group": "WORKINGONMYSELF|YNSCOREY|YUNGWOLF",
+   "song": "WORKING ON MYSELF (feat. Yung Wolf)",
+   "plays": 9258,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Yns Corey, Yung Wolf"
+  }
+ ],
+ "years": [
+  {
+   "year": "2022",
+   "recordings": 1,
+   "categories": {
+    "missing": 1
+   }
+  },
+  {
+   "year": "2023",
+   "recordings": 40,
+   "categories": {
+    "missing": 15,
+    "credit": 25
+   }
+  },
+  {
+   "year": "2024",
+   "recordings": 5,
+   "categories": {
+    "missing": 5
+   }
+  },
+  {
+   "year": "2025",
+   "recordings": 11,
+   "categories": {
+    "gap": 3,
+    "missing": 5,
+    "pending": 3
+   }
+  },
+  {
+   "year": "2026",
+   "recordings": 18,
+   "categories": {
+    "missing": 15,
+    "unlinked": 2,
+    "credit": 1
+   }
+  }
+ ]
+}

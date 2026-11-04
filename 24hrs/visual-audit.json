@@ -1,0 +1,6184 @@
+{
+ "basis": "2 November 2026 source snapshot; visuals added 4 November 2026. No new registry or streaming observations.",
+ "categories": {
+  "conflict": "Recording-to-work match needs review",
+  "credit": "Writer attribution needs verification",
+  "unlinked": "Work found \u00b7 recording link unconfirmed",
+  "chain": "Publisher chain/control needs verification",
+  "gap": "Writer evidenced \u00b7 no attributable claim found",
+  "missing": "No MLC work identified",
+  "pending": "Needs verification",
+  "attributed": "Claim attributable to writer identity",
+  "mixed": "Mixed version findings \u00b7 review recordings"
+ },
+ "spotify_basis": "One maximum supplied counter per existing exposure group. Mixed finding groups remain a separate category. Unavailable counters excluded.",
+ "timeline_basis": "One count per retained catalog recording, grouped by source release year and current finding. Publishing-chain counts are per recording per chain, not shares or unique compositions.",
+ "exposure_groups": [
+  {
+   "group": "MYSONG|24HRS|TYDOLLAIGN",
+   "song": "My Song (feat. 24hrs)",
+   "plays": 3508302,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Ty Dolla $ign, 24hrs"
+  },
+  {
+   "group": "GUCCIS|24HRS|NICKHOOK",
+   "song": "Gucci's",
+   "plays": 466892,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Nick Hook, 24hrs"
+  },
+  {
+   "group": "BACKUP|24HRS|TYDOLLAIGN",
+   "song": "Back Up (feat. 24hrs)",
+   "plays": 3687641,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ty Dolla $ign, 24hrs"
+  },
+  {
+   "group": "DOWNFORME|24HRS|CARNAGE|GEAZY",
+   "song": "Down For Me (feat. 24hrs)",
+   "plays": 86324345,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "G-Eazy, Carnage, 24hrs"
+  },
+  {
+   "group": "GOODTIME|24HRS|DVBBS",
+   "song": "Good Time (feat. 24hrs)",
+   "plays": 3220614,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "DVBBS, 24hrs"
+  },
+  {
+   "group": "OBVIOUS|24HRS|TEECEE4800|TYDOLLAIGN",
+   "song": "Obvious",
+   "plays": 415833,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "TeeCee4800, 24hrs, Ty Dolla $ign"
+  },
+  {
+   "group": "DONTSLEEPONME|24HRS|FUTURE|TYDOLLAIGN",
+   "song": "Don't Sleep on Me (feat. Future & 24hrs)",
+   "plays": 19194777,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Ty Dolla $ign, Future, 24hrs"
+  },
+  {
+   "group": "2MUCH|24HRS|FLOSSTRADAMUS",
+   "song": "2 MUCH (feat. 24hrs)",
+   "plays": 40706124,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Flosstradamus, 24hrs"
+  },
+  {
+   "group": "LOWKEY|24HRS|PNBROCK|ROYWOODS",
+   "song": "Lowkey (feat. Roy Woods & 24hrs)",
+   "plays": 19059415,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "PnB Rock, Roy Woods, 24hrs"
+  },
+  {
+   "group": "BIRKINBAG|24HRS|JONNHART",
+   "song": "Birkin Bag",
+   "plays": 862571,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Jonn Hart, 24hrs"
+  },
+  {
+   "group": "REPUTATION|24HRS|YEALI",
+   "song": "Reputation",
+   "plays": 169284,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ye Ali, 24hrs"
+  },
+  {
+   "group": "HOLDINON|24HRS|TYGA",
+   "song": "Holdin On",
+   "plays": 6245659,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Tyga, 24hrs"
+  },
+  {
+   "group": "WATERSPRINGS|24HRS|NESSLY",
+   "song": "Water Springs",
+   "plays": 412508,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Nessly, 24hrs"
+  },
+  {
+   "group": "2MUCHCARBINREMIX|24HRS|CARBIN|FLOSSTRADAMUS",
+   "song": "2 MUCH (feat. 24hrs) (Carbin Remix)",
+   "plays": 1957852,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Flosstradamus, 24hrs, Carbin"
+  },
+  {
+   "group": "ATLANTA|24HRS|MYNAMEPHIN|SLICKLAFLARE",
+   "song": "ATLANTA",
+   "plays": 284311,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare, MyNamePhin"
+  },
+  {
+   "group": "RAIN|24HRS|SLICKLAFLARE",
+   "song": "Rain",
+   "plays": 158009,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "NOCAP|24HRS|MADEINTYO|SLICKLAFLARE",
+   "song": "No Cap",
+   "plays": 430513,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare, MadeinTYO"
+  },
+  {
+   "group": "RUNNINGMAN|24HRS|SLICKLAFLARE",
+   "song": "Running Man",
+   "plays": 182159,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "STORY|24HRS|SLICKLAFLARE",
+   "song": "Story",
+   "plays": 121329,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "BACKINTIME|24HRS|SLICKLAFLARE",
+   "song": "Back In Time",
+   "plays": 109531,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "MISSEDCALLS|24HRS|SLICKLAFLARE",
+   "song": "Missed Calls",
+   "plays": 156110,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "BEAUTIFUL|24HRS|SLICKLAFLARE",
+   "song": "Beautiful",
+   "plays": 98847,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "REALLIFE|24HRS|SLICKLAFLARE",
+   "song": "Real Life",
+   "plays": 103172,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "HAVIN|24HRS|JOSEGUAPO|SLICKLAFLARE",
+   "song": "Havin",
+   "plays": 16156,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare, Jose Guapo"
+  },
+  {
+   "group": "TENNISBRACELET|24HRS|SLICKLAFLARE",
+   "song": "Tennis Bracelet",
+   "plays": 107038,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "1942|24HRS|SLICKLAFLARE",
+   "song": "1942",
+   "plays": 148440,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "OUTRO|24HRS|SLICKLAFLARE",
+   "song": "OUTRO",
+   "plays": 50129,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Slicklaflare"
+  },
+  {
+   "group": "ICANTLOSE|24HRS|LECRAE|ZAYTOVEN",
+   "song": "I Can't Lose",
+   "plays": 2989481,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lecrae, Zaytoven, 24hrs"
+  },
+  {
+   "group": "CANA|24HRS|KIDINK",
+   "song": "Cana (feat. 24hrs)",
+   "plays": 10051571,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Kid Ink, 24hrs"
+  },
+  {
+   "group": "APOLOGY|24HRS|INDIANAMASSARA",
+   "song": "Apology (feat. 24hrs)",
+   "plays": 2375896,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Indiana Massara, 24hrs"
+  },
+  {
+   "group": "SIGNS|24HRS|MGK",
+   "song": "SIGNS (feat. 24hrs)",
+   "plays": 9431395,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "mgk, 24hrs"
+  },
+  {
+   "group": "FLEXFORTHESUMMER|24HRS|SOULJABOY",
+   "song": "Flex for the Summer",
+   "plays": 147240,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Soulja Boy Tell'em, 24hrs"
+  },
+  {
+   "group": "STRANGERS|24HRS|BENNYMAYNE",
+   "song": "strangers",
+   "plays": 1564548,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "benny mayne, 24hrs"
+  },
+  {
+   "group": "LETHERGO|24HRS|ARIAA",
+   "song": "Let Her Go",
+   "plays": 98740,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ariaa, 24hrs"
+  },
+  {
+   "group": "PATTIECAKE|24HRS|PARTYNEXTDOOR|SPRNGBRK",
+   "song": "Pattie Cake",
+   "plays": 46052,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "SprngBrk, PARTYNEXTDOOR, 24hrs"
+  },
+  {
+   "group": "WHATCHAGONDO|24HRS|BENZI|BHADBHABIE|RICHTHEKID",
+   "song": "Whatcha Gon Do (feat. Bhad Bhabie, Rich The Kid & 24hrs)",
+   "plays": 5678416,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Benzi, Bhad Bhabie, 24hrs, Rich The Kid"
+  },
+  {
+   "group": "PRIVATEPARTY|24HRS|SK8",
+   "song": "Private Party (feat. 24hrs)",
+   "plays": 476822,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "SK8, 24hrs"
+  },
+  {
+   "group": "WHATCHAGONDOSTREETVERSION|24HRS|BENZI|BHADBHABIE|RICHTHEKID",
+   "song": "Whatcha Gon Do (feat. Bhad Bhabie, Rich The Kid & 24hrs) (Street Version)",
+   "plays": 158603,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Benzi, Bhad Bhabie, 24hrs, Rich The Kid"
+  },
+  {
+   "group": "FOLLOWMEHOME|24HRS|PREKAIRO|SAUD",
+   "song": "Follow Me Home",
+   "plays": 220313,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": "40PAIwcCEx0IalTklTQUlY",
+   "artists": "sa\u00fcd, pre kai ro, 24hrs"
+  },
+  {
+   "group": "XGAMES|24HRS|IAMSU",
+   "song": "X Games",
+   "plays": 713090,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Iamsu!"
+  },
+  {
+   "group": "NUMBER4|24HRS",
+   "song": "Number4",
+   "plays": 96641,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "COMEHOME|24HRS|BABYYUNGIN",
+   "song": "Come Home",
+   "plays": 163263,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Baby Yungin"
+  },
+  {
+   "group": "PERCFECT|24HRS",
+   "song": "PERCFECT",
+   "plays": 16916,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": "04aEQkgnd2bG7mlyRlXqSh",
+   "artists": "24hrs"
+  },
+  {
+   "group": "REGINAGEORGE|24HRS|BLACKBEAR",
+   "song": "Regina George",
+   "plays": 1907048,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, blackbear"
+  },
+  {
+   "group": "SEEMEWHENYOUWANTREMIX|24HRS|KEITHLAWSON",
+   "song": "See Me When You Want (Remix) (feat. 24hrs)",
+   "plays": 11982,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Keith Lawson, 24hrs"
+  },
+  {
+   "group": "NOJUDGE|24HRS|COREYELLIS",
+   "song": "NO JUDGE",
+   "plays": 247520,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Corey Ellis, 24hrs"
+  },
+  {
+   "group": "COMEHOME|24HRS|ALMIGHTYJAY|FUTURISTIC",
+   "song": "Come Home",
+   "plays": 210119,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Futuristic, 24hrs, Ybn Almighty Jay"
+  },
+  {
+   "group": "MARVELOUS|24HRS|KEKEPALMER",
+   "song": "Marvelous",
+   "plays": 177942,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Keke Palmer, 24hrs"
+  },
+  {
+   "group": "FAVORITESONG|24HRS",
+   "song": "Favorite Song",
+   "plays": 635703,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "2MUCH|24HRS",
+   "song": "2 Much",
+   "plays": 508025,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "EXTRAX3|24HRS",
+   "song": "Extra x3",
+   "plays": 740700,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "NOBODY|24HRS",
+   "song": "Nobody",
+   "plays": 797954,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "FASTER|24HRS",
+   "song": "Faster",
+   "plays": 291022,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "GOTITNOMORE|24HRS",
+   "song": "Got It No More",
+   "plays": 653348,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "ADDRESS|24HRS",
+   "song": "Address",
+   "plays": 407850,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "WHATYOULIKE|24HRS|TYDOLLAIGN|WIZKHALIFA",
+   "song": "What You Like (feat. Ty Dolla $ign & Wiz Khalifa)",
+   "plays": 18528863,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs, Ty Dolla $ign, Wiz Khalifa"
+  },
+  {
+   "group": "BELONGTOYOU|24HRS",
+   "song": "Belong to You",
+   "plays": 440926,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "NIGHTRIDER|24HRS",
+   "song": "Night Rider",
+   "plays": 382209,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "RUNNING3X|24HRS",
+   "song": "Running 3X",
+   "plays": 777539,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "LASTMAN|24HRS",
+   "song": "Last Man",
+   "plays": 2583462,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "LOVEYOUCRAZY|24HRS",
+   "song": "LoveYouCrazy",
+   "plays": 368884,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "BACKFORME|24HRS",
+   "song": "Back For Me",
+   "plays": 368395,
+   "category": "mixed",
+   "recordings": 3,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "STYLIST|24HRS",
+   "song": "Stylist",
+   "plays": 4236090,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "YOUKNOWESENTRIKREMIX|24HRS|ESENTRIK",
+   "song": "you know - esentrik remix",
+   "plays": 138996,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs, esentrik"
+  },
+  {
+   "group": "YOUKNOW|24HRS",
+   "song": "You Know",
+   "plays": 5645379,
+   "category": "mixed",
+   "recordings": 4,
+   "spotify_id": "2lTLAsr9vw8ntLJKjFj8NX",
+   "artists": "24hrs"
+  },
+  {
+   "group": "NOTIMPRESSED|24HRS|GUCCIMANE",
+   "song": "Not Impressed (feat. Gucci Mane)",
+   "plays": 928931,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs, Gucci Mane"
+  },
+  {
+   "group": "MYVALENTINE|24HRS|SOULJABOY",
+   "song": "My Valentine",
+   "plays": 685365,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Soulja Boy Tell'em"
+  },
+  {
+   "group": "24DEMONS|24HRS",
+   "song": "24DEMONS",
+   "plays": 19045,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "5RamtEbQgqSslmLPNX5nMs",
+   "artists": "24hrs"
+  },
+  {
+   "group": "200MESSAGES|24HRS",
+   "song": "200 MESSAGES",
+   "plays": 11795,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "3BQPwok3gEiLgqBO9Sdb7r",
+   "artists": "24hrs"
+  },
+  {
+   "group": "SHOOTMYSHOT|24HRS",
+   "song": "SHOOTMYSHOT",
+   "plays": 9828,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "7ocdOSazcUbx3IiYcbjkbJ",
+   "artists": "24hrs"
+  },
+  {
+   "group": "CRAZYX3|24HRS|SALMASLIMS",
+   "song": "CRAZY X 3",
+   "plays": 12443,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": "0mejt3jZ8Vu5pkBrbdAaIk",
+   "artists": "24hrs, Salma Slims"
+  },
+  {
+   "group": "BEATCANCER|24HRS",
+   "song": "BEAT CANCER",
+   "plays": 17694,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "7Hg3xaeiVfJuKUgcL031pY",
+   "artists": "24hrs"
+  },
+  {
+   "group": "MORNING|24HRS",
+   "song": "Morning",
+   "plays": 258847,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "INTEGRITY|24HRS|TYDOLLAIGN",
+   "song": "Integrity",
+   "plays": 392078,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Ty Dolla $ign"
+  },
+  {
+   "group": "KEYSTOMYRIDE|24HRS|PNBROCK",
+   "song": "Keys To My Ride",
+   "plays": 289330,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, PnB Rock"
+  },
+  {
+   "group": "FITNESS|24HRS|WIZKHALIFA",
+   "song": "Fitness",
+   "plays": 3296475,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Wiz Khalifa"
+  },
+  {
+   "group": "HUH|24HRS|CHIEFKEEF",
+   "song": "Huh",
+   "plays": 277067,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Chief Keef"
+  },
+  {
+   "group": "1002010FIVES|24HRS",
+   "song": "100, 20, 10 Fives",
+   "plays": 179595,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "FLAKE|24HRS",
+   "song": "FLAKE",
+   "plays": 240635,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "GETITGETIT|24HRS",
+   "song": "GET IT GET IT",
+   "plays": 104984,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "MOVING|24HRS",
+   "song": "MOVING",
+   "plays": 68853,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "FUCKSUM|24HRS",
+   "song": "FUCK SUM",
+   "plays": 115815,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "BACKEND|24HRS",
+   "song": "BACKEND",
+   "plays": 77484,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "CARRYON|24HRS",
+   "song": "CARRY ON",
+   "plays": 50459,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "DRUGS|24HRS",
+   "song": "DRUGS",
+   "plays": 46021,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "BUBBLE|24HRS",
+   "song": "BUBBLE",
+   "plays": 520249,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": "2BJHW0zHPXR53YbrM0hCM4",
+   "artists": "24hrs, Ty Dolla $ign"
+  },
+  {
+   "group": "DEVATESWINNG|24HRS|SALMASLIMS",
+   "song": "DEVATE SWINNG",
+   "plays": 71660,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Salma Slims"
+  },
+  {
+   "group": "BACKWOOD|24HRS|MADEINTYO|MYNAMEPHIN",
+   "song": "BACKWOOD",
+   "plays": 114854,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, MyNamePhin, MadeinTYO"
+  },
+  {
+   "group": "FLIPPAVERSE|24HRS|SKIPPADAFLIPPA",
+   "song": "FLIPPA VERSE",
+   "plays": 107693,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Skippa Da Flippa"
+  },
+  {
+   "group": "KNOWTHEVIBES|24HRS",
+   "song": "KNOW THE VIBES",
+   "plays": 52967,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "COULDNTSAYSORRY|24HRS|BLACKBEAR",
+   "song": "COULDN\u2019T SAY SORRY",
+   "plays": 678763,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, blackbear"
+  },
+  {
+   "group": "NEWGUY|24HRS|CASEYVEGGIES|ROSSIROCK",
+   "song": "NEW GUY",
+   "plays": 100753,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Casey Veggies, Rossi Rock"
+  },
+  {
+   "group": "SPORTSCENTER|24HRS|MADEINTYO|TYDOLLAIGN",
+   "song": "Sports Center (feat. Ty Dolla $ign & 24hrs)",
+   "plays": 451170,
+   "category": "attributed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "MadeinTYO, Ty Dolla $ign, 24hrs"
+  },
+  {
+   "group": "LIFE|24HRS|CASEYVEGGIES|DOMKENNEDY",
+   "song": "Life",
+   "plays": 353532,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dom Kennedy, 24hrs, Casey Veggies"
+  },
+  {
+   "group": "REALWALKER|24HRS",
+   "song": "Real Walker",
+   "plays": 216367,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "ONADAILY20|24HRS|YUNG6IX",
+   "song": "On A Daily 2.0",
+   "plays": 106433,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung6ix, 24hrs"
+  },
+  {
+   "group": "VVS|24HRS|3LLIOTT",
+   "song": "VVS (feat. 24hrs)",
+   "plays": 27255,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "3lliott, 24hrs"
+  },
+  {
+   "group": "STILLFREETC|24HRS|TYDOLLAIGN",
+   "song": "Still Free TC (feat. Ty Dolla $ign)",
+   "plays": 110550,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Ty Dolla $ign"
+  },
+  {
+   "group": "LOSTMYPATNA|24HRS",
+   "song": "Lost My Patna",
+   "plays": 32231,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "WHOWHO|24HRS|TI",
+   "song": "Who Who (feat. T.I.)",
+   "plays": 28581,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, T.I."
+  },
+  {
+   "group": "1004U|24HRS",
+   "song": "100 4 U",
+   "plays": 29297,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "PICTURESINMYHEAD|24HRS",
+   "song": "Pictures In My Head",
+   "plays": 56333,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "SAMMYSOSA|24HRS|LIGHTSHOW",
+   "song": "Sammy Sosa (feat. Lightshow)",
+   "plays": 19206,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Lightshow"
+  },
+  {
+   "group": "SISQO|24HRS",
+   "song": "Sisqo",
+   "plays": 32221,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "LEFTFOOTOUT|24HRS|MADEINTYO",
+   "song": "Left Foot Out (feat. MadeinTYO)",
+   "plays": 185177,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, MadeinTYO"
+  },
+  {
+   "group": "RICHPROBLEMS|24HRS",
+   "song": "Rich Problems",
+   "plays": 24226,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "SPIN|24HRS|PNBROCK",
+   "song": "Spin (feat. PnB Rock)",
+   "plays": 31085,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, PnB Rock"
+  },
+  {
+   "group": "3AMMAKEITLAST|24HRS",
+   "song": "3AM Make It Last",
+   "plays": 22182,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "SHEFELLINLOVEWAGANGSTA|24HRS|SADBOYLOKO",
+   "song": "She Fell in Love (W/A Gangsta)",
+   "plays": 193031,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Sadboy Loko, 24hrs"
+  },
+  {
+   "group": "JUSTME|24HRS|ELLAROSA",
+   "song": "Just Me (feat. 24hrs)",
+   "plays": 148704,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ella Rosa, 24hrs"
+  },
+  {
+   "group": "PLAYLIST|24HRS|FLOW187",
+   "song": "Playlist (feat. 24hrs)",
+   "plays": 164648,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Flow 187, 24hrs"
+  },
+  {
+   "group": "MOODZ|24HRS|BLACKBEAR",
+   "song": "moodz (feat. 24hrs)",
+   "plays": 34138628,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "blackbear, 24hrs"
+  },
+  {
+   "group": "SHAKENNOTSTIRREDREMIX|24HRS|ESOXOSUPREME|KODIGO",
+   "song": "Shaken Not Stirred (Remix)",
+   "plays": 124269,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": "5INq4LdxKLQwbUw1zBvHQH",
+   "artists": "Eso.XO.Supreme, 24hrs, Kodigo, 24hrs, Kodigo"
+  },
+  {
+   "group": "LIE|24HRS|LOOPY",
+   "song": "LIE (feat. 24hrs)",
+   "plays": 384665,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Loopy, 24hrs"
+  },
+  {
+   "group": "UCLAORIGINAL|24HRS",
+   "song": "UCLA (Original)",
+   "plays": 38133,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "OKAY|24HRS|JEREMYSTEIN",
+   "song": "Okay (feat. 24Hrs)",
+   "plays": 6292,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jeremy Stein, 24hrs"
+  },
+  {
+   "group": "SAME|24HRS",
+   "song": "SAME",
+   "plays": 56617,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "CALABASAS|24HRS|BIGBABYGUCCI|CAHCARTEL",
+   "song": "Calabasas",
+   "plays": 30147,
+   "category": "mixed",
+   "recordings": 3,
+   "spotify_id": null,
+   "artists": "CA$H Cartel, BigBabyGucci, 24hrs"
+  },
+  {
+   "group": "FOOLISH|24HRS|JAMESQUPID",
+   "song": "Foolish (feat. 24hrs)",
+   "plays": 82902,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "James Qupid, 24hrs"
+  },
+  {
+   "group": "MORESODA|24HRS|PROJECTX",
+   "song": "More Soda",
+   "plays": 29528,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Project X, 24hrs"
+  },
+  {
+   "group": "SCHOLAR|24HRS|DEVINMORRISON|HITBOY",
+   "song": "SCHOLAR",
+   "plays": 83464,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Hit-Boy, 24hrs, Devin Morrison"
+  },
+  {
+   "group": "ROCKROLL|24HRS|AMANDAMAZIELL|CAMERONCARTEE|GABRIELAVRETT|GHOSTLUVME",
+   "song": "Rock & Roll",
+   "plays": 6396,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Cameron Cartee, Gabriel Avrett, 24hrs, Amanda Maziell, Ghostluvme"
+  },
+  {
+   "group": "LASTTIME|24HRS",
+   "song": "LAST TIME",
+   "plays": 75391,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "LISTENTOME|24HRS|FUTURISTIC|TRIPPYJA",
+   "song": "Listen to Me (feat. Futuristic & 24hrs)",
+   "plays": 1446312,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Trippy Ja, Futuristic, 24hrs"
+  },
+  {
+   "group": "YSLBOOTS|24HRS|MADEINTYO",
+   "song": "YSL BOOTS",
+   "plays": 61195,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MadeinTYO, 24hrs"
+  },
+  {
+   "group": "YOU|24HRS|MADEINTYO",
+   "song": "YOU",
+   "plays": 58628,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MadeinTYO, 24hrs"
+  },
+  {
+   "group": "MYWORD|24HRS|MADEINTYO",
+   "song": "MY WORD",
+   "plays": 37422,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "MadeinTYO, 24hrs"
+  },
+  {
+   "group": "TEARITDOWN|24HRS|MADEINTYO",
+   "song": "TEAR IT DOWN",
+   "plays": 40730,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MadeinTYO, 24hrs"
+  },
+  {
+   "group": "NIPSEYBLUE|24HRS|TRIPPYJA",
+   "song": "Nipsey Blue",
+   "plays": 2647006,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Trippy Ja, 24hrs"
+  },
+  {
+   "group": "ROUND4ROUND|24HRS",
+   "song": "Round4round",
+   "plays": 71705,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "NOBODYSTOPINHER|24HRS",
+   "song": "NobodystopinHER",
+   "plays": 3171,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "PARKITONME|24HRS",
+   "song": "parkitonme",
+   "plays": 12418,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "MUNYUN|24HRS",
+   "song": "munyun",
+   "plays": 9166,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "BODYMOVVVE|24HRS|FAMOUSDEX",
+   "song": "Bodymovvve",
+   "plays": 16004,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Famous Dex"
+  },
+  {
+   "group": "SNAKE|24HRS",
+   "song": "Snake",
+   "plays": 8506,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "MYBRUDDDA|24HRS|PNBMEEN",
+   "song": "MyBruddda",
+   "plays": 7292,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Pnbmeen"
+  },
+  {
+   "group": "MOVELOWWITME|24HRS|DONQ",
+   "song": "Movelowwitme",
+   "plays": 14247,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Don Q"
+  },
+  {
+   "group": "JACKPOT|24HRS|KINOBEATS",
+   "song": "Jackpot",
+   "plays": 21179,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "MGM|24HRS|KINOBEATS",
+   "song": "MGM",
+   "plays": 22811,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "ROULETTE|24HRS|KINOBEATS",
+   "song": "Roulette",
+   "plays": 9973,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "BIGBUSINESS|24HRS|KINOBEATS",
+   "song": "Big Business",
+   "plays": 7560,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "BLAMEGAMES|24HRS|EXOTICNINO|KINOBEATS",
+   "song": "Blame Games (feat. ExoticNino)",
+   "plays": 6924,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats, EXOTICNINO"
+  },
+  {
+   "group": "PICKYOUUP|24HRS|KINOBEATS",
+   "song": "Pick You Up",
+   "plays": 6804,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "HIGHLIMIT|24HRS|KINOBEATS",
+   "song": "High Limit",
+   "plays": 7042,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "ALMOSTPERFECT|24HRS|ARMANIJACKSON",
+   "song": "Almost Perfect",
+   "plays": 103584,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Armani Jackson"
+  },
+  {
+   "group": "MUSTBENICE|24HRS|MADEINTYO",
+   "song": "Must Be Nice",
+   "plays": 99155,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MadeinTYO, 24hrs"
+  },
+  {
+   "group": "TEAMEDUP|24HRS|DRUMMABOY|SALMASLIMS",
+   "song": "Teamed Up",
+   "plays": 29532,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Drumma Boy, 24hrs, Salma Slims"
+  },
+  {
+   "group": "NEEDTHEDRUGS|24HRS|TIMNORTH",
+   "song": "Need The Drugs",
+   "plays": 66259,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Tim North, 24hrs"
+  },
+  {
+   "group": "CRYINGFORTHELASTTIME|24HRS|JOETRUFANT",
+   "song": "Crying For The Last Time",
+   "plays": 65953,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Joe Trufant, 24hrs"
+  },
+  {
+   "group": "24INTOKYO|24HRS|DJJAM",
+   "song": "24 in Tokyo",
+   "plays": 5813,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam"
+  },
+  {
+   "group": "TOKYO|24HRS|DJJAM|MADEINTYO|PETZ|SHOWYRENZO|SHOWYVICTOR",
+   "song": "T.O.K.Y.O. (feat. MadeinTYO, PETZ, ShowyVICTOR & ShowyRENZO)",
+   "plays": 8380,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam, MadeinTYO, Petz, ShowyVictor, ShowyRENZO"
+  },
+  {
+   "group": "SHIBUYAMONSTER|24HRS|DJJAM|SHOWYRENZO|YTG",
+   "song": "Shibuya Monster (feat. YTG & ShowyRENZO)",
+   "plays": 5434,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam, YTG, ShowyRENZO"
+  },
+  {
+   "group": "CLAP|24HRS|BADB|DJJAM|HENNYK",
+   "song": "Clap (feat. BAD B & Henny K)",
+   "plays": 3005,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam, Bad B, Henny K"
+  },
+  {
+   "group": "SAMMYSOSA|24HRS|DJJAM|PETZ",
+   "song": "Sammy sosa (feat. PETZ)",
+   "plays": 4695,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam, Petz"
+  },
+  {
+   "group": "CRYINDUBAI|24HRS|DJJAM|LEX",
+   "song": "Cry in Dubai (feat. LEX)",
+   "plays": 11343,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam, Lex"
+  },
+  {
+   "group": "BARELY|24HRS|DJJAM|SHOWYRENZO",
+   "song": "Barely (feat. ShowyRENZO)",
+   "plays": 5219,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam, ShowyRENZO"
+  },
+  {
+   "group": "HOMIE|24HRS|DJJAM|SHOWYRENZO|YTG",
+   "song": "Homie (feat. ShowyRENZO & YTG)",
+   "plays": 4661,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam, ShowyRENZO, YTG"
+  },
+  {
+   "group": "NEVER2NDPLACE|24HRS|DJJAM",
+   "song": "Never 2nd Place",
+   "plays": 4474,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam"
+  },
+  {
+   "group": "SHEWANTMORE|24HRS|DJJAM|SHOWYRENZO",
+   "song": "She want more (feat. ShowyRENZO)",
+   "plays": 3591,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dj Jam, ShowyRENZO"
+  },
+  {
+   "group": "SHOWME|24HRS|SPIFFYGLOBAL|TRILLSAMMY",
+   "song": "Show Me (feat. Trill Sammy)",
+   "plays": 156575,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Spiffy Global, 24hrs, Trill Sammy"
+  },
+  {
+   "group": "CLOSESTFRIENDS|24HRS|HITBOY",
+   "song": "Closest Friends (feat. 24hrs)",
+   "plays": 115716,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Hit-Boy, 24hrs"
+  },
+  {
+   "group": "STACKS|24HRS|JUELZ",
+   "song": "Stacks",
+   "plays": 346329,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Juelz, 24hrs"
+  },
+  {
+   "group": "REASON|24HRS|DJRAPTURE|RAYVENJUSTICE",
+   "song": "Reason (feat. 24hrs)",
+   "plays": 1579884,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Rayven Justice, DJ Rapture, 24hrs"
+  },
+  {
+   "group": "ICANTELL|24HRS|ROCKIEFRESH",
+   "song": "I Can Tell (feat. 24hrs)",
+   "plays": 39349,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Rockie Fresh, 24hrs"
+  },
+  {
+   "group": "INTOODEEP|24HRS|ROCKIEFRESH",
+   "song": "In Too Deep",
+   "plays": 148795,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Rockie Fresh, 24hrs"
+  },
+  {
+   "group": "STEPPEDON|24HRS|RICOCASH|SPIFFYGLOBAL",
+   "song": "Stepped On (feat. Rico Cash)",
+   "plays": 5107,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Spiffy Global, 24hrs, Rico Cash"
+  },
+  {
+   "group": "UCLA|24HRS|RLGRIME",
+   "song": "UCLA",
+   "plays": 236699278,
+   "category": "conflict",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "RL Grime, 24hrs"
+  },
+  {
+   "group": "UCLAHEIMANUREMIX|24HRS|HEIMANU|RLGRIME",
+   "song": "UCLA (Heimanu Remix)",
+   "plays": 11163662,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "RL Grime, 24hrs, Heimanu"
+  },
+  {
+   "group": "JULY29TH|24HRS",
+   "song": "July 29th",
+   "plays": 4772,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "NODRAMA|24HRS|EXOTICNINO",
+   "song": "No Drama",
+   "plays": 3566,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, EXOTICNINO"
+  },
+  {
+   "group": "LITTERSHIT|24HRS",
+   "song": "Litter Shit",
+   "plays": 5458,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "SAKSFIFSHOPPER|24HRS",
+   "song": "Saks Fif Shopper",
+   "plays": 3249,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "HIDETHISPAIN|1WAYSTREET|24HRS",
+   "song": "Hide This Pain",
+   "plays": 2736,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, 1 Way Street"
+  },
+  {
+   "group": "HELLSTAR|24HRS",
+   "song": "Hell Star",
+   "plays": 4092,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "CODEINEMAKESMEHAPPY|24HRS",
+   "song": "Codeine Makes Me Happy",
+   "plays": 2924,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "FLAVFORPRESIDENTSKIT|24HRS",
+   "song": "Flav For President (Skit)",
+   "plays": 1049,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "THEREALWALKER|24HRS",
+   "song": "The Real Walker",
+   "plays": 3069,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "OUTRO|24HRS",
+   "song": "Outro",
+   "plays": 1946,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "SAVEYOURS|24HRS|MADEINTYO",
+   "song": "Save Yours",
+   "plays": 759752,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MadeinTYO, 24hrs"
+  },
+  {
+   "group": "HIGHER|24HRS|ESOXOSUPREME",
+   "song": "Higher",
+   "plays": 26668,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Eso.XO.Supreme"
+  },
+  {
+   "group": "PLUS1|24HRS|NASTYC",
+   "song": "Plus 1",
+   "plays": 335544,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Nasty C"
+  },
+  {
+   "group": "PLAYWITHYOU|24HRS|HOLLY",
+   "song": "Play With You",
+   "plays": 35261,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Holly"
+  },
+  {
+   "group": "PERFECTFTPNBROCK24HRS|24HRS|PNBROCK|STEVEAOKI",
+   "song": "Perfect ft. PnB Rock & 24hrs",
+   "plays": 124717,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Steve Aoki, PnB Rock, 24hrs"
+  },
+  {
+   "group": "JACKPOTPT2|24HRS|KINOBEATS",
+   "song": "Jackpot Pt 2",
+   "plays": 8194,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "BLACKJACK|24HRS|KINOBEATS",
+   "song": "Blackjack",
+   "plays": 43041,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "PARISNIGHTS|24HRS|KINOBEATS|MADEINTYO",
+   "song": "Paris Nights",
+   "plays": 42313,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats, MadeinTYO"
+  },
+  {
+   "group": "LIKEYOUSHOULD|24HRS|KINOBEATS",
+   "song": "Like You Should",
+   "plays": 5464,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "ABOVETHELAW|24HRS|KINOBEATS",
+   "song": "Above the Law",
+   "plays": 7075,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "HARDROCKCAFE|24HRS|KINOBEATS",
+   "song": "Hard Rock Cafe",
+   "plays": 7550,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "50ONBLACK|24HRS|KINOBEATS",
+   "song": "50 on Black",
+   "plays": 4368,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "CASINO|24HRS|KINOBEATS",
+   "song": "Casino",
+   "plays": 7628,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "SELFIES|24HRS|JAIMAR",
+   "song": "selfies (feat. 24hrs)",
+   "plays": 14289,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jaimar, 24hrs"
+  },
+  {
+   "group": "STACKSJUELZTISOKIVIP|24HRS|JUELZ|TISOKI",
+   "song": "Stacks (Juelz & Tisoki VIP)",
+   "plays": 216150,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Juelz, 24hrs, Tisoki"
+  },
+  {
+   "group": "STACKSCELOMACHAKIREMIX|24HRS|CELO|JUELZ|MACHAKI",
+   "song": "Stacks (CELO & MACHAKI Remix)",
+   "plays": 110705,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Juelz, 24hrs, Celo, Machaki"
+  },
+  {
+   "group": "PRADAISSUES|24HRS|JACOBJULIUS",
+   "song": "Prada Issues",
+   "plays": 7618,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Jacob Julius"
+  },
+  {
+   "group": "LOSSES|24HRS|JSTONE",
+   "song": "Losses",
+   "plays": 32099,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "J. Stone, 24hrs"
+  },
+  {
+   "group": "BODY|24HRS",
+   "song": "BODY",
+   "plays": 12731,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "24HRSTRIPCLUB|24HRS",
+   "song": "24HR STRIP CLUB",
+   "plays": 11726,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "VSVSVS|24HRS",
+   "song": "VSVSVS",
+   "plays": 76212,
+   "category": "gap",
+   "recordings": 3,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "GUCCIFLAME|24HRS",
+   "song": "GUCCI FLAME",
+   "plays": 23529,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "TRIMEXPRESS|24HRS|MADEINTYO",
+   "song": "Trim Express",
+   "plays": 59699,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": "6VbafZX2yVhyKZjY4Jhd3Z",
+   "artists": "MadeinTYO, 24hrs"
+  },
+  {
+   "group": "PERFECTTOPANGAHILLSMAFIAREMIX|24HRS|PNBROCK|STEVEAOKI|TOPANGAHILLSMAFIA",
+   "song": "Perfect (Topanga Hills Mafia Remix)",
+   "plays": 138249,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Steve Aoki, PnB Rock, 24hrs, Topanga Hills Mafia"
+  },
+  {
+   "group": "2FEET|24HRS|DRUMMABOY",
+   "song": "2 Feet",
+   "plays": 10909,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Drumma Boy, 24hrs"
+  },
+  {
+   "group": "TOXICLOVE|24HRS",
+   "song": "Toxic Love",
+   "plays": 11597,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "5gb0nMdSF5P7vKwkoLQtho",
+   "artists": "24hrs"
+  },
+  {
+   "group": "GETMONEY|24HRS|KINOBEATS",
+   "song": "Get Money",
+   "plays": 3697,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "MOODSWINGS|24HRS|KINOBEATS|MADEINTYO",
+   "song": "Mood Swings",
+   "plays": 28059,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats, MadeinTYO"
+  },
+  {
+   "group": "MINDGAMES|24HRS|KINOBEATS|SEDDYHENDRINX",
+   "song": "Mind Games",
+   "plays": 3354,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats, Seddy Hendrinx"
+  },
+  {
+   "group": "FEELSGOOD|24HRS|KINOBEATS",
+   "song": "Feels Good",
+   "plays": 2068,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "HAVEYOURWAY|24HRS|KINOBEATS",
+   "song": "Have Your Way",
+   "plays": 2841,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "CAMEDOWN|24HRS|KINOBEATS",
+   "song": "Came Down",
+   "plays": 4823,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "OUTMYMIND|24HRS|KINOBEATS",
+   "song": "Out My Mind",
+   "plays": 1969,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "THINKINBOUTPNB|24HRS|KINOBEATS",
+   "song": "Thinkin Bout Pnb",
+   "plays": 2064,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "24HRCASINO|24HRS|KINOBEATS",
+   "song": "24Hr Casino",
+   "plays": 2084,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "THEBIGGEST|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "THE BIGGEST",
+   "plays": 80467,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "SUNDOWN|24HRS|JAXT|MIKELEAVER",
+   "song": "Sundown",
+   "plays": 15189,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Mike Leaver, Jax T, 24hrs"
+  },
+  {
+   "group": "BALMAIN|24HRS|DSHAUN",
+   "song": "Balmain",
+   "plays": 45349,
+   "category": "missing",
+   "recordings": 4,
+   "spotify_id": null,
+   "artists": "D_Shaun, 24hrs"
+  },
+  {
+   "group": "HELLYEARIDEWITABAG|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "HELL YEA (RIDE WIT A BAG)",
+   "plays": 74078,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "GYMGETTINGFINE|24HRS|WIZKHALIFA|YOUNGDEJI",
+   "song": "Gym getting fine",
+   "plays": 374991,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Wiz Khalifa, Young Deji, 24hrs, Sledgren"
+  },
+  {
+   "group": "DARKOUT|24HRS|KINGKOBI|MADEINTYO",
+   "song": "Dark Out",
+   "plays": 43328,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "STUCKONIT|24HRS|SKOOLY|TKKRAVITZ|WHYMENGRINDIN",
+   "song": "STUCK ON IT",
+   "plays": 224494,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs, Skooly, TK Kravitz, Whymen Grindin"
+  },
+  {
+   "group": "1LIFE|24HRS|YACOBUCCI",
+   "song": "1 LIFE",
+   "plays": 11662,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yacobucci, 24hrs"
+  },
+  {
+   "group": "NOSHAME|24HRS",
+   "song": "NO SHAME",
+   "plays": 7670,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "IMSELFISH|24HRS",
+   "song": "I'M SELFISH",
+   "plays": 4388,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "COTTONCANDY|24HRS|DRAM",
+   "song": "COTTON CANDY",
+   "plays": 12159,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DRAM"
+  },
+  {
+   "group": "CHOCOLATEBABY|24HRS|NINETY6MILES",
+   "song": "CHOCOLATE BABY",
+   "plays": 9843,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, NINETY6MILES"
+  },
+  {
+   "group": "BABYFEVER|24HRS",
+   "song": "BABY FEVER",
+   "plays": 4517,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kwak Z"
+  },
+  {
+   "group": "MORETHANONCE|24HRS|KALANFRFR",
+   "song": "MORE THAN ONCE",
+   "plays": 21890,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kalan.FrFr"
+  },
+  {
+   "group": "PRINCECHARMING|24HRS",
+   "song": "PRINCE CHARMING",
+   "plays": 4461,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "BEALONE|24HRS|SMOKEDZA",
+   "song": "BE ALONE",
+   "plays": 2824,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Smoke DZA"
+  },
+  {
+   "group": "NEIGHBORS|24HRS",
+   "song": "NEIGHBORS",
+   "plays": 5138,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "URLOVE|24HRS",
+   "song": "UR LOVE",
+   "plays": 3565,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "MATTERS|24HRS",
+   "song": "MATTERS",
+   "plays": 3752,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "DONTPLAY|24HRS|MADEINTYO",
+   "song": "DON'T PLAY",
+   "plays": 13262,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, MadeinTYO"
+  },
+  {
+   "group": "PLAYS|24HRS|BIGPATT",
+   "song": "Plays (feat. 24hrs)",
+   "plays": 3906,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "BigPatt, 24hrs"
+  },
+  {
+   "group": "YOURLOSS|24HRS|DRTYLAUNDRY",
+   "song": "Your Loss",
+   "plays": 4428,
+   "category": "missing",
+   "recordings": 3,
+   "spotify_id": null,
+   "artists": "DRTYLAUNDRY, 24hrs"
+  },
+  {
+   "group": "INTRO|24HRS|KINGKOBI",
+   "song": "Intro",
+   "plays": 7054,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs"
+  },
+  {
+   "group": "2SPECIAL|24HRS|KINGKOBI",
+   "song": "2 Special",
+   "plays": 6501,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs"
+  },
+  {
+   "group": "INEEDU|24HRS|KINGKOBI",
+   "song": "I Need U",
+   "plays": 4545,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs"
+  },
+  {
+   "group": "WAGYU|24HRS|KINGKOBI",
+   "song": "Wagyu",
+   "plays": 4816,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs"
+  },
+  {
+   "group": "WORKMYMOVE|24HRS|KINGKOBI",
+   "song": "Work my Move",
+   "plays": 9357,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs"
+  },
+  {
+   "group": "UNDIVIDEDATTENTION|24HRS|KINGKOBI",
+   "song": "Undivided Attention",
+   "plays": 3418,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs"
+  },
+  {
+   "group": "STINGYFORMYLOVE|24HRS|KINGKOBI",
+   "song": "Stingy for my Love",
+   "plays": 4128,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs"
+  },
+  {
+   "group": "TALKINGTOTHECLOUDS|24HRS|KINGKOBI",
+   "song": "Talking to the Clouds",
+   "plays": 4871,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs"
+  },
+  {
+   "group": "NUN2SUM|24HRS|KINGKOBI",
+   "song": "Nun 2 Sum",
+   "plays": 3152,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Kobi, 24hrs"
+  },
+  {
+   "group": "PICTURES|24HRS|KORA|SALMASLIMS",
+   "song": "Pictures",
+   "plays": 8683,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Kora, Salma Slims, 24hrs"
+  },
+  {
+   "group": "SENDMEANEWBITCH|24HRS|ILYTRULY|MICHAELK",
+   "song": "Send Me a New Bitch",
+   "plays": 15659,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Michael K, 24hrs, ILY Truly"
+  },
+  {
+   "group": "SOMETIMES|1TAKEJAY|24HRS",
+   "song": "SOMETIMES",
+   "plays": 16941,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, 1TakeJay"
+  },
+  {
+   "group": "UNREAL|24HRS|SMOKEDZA",
+   "song": "Unreal (feat. 24hrs)",
+   "plays": 36814,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Smoke DZA, 24hrs"
+  },
+  {
+   "group": "6HRSAHEAD|24HRS|SMOKEDZA",
+   "song": "6hrs Ahead (feat. 24hrs)",
+   "plays": 14758,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Smoke DZA, 24hrs"
+  },
+  {
+   "group": "MYBROTHER|24HRS|ADRIANCHAFER|MADEINTYO",
+   "song": "My Brother",
+   "plays": 82836,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Adrian Chafer, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "BIGSPENDER|24HRS|DASHAWNJORDAN",
+   "song": "Big Spender",
+   "plays": 9537,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "DaShawn Jordan, 24hrs"
+  },
+  {
+   "group": "ALLTHETRUST|24HRS|FAMOUSDEX|KINOBEATS",
+   "song": "All the Trust",
+   "plays": 50577,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Famous Dex, Kino Beats"
+  },
+  {
+   "group": "UNDER60|24HRS",
+   "song": "UNDER 60",
+   "plays": 6441,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "ILWYB|24HRS|DC2TRILL",
+   "song": "ILWYB",
+   "plays": 5140,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "IMDYINGINSIDEINTERLUDE|24HRS",
+   "song": "I'M DYING INSIDE (INTERLUDE)",
+   "plays": 3581,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "CANTBELIEVE|24HRS",
+   "song": "CAN'T BELIEVE",
+   "plays": 4459,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "EMERGENCYCONTACT|24HRS",
+   "song": "EMERGENCY CONTACT",
+   "plays": 2166,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "NOWAY|24HRS|THEMXXNLIGHT|YXNGSXMBA",
+   "song": "No Way",
+   "plays": 10527,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "THEMXXNLIGHT, 24hrs, YXNG SXMBA"
+  },
+  {
+   "group": "ALLIMSAYING|24HRS",
+   "song": "ALL I'M SAYING",
+   "plays": 4746,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "FACE2FACE|24HRS|DRAPOLLO",
+   "song": "Face2Face",
+   "plays": 5734,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dr. Apollo"
+  },
+  {
+   "group": "RUNITUP|24HRS|JUOS|WAXMOTIF",
+   "song": "Run It Up (feat. 24Hrs)",
+   "plays": 1102892,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Wax Motif, Juos, 24hrs"
+  },
+  {
+   "group": "INMYPOCKET|24HRS|SPTMBR",
+   "song": "In My Pocket",
+   "plays": 41388,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "SPTMBR, 24hrs"
+  },
+  {
+   "group": "ROLLERCOASTER|24HRS|DRAPOLLO",
+   "song": "Roller Coaster",
+   "plays": 6961,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dr. Apollo"
+  },
+  {
+   "group": "BACKOUT|24HRS|DOMKENNEDY|TYDOLLAIGN",
+   "song": "Back Out (with Ty Dolla $ign & Dom Kennedy)",
+   "plays": 12347740,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Ty Dolla $ign, Dom Kennedy"
+  },
+  {
+   "group": "SINNER|24HRS",
+   "song": "Sinner",
+   "plays": 1363372,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "HIGHWAYTOHELL|24HRS",
+   "song": "Highway to Hell",
+   "plays": 231822,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "DIFFERENTFREQUENCY|24HRS|LILCOBAINE",
+   "song": "Different Frequency (feat. Lil Cobaine)",
+   "plays": 342542,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Lil Cobaine"
+  },
+  {
+   "group": "10OCLOCK|24HRS",
+   "song": "10 O'Clock",
+   "plays": 226802,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "STRANGERINTHEMIRROR|24HRS",
+   "song": "Stranger in the Mirror",
+   "plays": 170660,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "PICKITUP|24HRS|MADEINTYO",
+   "song": "Pick It Up (feat. MadeinTYO)",
+   "plays": 302761,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Madeintyo"
+  },
+  {
+   "group": "NUDIES|24HRS",
+   "song": "Nudies",
+   "plays": 1001905,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "FLICK|24HRS",
+   "song": "Flick",
+   "plays": 337602,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "MOONLIGHT|24HRS|JAMESROYO|SALMASLIMS",
+   "song": "Moonlight (feat. James Royo & Salma Slims)",
+   "plays": 170561,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, James Royo, Salma Slims"
+  },
+  {
+   "group": "YOUKNOW|24HRS|DWN2EARTH",
+   "song": "You Know (feat. DWN2EARTH)",
+   "plays": 196150,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dwn2earth"
+  },
+  {
+   "group": "LEAVEMELONE|24HRS|BOOMBOXCARTEL|DMX",
+   "song": "Leave Me Lone (feat. DMX)",
+   "plays": 468864,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Boombox Cartel, Dmx"
+  },
+  {
+   "group": "911|24HRS|KSWISHA|WIZKHALIFA",
+   "song": "911 (feat. Wiz Khalifa & K Swisha)",
+   "plays": 847982,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Wiz Khalifa, K Swisha"
+  },
+  {
+   "group": "SELFIES|24HRS|DJDRAMA",
+   "song": "Selfies",
+   "plays": 634669,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama"
+  },
+  {
+   "group": "SUPERSTAR|24HRS|DJDRAMA|TYDOLLAIGN",
+   "song": "Superstar",
+   "plays": 3276355,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Ty Dolla $ign, DJ Drama"
+  },
+  {
+   "group": "BOUJEEBITCHES|24HRS|DJDRAMA|SLICKLAFLARE|YOUNGNUDY",
+   "song": "Boujee Bitches",
+   "plays": 210120,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, Young Nudy, Slicklaflare"
+  },
+  {
+   "group": "CHEAPPHONE|24HRS|DJDRAMA|SEDDYHENDRINX",
+   "song": "Cheap Phone",
+   "plays": 148592,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, Seddy Hendrix"
+  },
+  {
+   "group": "BENZFREESTYLE|24HRS|DJDRAMA",
+   "song": "Benz Freestyle",
+   "plays": 100107,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama"
+  },
+  {
+   "group": "PHIPPSPLAZA|24HRS|DJDRAMA|KAPG",
+   "song": "Phipps Plaza",
+   "plays": 111868,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, Kap G"
+  },
+  {
+   "group": "CANDYSHOP|24HRS|DJDRAMA|KCAMP|MADEINTYO|SLICKLAFLARE",
+   "song": "Candy Shop",
+   "plays": 400376,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, K CAMP, Slicklaflare, Madeintyo"
+  },
+  {
+   "group": "BIRTHDAY|24HRS|CASHONLY|DJDRAMA|GUAPTARANTINO",
+   "song": "Birthday",
+   "plays": 75485,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, CashOnly, Guap Tarantino"
+  },
+  {
+   "group": "OTW|24HRS|DJDRAMA",
+   "song": "OTW",
+   "plays": 69703,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama"
+  },
+  {
+   "group": "LOVEATLANTA|24HRS|DJDRAMA|NESSLY",
+   "song": "Love Atlanta",
+   "plays": 77048,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, Nessly"
+  },
+  {
+   "group": "PASSEMROUND|24HRS|DJDRAMA|KCAMP|SLICKLAFLARE",
+   "song": "Pass Em Round",
+   "plays": 95969,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, K CAMP, Slicklaflare"
+  },
+  {
+   "group": "HANGONTOME|24HRS|DJDRAMA",
+   "song": "Hang Onto Me",
+   "plays": 51353,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama"
+  },
+  {
+   "group": "CONTENT|24HRS|DJDRAMA|KSWISHA|WIZKHALIFA",
+   "song": "Content",
+   "plays": 231495,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, Wiz Khalifa, K Swisha"
+  },
+  {
+   "group": "CHECKDAMAIL|24HRS|DJDRAMA|LILSCRAPPY",
+   "song": "Check Da Mail",
+   "plays": 58722,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, Lil Scrappy"
+  },
+  {
+   "group": "FREDDY|24HRS|DJDRAMA",
+   "song": "Freddy",
+   "plays": 68002,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama"
+  },
+  {
+   "group": "CURTISSNOW|24HRS|DJDRAMA|SLICKLAFLARE",
+   "song": "Curtis Snow",
+   "plays": 68114,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DJ Drama, Slicklaflare"
+  },
+  {
+   "group": "FEELINGSHURT|24HRS|CASEYVEGGIES|ROCKIEFRESH",
+   "song": "Feelings Hurt (feat. 24hrs, Casey Veggies)",
+   "plays": 913757,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Rockie Fresh, Casey Veggies, 24hrs"
+  },
+  {
+   "group": "MAKEMOVES|24HRS|ROCKIEFRESH",
+   "song": "Make Moves (feat. 24hrs)",
+   "plays": 310542,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Rockie Fresh, 24hrs"
+  },
+  {
+   "group": "BASEBALLCAP|24HRS|POUTINE",
+   "song": "Baseball Cap",
+   "plays": 12281,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Poutine"
+  },
+  {
+   "group": "NFLNEVERFINDLOVE|24HRS|DRAPOLLO",
+   "song": "NFL (Never Find Love)",
+   "plays": 3800,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dr. Apollo"
+  },
+  {
+   "group": "LIEDETECTOR|24HRS|LILPUMP",
+   "song": "Lie Detector",
+   "plays": 19633850,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Lil Pump"
+  },
+  {
+   "group": "DONTMESS|24HRS|YG",
+   "song": "Don't Mess",
+   "plays": 3795980,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, YG"
+  },
+  {
+   "group": "DAYJOB|24HRS|BUNB|FLASHGARMENTS",
+   "song": "DAY JOB",
+   "plays": 13856,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Flash Garments, Bun B"
+  },
+  {
+   "group": "LILBIH|24HRS|MADEINTYO",
+   "song": "Lil Bih",
+   "plays": 1562467,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MadeinTYO, 24hrs"
+  },
+  {
+   "group": "FAMILYMONEY|24HRS",
+   "song": "Family & Money",
+   "plays": 249722,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "NOTALWAYSRIGHT|24HRS|HITBOY",
+   "song": "Not Always Right",
+   "plays": 122176,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Hit-Boy"
+  },
+  {
+   "group": "LEAVELA|24HRS|DOMKENNEDY|TYDOLLAIGN",
+   "song": "Leave LA",
+   "plays": 904338,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Ty Dolla $ign, Dom Kennedy"
+  },
+  {
+   "group": "NOSIGNAL|24HRS|ROYWOODS",
+   "song": "No Signal",
+   "plays": 370812,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Roy Woods"
+  },
+  {
+   "group": "FIFTYBALL|24HRS|MONEYBAGGYO|SMOKEPURPP",
+   "song": "Fifty Ball",
+   "plays": 1835914,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Moneybagg Yo, Smokepurpp"
+  },
+  {
+   "group": "CHAMPAGNE|24HRS|MADEINTYO",
+   "song": "Champagne",
+   "plays": 385938,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, MadeinTYO"
+  },
+  {
+   "group": "METGALA|24HRS|PNBROCK",
+   "song": "Met Gala",
+   "plays": 634909,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, PnB Rock"
+  },
+  {
+   "group": "POLICE|24HRS|JAY305",
+   "song": "Police",
+   "plays": 108201,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Jay 305"
+  },
+  {
+   "group": "CONTAGIOUS|24HRS",
+   "song": "Contagious",
+   "plays": 187306,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "LOVE|24HRS|VICMENSA",
+   "song": "LOVE",
+   "plays": 175885,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Vic Mensa"
+  },
+  {
+   "group": "STAY2MYSELF|24HRS",
+   "song": "Stay 2 Myself",
+   "plays": 118245,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "RICKYYY|24HRS",
+   "song": "RICKYYY",
+   "plays": 7216,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Peezy"
+  },
+  {
+   "group": "ONME|24HRS|KTFOREIGN|PHILTHYRICH",
+   "song": "On Me",
+   "plays": 29219,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Philthy Rich, Kt Foreign, 24hrs"
+  },
+  {
+   "group": "PLUGB|24HRS|24HRSNTOKYO|MADEINTYO|PNBROCK",
+   "song": "PLUG&B",
+   "plays": 65109,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs, PnB Rock"
+  },
+  {
+   "group": "SAVEYOURS|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "Save Yours",
+   "plays": 760849,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "ROLLBOUNCE|24HRS|DJALADDINN",
+   "song": "Roll Bounce",
+   "plays": 2622,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dj Aladdinn, 24hrs"
+  },
+  {
+   "group": "90NUMBERS|24HRS|IKU",
+   "song": "90 NUMBERS",
+   "plays": 36997,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Iku, 24hrs"
+  },
+  {
+   "group": "ALLIN|24HRS|FLVME",
+   "song": "All In",
+   "plays": 262913,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Flvme, 24hrs"
+  },
+  {
+   "group": "CANMOVE|24HRS|KINOBEATS",
+   "song": "CAN MOVE",
+   "plays": 2776,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kino Beats"
+  },
+  {
+   "group": "TABLESTURNING|24HRS|BROWNMAMBA",
+   "song": "Tables Turning",
+   "plays": 1147,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Brown Mamba, 24hrs"
+  },
+  {
+   "group": "SLIDE|24HRS|MADEINTYO",
+   "song": "SLIDE",
+   "plays": 11383,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, MadeinTYO"
+  },
+  {
+   "group": "NOTICE|24HRS|JIMMYEDGAR",
+   "song": "NOTICE",
+   "plays": 262892,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jimmy Edgar, 24hrs"
+  },
+  {
+   "group": "HATERSINTRO|24HRS|24HRSNTOKYO|MADEINTYO|ROYCERIZZY",
+   "song": "HATERS (intro)",
+   "plays": 2888,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "3KWymTmxWGNP3G21ZEQRGj",
+   "artists": "24HRSnTOKYO, Royce Rizzy, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "GPS|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "GPS",
+   "plays": 8652,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": "2EwzZ6yENLdCdHgtfHO2U2",
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "FLEXUPWIN|24HRS|24HRSNTOKYO|MADEINTYO|ROYCERIZZY",
+   "song": "Flex Up & Win",
+   "plays": 2278,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "16JEULnAXiVD3MCpkR94LB",
+   "artists": "24HRSnTOKYO, Royce Rizzy, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "1ON1|24HRS|24HRSNTOKYO|MADEINTYO|ROYCERIZZY",
+   "song": "1 On 1",
+   "plays": 3157,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, Royce Rizzy, 24hrs"
+  },
+  {
+   "group": "YOUGETIT|24HRS|24HRSNTOKYO|MADEINTYO|ROYCERIZZY",
+   "song": "You Get It",
+   "plays": 2116,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, Royce Rizzy, 24hrs"
+  },
+  {
+   "group": "VROOMPRIVATECLUBRECORDS|24HRS|24HRSNTOKYO|MADEINTYO|ROYCERIZZY",
+   "song": "Vroom - Private Club Records",
+   "plays": 3318,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "50FYyFIu3evlixlAmw7nem",
+   "artists": "24HRSnTOKYO, MadeinTYO, Royce Rizzy, 24hrs"
+  },
+  {
+   "group": "ROYALRUMBLE|24HRS|24HRSNTOKYO|MADEINTYO|ROYCERIZZY",
+   "song": "Royal RUMBLE",
+   "plays": 1379,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "0Y2seMgXgwTHrm7imovwQe",
+   "artists": "24HRSnTOKYO, MadeinTYO, Royce Rizzy, 24hrs"
+  },
+  {
+   "group": "20K|24HRS|24HRSNTOKYO|MADEINTYO|ROYCERIZZY",
+   "song": "20K",
+   "plays": 1725,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "3vfTIGvdR71pJY9WiJaqbs",
+   "artists": "24HRSnTOKYO, MadeinTYO, Royce Rizzy, 24hrs"
+  },
+  {
+   "group": "AP|24HRS",
+   "song": "AP",
+   "plays": 1318,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "RIDEORDIESMOKEANYWHERE|24HRS",
+   "song": "Ride Or Die (smoke anywhere)",
+   "plays": 1361,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "BUSSDOWNBBY|24HRS",
+   "song": "BUSS DOWN BBY",
+   "plays": 1869,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "FOORGIE|24HRS",
+   "song": "FOORGIE",
+   "plays": 1041,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "BROKEDISEASE|24HRS|KAHDAMI",
+   "song": "Broke Disease",
+   "plays": 1077,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, KA$HDAMI"
+  },
+  {
+   "group": "LOVESCARS|24HRS",
+   "song": "LOVESCARS",
+   "plays": 4355,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Xanman"
+  },
+  {
+   "group": "SANDWICH2|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "sandwich 2",
+   "plays": 6891,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "OSINFRONTOFMY1S|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "O's IN FRONT OF MY 1's",
+   "plays": 5466,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "THISTIME|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "this time",
+   "plays": 3747,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "TIGHTROPE|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "tight rope",
+   "plays": 3823,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "HOWDAREU|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "HOW DARE U",
+   "plays": 2725,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "ZAINTHESKY|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "Za in the sky",
+   "plays": 3019,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "SHEFORGOT|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "she forgot",
+   "plays": 2058,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "MOPPEDOFF|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "mopped off",
+   "plays": 10509,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "100200300|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "100,200,300",
+   "plays": 2402,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "TAKEDACAKE|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "take da cake",
+   "plays": 2343,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "PRIVATECLUBBOOMIN|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "Private Club boomin",
+   "plays": 3690,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "PLAYINFORKEEPS|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "PLAYIN FOR KEEPS",
+   "plays": 3180,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "THEREFORME|24HRS",
+   "song": "there for me",
+   "plays": 4046,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "TOXICANDTENDER|24HRS",
+   "song": "toxic and tender",
+   "plays": 1867,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "LIGHTNING|24HRS",
+   "song": "lightning",
+   "plays": 2205,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "EVERYTHINGCHANGED|24HRS",
+   "song": "EVERYTHINGCHANGED",
+   "plays": 1895,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "ITRIED|24HRS",
+   "song": "i tried",
+   "plays": 1465,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Iamsu!"
+  },
+  {
+   "group": "PRAYONSUNDAY|24HRS",
+   "song": "pray on sunday",
+   "plays": 1005,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "1MZ0JpP1qzRl0tbfYvH6vV",
+   "artists": "24hrs"
+  },
+  {
+   "group": "GREATOUTRO|24HRS",
+   "song": "Great (outro)",
+   "plays": 1012,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "TAKETIME|24HRS|ROYWOODS",
+   "song": "Take Time (feat. 24hrs)",
+   "plays": 14495229,
+   "category": "chain",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Roy Woods, 24hrs"
+  },
+  {
+   "group": "FREAKYDMS|24HRS|BROWNMAMBA|ELLIS",
+   "song": "Freaky DM's (feat. 24hrs & ELLIS!)",
+   "plays": 2916352,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Brown Mamba, 24hrs, ELLIS!"
+  },
+  {
+   "group": "TELLMEWHATYANAMEIS|24HRS|LOGANUNCHARTED",
+   "song": "Tellme What Ya Name Is",
+   "plays": 2717,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "logan uncharted, 24hrs"
+  },
+  {
+   "group": "PERFECTPICTURE|24HRS|WAVYYMOB",
+   "song": "Perfect Picture",
+   "plays": 11260,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Wavyy Mob, 24hrs"
+  },
+  {
+   "group": "BONUSTRACKSOLDOUT|24HRS|TRAUMATONE|WILLHILL",
+   "song": "(Bonus Track) Sold Out",
+   "plays": 4426,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Will Hill, Trauma Tone, 24hrs"
+  },
+  {
+   "group": "ONLYNEED1|24HRS|IAMSU",
+   "song": "Only Need 1 (feat. 24hrs)",
+   "plays": 9949,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Iamsu!, 24hrs"
+  },
+  {
+   "group": "BANGBANG|24HRS|MOPAIN",
+   "song": "Bang Bang",
+   "plays": 2452,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Mo Pain, 24hrs"
+  },
+  {
+   "group": "TONIGHTREMIX|24HRS|SONNYMARTELL",
+   "song": "Tonight - Remix",
+   "plays": 1654,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Sonny Martell, 24hrs"
+  },
+  {
+   "group": "ONENIGHT|24HRS|DMPREMIUM",
+   "song": "One Night",
+   "plays": 3986,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dmpremium, 24hrs"
+  },
+  {
+   "group": "TAKEOFF|24HRS|AVAGERID",
+   "song": "TAKE OFF",
+   "plays": 4798,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "$avage Rid, 24hrs"
+  },
+  {
+   "group": "POWERONMERADIOEDIT|24HRS|COMPOUND",
+   "song": "Power On Me (feat. 24 Hrs) - Radio Edit",
+   "plays": 33948,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Compound, 24hrs"
+  },
+  {
+   "group": "POWERONME|24HRS|COMPOUND",
+   "song": "Power On Me (feat. 24hrs)",
+   "plays": 34003,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Compound, 24hrs"
+  },
+  {
+   "group": "SHITREGULAR|1WAYSTREET|24HRS",
+   "song": "Shit Regular",
+   "plays": 2436,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "1 Way Street, 24hrs"
+  },
+  {
+   "group": "STANDNONBIZNESS|24HRS|NITRES",
+   "song": "STAND'N ON BIZNESS",
+   "plays": 4357,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Nitres, 24hrs"
+  },
+  {
+   "group": "TAKINGRISK6STEPS|24HRS|SHILOHBABY",
+   "song": "Taking Risk (6 Steps)",
+   "plays": 3238,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "ShilohBaby, 24hrs"
+  },
+  {
+   "group": "TELLMEWHATYOUWANT|24HRS|KOOLJOHN|NOAHTHAMACK",
+   "song": "Tell Me What You Want !",
+   "plays": 5981,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Kool John, NoahThaMack, 24hrs"
+  },
+  {
+   "group": "ONEONLY|24HRS|SPEEDGAMBOY",
+   "song": "One & Only",
+   "plays": 3533,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Speed Gamboy, 24hrs"
+  },
+  {
+   "group": "SLOWDOWN|24HRS|CEOTRAYLE|PHILTHYRICH",
+   "song": "Slow Down",
+   "plays": 31728,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Philthy Rich, CEO Trayle, 24hrs"
+  },
+  {
+   "group": "SOSAVAGE|24HRS|NEFTHEPHARAOH",
+   "song": "So Savage (feat. 24hrs)",
+   "plays": 8333,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Nef The Pharaoh, 24hrs"
+  },
+  {
+   "group": "DOWNINTHESOUTH|24HRS|AKEEMALI|BUNB|CORYMO|OGRONC",
+   "song": "Down In The South",
+   "plays": 8188,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bun B, Cory Mo, OG Ron C, Akeem Ali, 24hrs"
+  },
+  {
+   "group": "DOWNINTHESOUTH|24HRS|AKEEMALI|BUNB|CORYMO",
+   "song": "Down In The South",
+   "plays": 81050,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bun B, Cory Mo, Akeem Ali, 24hrs"
+  },
+  {
+   "group": "DREAMS|24HRS|PNBCHIZZ|PNBROCK",
+   "song": "Dreams",
+   "plays": 20113,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Pnb Chizz, 24hrs, PnB Rock"
+  },
+  {
+   "group": "READY|24HRS|PEET|WESTENDTAZ",
+   "song": "Ready",
+   "plays": 1575,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "West End Taz, Peet, 24hrs"
+  },
+  {
+   "group": "DUEFORAWIN|1WAYSTREET|24HRS|KINOBEATS",
+   "song": "Due for a Win",
+   "plays": 4644,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "1 Way Street, Kino Beats, 24hrs"
+  },
+  {
+   "group": "SOMENIGGAS|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "SOME NIGGAS",
+   "plays": 11096,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "STILLHUMBLE|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "STILL HUMBLE",
+   "plays": 13554,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "PORTRAITS|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "PORTRAITS",
+   "plays": 34967,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "HOWUCOMING|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "HOW U COMING",
+   "plays": 50909,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "MIAMIWYADOG|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "MIAMI W YA DOG",
+   "plays": 22830,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "LONGTIMECOMING|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "LONG TIME COMING",
+   "plays": 50909,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "RAPWITHAGOD|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "RAP WITH A GOD",
+   "plays": 13382,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "24TYOSWISHA|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "24TYOSWISHA",
+   "plays": 7314,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "MENTALHEALTH|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "MENTAL HEALTH",
+   "plays": 13256,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "NAWFSIDESHAWTY|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "NAWFside SHAWTY",
+   "plays": 17523,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "RUN2YOU|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "RUN 2 YOU",
+   "plays": 10071,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "ENERGY|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "ENERGY",
+   "plays": 10133,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "BROTHERNAME|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "BROTHER NAME",
+   "plays": 25293,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "NOLOVE|24HRS|24HRSNTOKYO|MADEINTYO|MONEYSIGNSUEDE",
+   "song": "NO LOVE",
+   "plays": 32885,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, MoneySign Suede, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "DOYOURDANCE|24HRS|24HRSNTOKYO|MADEINTYO",
+   "song": "DO YOUR DANCE",
+   "plays": 16904,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24HRSnTOKYO, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "MONEYCHASING|24HRS|ACHAL|BROODS|DAVEBLUNTS|OMAR",
+   "song": "Money Chasing",
+   "plays": 38441,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Omar, 24hrs, A.CHAL, BROODS, Dave Blunts"
+  },
+  {
+   "group": "SLOWJAMS|24HRS|BASSFNGRZ|JOEYFRECO",
+   "song": "SLOW JAMS",
+   "plays": 1662,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Joey Freco, Bassfngrz, 24hrs"
+  },
+  {
+   "group": "RICHSHTIKNOWIT|24HRS|TASHAWNMUSIC|YESHUAALEXANDER",
+   "song": "Rich Sh!t I Know It",
+   "plays": 1986,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Yeshua Alexander, TashawnMusic, 24hrs"
+  },
+  {
+   "group": "ICEDUP|24HRS|TOMMYSTONER",
+   "song": "Iced Up",
+   "plays": 3186,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Tommy Stoner, 24hrs"
+  },
+  {
+   "group": "GRIND4THIS|24HRS|KHOPP",
+   "song": "Grind 4 This",
+   "plays": 1319,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Khopp, 24hrs"
+  },
+  {
+   "group": "WHOLELOT|24HRS|DOLO",
+   "song": "Whole Lot",
+   "plays": 64393,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, DoLo"
+  },
+  {
+   "group": "BABYFEVER|24HRS|KWAKZ",
+   "song": "Baby Fever",
+   "plays": 4517,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kwak Z"
+  },
+  {
+   "group": "GAMETIME|24HRS|TUBBSGETSABAG",
+   "song": "Game Time",
+   "plays": 1287,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "TubbsGetsabag, 24hrs"
+  },
+  {
+   "group": "TAKEOFF|24HRS|9BLADES|AVAGERID|JNINESEVEN",
+   "song": "TAKE OFF",
+   "plays": 11153,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "$avage Rid, 24hrs, Jnineseven, 9BLADES"
+  },
+  {
+   "group": "HEYSOFIA|24HRS|ANGELHILL|BACKNINEZ",
+   "song": "HEY SOFIA",
+   "plays": 16579,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Angel Hill, Backnine Z, 24hrs"
+  },
+  {
+   "group": "INHERWAYS|24HRS|DICESOHO|EVANDERGRIIM",
+   "song": "In Her Ways",
+   "plays": 2851,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dice Soho, 24hrs, Evander Griim"
+  },
+  {
+   "group": "CREAM|24HRS|MILLION",
+   "song": "Cream",
+   "plays": 4677,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Million$, 24hrs"
+  },
+  {
+   "group": "CREAMRADIOEDIT|24HRS|MILLION",
+   "song": "Cream - Radio Edit",
+   "plays": 4684,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "13NGeP9HXfzrgj9cF1yUVG",
+   "artists": "Million$, 24hrs"
+  },
+  {
+   "group": "SHEWANNA|24HRS|BENZOVIBIN|SHANEHEALY|SIREDONTPLAY",
+   "song": "she wanna",
+   "plays": 2128,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "BenzoVibin, 24hrs, Shane Healy, SireDontPlay"
+  },
+  {
+   "group": "SMOKEITDOWN|24HRS|ITSDUB|JUICEBOYZ",
+   "song": "Smoke It Down",
+   "plays": 6681,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "JUICEBOYZ, 24hrs, iTSDUB"
+  },
+  {
+   "group": "HITMYLINE|24HRS|YCBANKS",
+   "song": "Hit My Line",
+   "plays": 24466,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "YC Banks, 24hrs"
+  },
+  {
+   "group": "STUCKONIT|24HRS|SKOOLY|TKKRAVITZ",
+   "song": "Stuck on it",
+   "plays": 224448,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "TK Kravitz, 24hrs, Skooly"
+  },
+  {
+   "group": "SPEND|24HRS|ISHDARR",
+   "song": "Spend",
+   "plays": 10519,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "IshDARR, 24hrs"
+  },
+  {
+   "group": "NAMEISREMIX|24HRS|PDICEY",
+   "song": "Name Is - Remix",
+   "plays": 15901,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "P.Dicey, 24hrs"
+  },
+  {
+   "group": "HEARTHEBASS|24HRS|DIRTYAUDIO",
+   "song": "Hear The Bass",
+   "plays": 13873,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dirty Audio, 24hrs"
+  },
+  {
+   "group": "CLOUD9|24HRS|LOCKLYN",
+   "song": "Cloud 9",
+   "plays": 146351,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "LOCKLYN, 24hrs"
+  },
+  {
+   "group": "NEWBITCH|24HRS|KWC",
+   "song": "New Bitch",
+   "plays": 79262,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "KWC, 24hrs"
+  },
+  {
+   "group": "NEVERALONE|24HRS|WATEDYOUTH",
+   "song": "Never Alone",
+   "plays": 2210,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Wa$tedYouth, 24hrs"
+  },
+  {
+   "group": "YOUSOGOOD|24HRS|RIXHFOREVER",
+   "song": "You So Good",
+   "plays": 1655,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "rixh forever, 24hrs"
+  },
+  {
+   "group": "LILBOOTIES|24HRS|MREXCELLENCE",
+   "song": "Lil Booties",
+   "plays": 9722,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Mr Excellence, 24hrs"
+  },
+  {
+   "group": "2AMINATLANTA|24HRS|JASHON",
+   "song": "2AM in Atlanta",
+   "plays": 5954,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jashon, 24hrs"
+  },
+  {
+   "group": "WONTGOWITHOUT|24HRS|TOMMYSTONER",
+   "song": "Won't Go Without",
+   "plays": 10510,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": "3kNcrux2lNK5nEkD5nM3Ka",
+   "artists": "Tommy Stoner, 24hrs"
+  },
+  {
+   "group": "DYTMT4G|24HRS|NEXTYOUNGIN|TOMMYSTONER",
+   "song": "DYTMT4G!",
+   "plays": 7748,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Tommy Stoner, 24hrs, NextYoungin"
+  },
+  {
+   "group": "CALLHERRAVEN|24HRS|JSTONE",
+   "song": "Call Her Raven",
+   "plays": 25810,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "J. Stone, 24hrs"
+  },
+  {
+   "group": "ALLDAYFLAME|24HRS|MOD",
+   "song": "All Day Flame",
+   "plays": 11172,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MOD, 24hrs"
+  },
+  {
+   "group": "FORREAL|24HRS|WAYNEJETSKI",
+   "song": "For Real",
+   "plays": 6534,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Wayne Jetski, 24hrs"
+  },
+  {
+   "group": "HIGHANDBYE|24HRS|CYPRESSMORENO|ICSKYWALKIN",
+   "song": "High and Bye",
+   "plays": 42683,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ic Skywalkin, 24hrs, Cypress Moreno"
+  },
+  {
+   "group": "FYRELOVE|24HRS|NATHANHUSTON",
+   "song": "Fyre Love",
+   "plays": 2491,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Nathan Huston, 24hrs"
+  },
+  {
+   "group": "HECHOPORMI|24HRS|DREI|ITSDIFFERENT|LITOKIRINO",
+   "song": "Hecho Por Mi",
+   "plays": 960097,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Drei, Lito Kirino, It's Different, 24hrs"
+  },
+  {
+   "group": "CANTBESHY|24HRS|KYDDJONES|THEKIDCRIO",
+   "song": "Can't Be Shy",
+   "plays": 8038,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "The Kid Crio, 24hrs, Kydd Jones"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|LILRENNIE",
+   "song": "Pinky Promise",
+   "plays": 4130,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lil' Rennie, 24hrs"
+  },
+  {
+   "group": "BACK2LIFE|24HRS|TYDAKOTA",
+   "song": "BACK2LIFE",
+   "plays": 2900,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "TY.DAKOTA, 24hrs"
+  },
+  {
+   "group": "REDIMPALA|24HRS|DISLA|JTM",
+   "song": "Red Impala",
+   "plays": 21114,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "JTM, DISLA, 24hrs"
+  },
+  {
+   "group": "REDIMPALA|24HRS|DISLA|JIMMYGOLDTREE",
+   "song": "Red Impala (feat. 24hrs)",
+   "plays": 21138,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jimmy Goldtree, DISLA, 24hrs"
+  },
+  {
+   "group": "OVERTIME|24HRS|KMAJOR",
+   "song": "Overtime",
+   "plays": 1628,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "K-Major, 24hrs"
+  },
+  {
+   "group": "BEENOUTSIDE|1WAYSTREET|24HRS|JOSEGUAPO",
+   "song": "Been Outside",
+   "plays": 2420,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Jose Guapo, 24hrs, 1 Way Street"
+  },
+  {
+   "group": "UNSTOPPABLE|24HRS|MAITY",
+   "song": "Unstoppable",
+   "plays": 4229,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MAI TY, 24hrs"
+  },
+  {
+   "group": "ALWAYS|24HRS|SHURLANDAYERS",
+   "song": "Always",
+   "plays": 428645,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Shurland Ayers, 24hrs"
+  },
+  {
+   "group": "1DAYINHTOWN|24HRS|KINOBEATS|LILFLIP",
+   "song": "1 Day in HTown",
+   "plays": 13770,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": "1ulAVFo7O00UtBNA0blJoH",
+   "artists": "Kino Beats, 24hrs, Lil' Flip"
+  },
+  {
+   "group": "LIFESTYLE|24HRS|OPENCEAZN",
+   "song": "LifeStyle",
+   "plays": 94918,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Openceazn, 24hrs"
+  },
+  {
+   "group": "GETTHEBAG|24HRS|DXSIIR3|MEECHLAFLARE|MOSCO|MOSCOW|NORMANPERRY|PNBCHIZZ|RIZ|SAFE|THEGIRLNEXTDOOR",
+   "song": "Get the bag",
+   "plays": 13036,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "dxsiir3, RIZ, 24hrs, Pnb Chizz, Norman Perry, The Girl Next Door, Meech La'flare, SAFE, Moscow, MOSCO"
+  },
+  {
+   "group": "FLYLOFIVERSION|24HRS|97BROKEN|HUNNAV|WESYEE",
+   "song": "FLY - Lofi Version",
+   "plays": 4532,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "97BROKEN, 24hrs, HunnaV, Wes Yee"
+  },
+  {
+   "group": "RUSH|24HRS|MAISON|PHIL",
+   "song": "Rush",
+   "plays": 8465,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "!Phil, 24hrs, MAISON"
+  },
+  {
+   "group": "BRIGHTRED|24HRS|CARLJ",
+   "song": "Bright Red",
+   "plays": 6589,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Carlj, 24hrs"
+  },
+  {
+   "group": "NOREASON|24HRS|CHASETHEMONEY|DOEBOY|DXSIIR3|FATNICK|MEECHLAFLARE|RIZ|THEGIRLNEXTDOOR|V21|VALEE",
+   "song": "No reason",
+   "plays": 1219,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "dxsiir3, V21, Doe Boy, Meech La'flare, Valee, RIZ, CHASETHEMONEY, Fat Nick, The Girl Next Door, 24hrs"
+  },
+  {
+   "group": "BLUEFACE|24HRS|BEASTINSIDEBEATS|CALBOY|DAYTAR|DXSIIR3|ELEX|FATNICK|MEECHLAFLARE|NAUXORE|NORMANPERRY|THEGIRLNEXTDOOR|V21|VALEE",
+   "song": "Blueface",
+   "plays": 16175,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "dxsiir3, Beast Inside Beats, Meech La'flare, Valee, Norman Perry, 24hrs, Fat Nick, ELEX, The Girl Next Door, Day$Tar, Calboy, NauXore, V21"
+  },
+  {
+   "group": "7AMINVEGAS|24HRS|SKIPPADAFLIPPA",
+   "song": "7am in Vegas",
+   "plays": 12954,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Skippa Da Flippa, 24hrs"
+  },
+  {
+   "group": "HIGHASMOUNTFUJI|24HRS|SHOWYRENZO|YTG",
+   "song": "HIGH AS MOUNT FUJI",
+   "plays": 25419,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "YTG, 24hrs, ShowyRENZO"
+  },
+  {
+   "group": "100SLIMES|24HRS|BASSCAT|LILGOTIT",
+   "song": "100 SLIMES",
+   "plays": 118424,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Basscat, Lil Gotit, 24hrs"
+  },
+  {
+   "group": "PUTTINON|1WAYSTREET|24HRS",
+   "song": "Puttin' On",
+   "plays": 56286,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "1 Way Street, 24hrs"
+  },
+  {
+   "group": "LIGHTITUPRADIOEDIT|24HRS|BASSCAT|LILGOTIT",
+   "song": "Light It Up - Radio Edit",
+   "plays": 330344,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Basscat, Lil Gotit, 24hrs"
+  },
+  {
+   "group": "DOWNINMIAMIRADIOEDIT|24HRS|BASSCAT|KINGCHIP",
+   "song": "Down in Miami - Radio Edit",
+   "plays": 68264,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Basscat, 24hrs, King Chip"
+  },
+  {
+   "group": "MONEYONMYSIDE|24HRS|JAYEXODUS|RODBONNER",
+   "song": "Money on My Side",
+   "plays": 5578,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jay Exodus, 24hrs, Rod Bonner"
+  },
+  {
+   "group": "BLICKY|1WAYSTREET|24HRS|BASSCAT|DOUBLE0SHIF|EXOTICNINO|LILGOTIT",
+   "song": "BLICKY",
+   "plays": 160429,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Basscat, Lil Gotit, 24hrs, Double0shif, 1 Way Street, EXOTICNINO"
+  },
+  {
+   "group": "BEYOURSELF|24HRS|DMPREMIUM",
+   "song": "Be Yourself",
+   "plays": 4249,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dmpremium, 24hrs"
+  },
+  {
+   "group": "CRUISE|24HRS|AEX",
+   "song": "Cruise",
+   "plays": 46250,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "A!ex, 24hrs"
+  },
+  {
+   "group": "NAMEIS|24HRS|PDICEY",
+   "song": "Name Is",
+   "plays": 15901,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "P.Dicey, 24hrs"
+  },
+  {
+   "group": "NOPARTS|24HRS|RAYVENJUSTICE|YHUNGTO",
+   "song": "No Parts",
+   "plays": 7203,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Rayven Justice, Yhung T.O., 24hrs"
+  },
+  {
+   "group": "NAMEISREMIX|24HRS|DJGUILLYD|YUBIIE",
+   "song": "Name is (Remix)",
+   "plays": 4645,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dj guilly d, 24hrs, Yubiie"
+  },
+  {
+   "group": "SHAKINNN|24HRS|BASSCAT|KEVINFLUM",
+   "song": "Shakinnn'",
+   "plays": 2643,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kevin Flum, Basscat"
+  },
+  {
+   "group": "DAROCKSTAR|24HRS|BASSCAT",
+   "song": "Da Rockstar",
+   "plays": 32182,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Basscat"
+  },
+  {
+   "group": "LETSGO|24HRS|BASSCAT|PROJECTPAT",
+   "song": "Let's Go!",
+   "plays": 1390259,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Basscat, Project Pat"
+  },
+  {
+   "group": "THELAB|1KPHEW|24HRS|DIZZYWRIGHT|GMB1T",
+   "song": "the lab",
+   "plays": 27193,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Gmb1t, Dizzy Wright, 24hrs, 1K Phew"
+  },
+  {
+   "group": "TUXEDO|24HRS|BOKNERO",
+   "song": "Tuxedo (Feat. 24hrs)",
+   "plays": 22352,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bok Nero, 24hrs"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|LENTAL",
+   "song": "pinky promise",
+   "plays": 29247,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lental, 24hrs"
+  },
+  {
+   "group": "ONADAILY|24HRS|YUNG6IX",
+   "song": "On A Daily",
+   "plays": 106596,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung6ix, 24hrs"
+  },
+  {
+   "group": "DONTCALL|24HRS|ICSKYWALKIN",
+   "song": "Don't Call",
+   "plays": 147370,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ic Skywalkin, 24hrs"
+  },
+  {
+   "group": "ROCKSTARRADIOEDIT|24HRS|BASSCAT",
+   "song": "Rockstar - Radio Edit",
+   "plays": 2455264,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Basscat"
+  },
+  {
+   "group": "ROCKSTAR|24HRS|BASSCAT",
+   "song": "Rockstar",
+   "plays": 642737,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Basscat"
+  },
+  {
+   "group": "CUTMELOVEME|24HRS|ANTHONYISAIAH|JSTAR|STOOPKIDUNIVERSITY",
+   "song": "Cut Me Love Me",
+   "plays": 12734,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Stoopkid University, Anthony Isaiah, J.Star, 24hrs"
+  },
+  {
+   "group": "POSTED|24HRS|NIKOLASELLIOT|ROSSIROCK",
+   "song": "Posted",
+   "plays": 11260,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Nikolas Elliot, 24hrs, Rossi Rock"
+  },
+  {
+   "group": "NAMEISREMIX|24HRS|KAHROUTE",
+   "song": "Name Is (Remix)",
+   "plays": 15901,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ka$h Route, 24hrs"
+  },
+  {
+   "group": "IHAVEADREAMECUADOR|24HRS|ALEXANDRASTAN|MASTERM",
+   "song": "I Have a Dream (Ecuador) (feat. 24hrs)",
+   "plays": 684423,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "MasterM, Alexandra Stan, 24hrs"
+  },
+  {
+   "group": "YELLOW|24HRS|YOUNGKINGYOUNGSCOOP",
+   "song": "Yellow",
+   "plays": 4445,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Youngking Youngscoop, 24hrs"
+  },
+  {
+   "group": "CONCRETEHILLS|24HRS|JAYLUVSHAWTY|SORAWBEATS",
+   "song": "CONCRETE HILLS",
+   "plays": 54708,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "SoRawBeats, 24hrs, Jayluvshawty"
+  },
+  {
+   "group": "FAMOUS|24HRS|BENREILLY|MILLIONAIREMACK",
+   "song": "Famous",
+   "plays": 48581,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ben Reilly, 24hrs, Millionaire Mack"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|DLYNCH|THEGALACTICHUMAN",
+   "song": "Pinky Promise",
+   "plays": 29251,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "The Galactic Human, 24hrs, D Lynch"
+  },
+  {
+   "group": "PREPAREYOURSELF|24HRS|JAG|NANOESCA",
+   "song": "Prepare Yourself",
+   "plays": 6416,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": "3NOhGR7l71a7c33nZdnN19",
+   "artists": "Nanoesca, JAG, 24hrs"
+  },
+  {
+   "group": "DIDNTKNOWWHY|24HRS|DAMANI",
+   "song": "Didn't Know Why",
+   "plays": 263736,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Damani, 24hrs"
+  },
+  {
+   "group": "FUCKINUPTHEMONEY|24HRS|TWOSLICC",
+   "song": "Fuckin Up The Money",
+   "plays": 3860,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Two Slicc, 24hrs"
+  },
+  {
+   "group": "HOWMANYSTARS|24HRS|NOSLACK|RIXHFOREVER",
+   "song": "How Many Stars",
+   "plays": 107574,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "rixh forever, 24hrs, no slack"
+  },
+  {
+   "group": "OUTTAMYHEAD|24HRS|ZIMMY",
+   "song": "Outta My Head",
+   "plays": 3550,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Zimmy, 24hrs"
+  },
+  {
+   "group": "TAKEMYLIFE|24HRS|BLESSINGS",
+   "song": "Take My Life (feat. 24hrs)",
+   "plays": 2681,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Blessings, 24hrs"
+  },
+  {
+   "group": "IKNOWIT|24HRS|SALMASLIMS",
+   "song": "I KNOW IT",
+   "plays": 210887,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Salma Slims, 24hrs"
+  },
+  {
+   "group": "MONEY|24HRS|RALFYTHEPLUG",
+   "song": "Money",
+   "plays": 26840,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ralfy the Plug, 24hrs"
+  },
+  {
+   "group": "PLUS1|24HRS|NASTYC|TWINPALMS",
+   "song": "Plus 1 (feat. Nasty C)",
+   "plays": 335618,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Nasty C, Twin Palms"
+  },
+  {
+   "group": "NOTTYHRS|24HRS|NOTTYTAYLOR",
+   "song": "NOTTYhrs",
+   "plays": 1255,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Notty Taylor, 24hrs"
+  },
+  {
+   "group": "PARANOID|24HRS|DIGITALDAV",
+   "song": "Paranoid",
+   "plays": 5775,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Digital Dav, 24hrs"
+  },
+  {
+   "group": "FINERTHINGS|24HRS|JOEYBANKS",
+   "song": "Finer Things",
+   "plays": 19976,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Joey Banks, 24hrs"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|PDICEY",
+   "song": "Pinky Promise (feat. 24hrs)",
+   "plays": 6051,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "P.Dicey, 24hrs"
+  },
+  {
+   "group": "SECTION8|24HRS|PNBROCK",
+   "song": "Section 8",
+   "plays": 54566,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, PnB Rock"
+  },
+  {
+   "group": "FOREVERILOVEATLANTA|24HRS|JOEYBADA",
+   "song": "Forever I Love Atlanta",
+   "plays": 22757,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Joey Bada$$"
+  },
+  {
+   "group": "WTBA|24HRS|TUPIDYOUNG",
+   "song": "W.T.B.A",
+   "plays": 7324,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, $tupid Young"
+  },
+  {
+   "group": "FASHION|24HRS",
+   "song": "Fashion",
+   "plays": 6082,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "QUARANTINEFLOWS|24HRS|PROJECTX",
+   "song": "Quarantine Flows",
+   "plays": 6482,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Project X"
+  },
+  {
+   "group": "LETMELOVEYOU|24HRS",
+   "song": "Let Me Love You",
+   "plays": 8291,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "MAGIC|24HRS",
+   "song": "Magic",
+   "plays": 48330,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "DIEALONE|24HRS|KALANFRFR",
+   "song": "Die Alone",
+   "plays": 5406,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Kalan.FrFr"
+  },
+  {
+   "group": "VOICES|24HRS|TYDOLLAIGN",
+   "song": "Voices",
+   "plays": 8375,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Ty Dolla $ign"
+  },
+  {
+   "group": "MOPPEDOFF|24HRS|MADEINTYO",
+   "song": "Mopped Off",
+   "plays": 10497,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, MadeinTYO"
+  },
+  {
+   "group": "REALWALKER15|24HRS",
+   "song": "Real Walker 1.5",
+   "plays": 11667,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "TRACTION|24HRS|IAMSU|YHUNGTO",
+   "song": "Traction",
+   "plays": 5846,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Yhung T.O., Iamsu!"
+  },
+  {
+   "group": "YOUSAID|24HRS|LILZAYOSAMA|SEDDYHENDRINX",
+   "song": "You Said",
+   "plays": 8980,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Seddy Hendrinx, Lil Zay Osama"
+  },
+  {
+   "group": "PROBLEMS|24HRS|SAVII|SOLLUNA",
+   "song": "Problems",
+   "plays": 124541,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Sol.Luna, 24hrs, Savii"
+  },
+  {
+   "group": "BOUTTHATLIFE|24HRS|JUSTONKACE",
+   "song": "Bout That Life",
+   "plays": 35024,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Juston Kace, 24hrs"
+  },
+  {
+   "group": "FLY|24HRS|97BROKEN|HUNNAV",
+   "song": "FLY",
+   "plays": 42990,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "97BROKEN, HunnaV, 24hrs"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|DUMMMUNEE",
+   "song": "Pinky Promise",
+   "plays": 29249,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dumm Munee, 24hrs"
+  },
+  {
+   "group": "FEWBELIEVED|24HRS|BROWNMAMBA|DAMANI",
+   "song": "Few Believed",
+   "plays": 32201,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Brown Mamba, 24hrs, Damani"
+  },
+  {
+   "group": "TREATYOURIGHT|24HRS|BROWNMAMBA|DAMANI",
+   "song": "Treat You Right",
+   "plays": 85090,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Brown Mamba, Damani, 24hrs"
+  },
+  {
+   "group": "ROCKOUTSHAWTY|24HRS|SOLOGAN",
+   "song": "Rock Out Shawty",
+   "plays": 342423,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "So Logan, 24hrs"
+  },
+  {
+   "group": "BECOOL|24HRS|BEAR1BOSS|KEY",
+   "song": "Be cool",
+   "plays": 7346,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bear1Boss, Key!, 24hrs"
+  },
+  {
+   "group": "NOPAINNOGLORY|24HRS|THEBOYBOYWESTCOAST",
+   "song": "No Pain, No Glory",
+   "plays": 11568,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "The Boyboy West Coast, 24hrs"
+  },
+  {
+   "group": "ROCKOUTSHAWTYRADIOEDIT|24HRS|SOLOGAN",
+   "song": "Rock Out Shawty (Radio Edit)",
+   "plays": 342316,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "So Logan, 24hrs"
+  },
+  {
+   "group": "BLESSING|24HRS|PHILTHYRICH",
+   "song": "Blessing (feat. 24hrs)",
+   "plays": 272894,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Philthy Rich, 24hrs"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|TR4PPINK",
+   "song": "Pinky Promise",
+   "plays": 29243,
+   "category": "pending",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Tr4pp Ink, 24hrs"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|BAKARIVASHON",
+   "song": "Pinky Promise",
+   "plays": 98513,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bakari Vashon, 24hrs"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|RTA",
+   "song": "Pinky Promise",
+   "plays": 29252,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "R.T.A., 24hrs"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|CODEZEURO",
+   "song": "Pinky Promise",
+   "plays": 29251,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Code Zeuro, 24hrs"
+  },
+  {
+   "group": "ICANMAKEYOUFAMOUS|24HRS|LENTAL",
+   "song": "I Can Make You Famous",
+   "plays": 11949,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lental, 24hrs"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|DLYNCH|FABIDDENJEWLZ",
+   "song": "Pinky Promise",
+   "plays": 6054,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Fa'bidden Jewlz, 24hrs, D. LYNCH"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|YOUNGMAIL",
+   "song": "Pinky Promise",
+   "plays": 29243,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Young Mail, 24hrs"
+  },
+  {
+   "group": "PINKYPROMISE|24HRS|TRINIRUD3BWOY",
+   "song": "Pinky Promise",
+   "plays": 29247,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "TriniRud3bwoy, 24hrs"
+  },
+  {
+   "group": "WEINDAA|24HRS|SCOTTYATL",
+   "song": "We In Da A",
+   "plays": 3268,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Scotty ATL, 24hrs"
+  },
+  {
+   "group": "PRICELESSRADIOEDIT|24HRS|ARKIDD",
+   "song": "Priceless - Radio Edit",
+   "plays": 1109,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "ARKiDD, 24hrs"
+  },
+  {
+   "group": "PRICELESS|24HRS|ARKIDD",
+   "song": "Priceless",
+   "plays": 1111,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "ARKiDD, 24hrs"
+  },
+  {
+   "group": "PEARLYGATE|24HRS|CALBOY|RICCITYKUN",
+   "song": "Pearly Gate",
+   "plays": 97499,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Riccitykun, Calboy, 24hrs"
+  },
+  {
+   "group": "WHATYONAMEIZ|24HRS|BLACKFOOT505",
+   "song": "What Yo Name Iz",
+   "plays": 3765,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Blackfoot505, 24hrs"
+  },
+  {
+   "group": "BADTHINGS|24HRS|WATEDYOUTH",
+   "song": "Bad Things",
+   "plays": 534029,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Wa$tedYouth, 24hrs"
+  },
+  {
+   "group": "RIGHTNOW|24HRS|GLAMMYMARS",
+   "song": "Right Now",
+   "plays": 607241,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Glammy Mars, 24hrs"
+  },
+  {
+   "group": "BEGINNING|24HRS|BINORIDEAUX|WATEDYOUTH",
+   "song": "Beginning",
+   "plays": 126754,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Wa$tedYouth, Bino Rideaux, 24hrs"
+  },
+  {
+   "group": "OLDME|24HRS|SKYLER",
+   "song": "Old Me",
+   "plays": 55148,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "SKYLER, 24hrs"
+  },
+  {
+   "group": "TAKEITEASY|24HRS|LUHKEL|PARISBRYANT|SMOKEDZA",
+   "song": "Take It Easy",
+   "plays": 142300,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Smoke DZA, Luh Kel, Paris Bryant, 24hrs"
+  },
+  {
+   "group": "WHYUSTILLHERE|24HRS|SMOKEDZA|STEVENYOUNG",
+   "song": "Why U Still Here",
+   "plays": 37745,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Smoke DZA, 24hrs, Steven Young"
+  },
+  {
+   "group": "MONEYSUP|24HRS|POPXANAX",
+   "song": "moneys up",
+   "plays": 2340,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Popxanax, 24hrs"
+  },
+  {
+   "group": "TOTHESKY|24HRS|JAYLUVSHAWTY|SORAWBEATS",
+   "song": "TO THE SKY",
+   "plays": 65210,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "SoRawBeats, 24hrs, jayluvshawty"
+  },
+  {
+   "group": "MISSIONS|24HRS|ROSSIROCK|SEBBYOG",
+   "song": "Missions",
+   "plays": 16210,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Sebby OG, Rossi Rock, 24hrs"
+  },
+  {
+   "group": "THANKFUL|24HRS|CROOKGUAM|DRAKEOTHERULER",
+   "song": "Thankful (feat. Drakeo The Ruler & 24hrs)",
+   "plays": 185953,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Crook Guam, Drakeo the Ruler, 24hrs"
+  },
+  {
+   "group": "FAKEONE|24HRS|BHAZZ",
+   "song": "Fake One",
+   "plays": 19441,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "B-Hazz, 24hrs"
+  },
+  {
+   "group": "PUMPFAKEREMIX|24HRS|DAISHAMCBRIDE",
+   "song": "Pump Fake - Remix",
+   "plays": 2668,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": "3C8q0polCG1u2RO48Jl0mR",
+   "artists": "Daisha McBride, 24hrs"
+  },
+  {
+   "group": "EDDBABY|24HRS|LEXLUGER|TEEJAYX6",
+   "song": "EDD Baby (feat. 24hrs)",
+   "plays": 65014,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Teejayx6, 24hrs, Lex Luger"
+  },
+  {
+   "group": "EDDBABY|24HRS|TEEJAYX6",
+   "song": "EDD Baby (feat. 24hrs)",
+   "plays": 65014,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Teejayx6, 24hrs"
+  },
+  {
+   "group": "06CHOPPEDNOTSLOPPED|24HRS|DICESOHO|WIZKHALIFA",
+   "song": "06 (feat. Wiz Khalifa & 24HRS) - Chopped Not Slopped",
+   "plays": 1624,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dice Soho, Wiz Khalifa, 24hrs"
+  },
+  {
+   "group": "MEMYSELFI|24HRS|RAYWRIGHT",
+   "song": "Me, Myself & I",
+   "plays": 3151,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Ray Wright, 24hrs"
+  },
+  {
+   "group": "WORTH|24HRS|MSTIC",
+   "song": "WORTH",
+   "plays": 4859,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "M?STIC, 24hrs"
+  },
+  {
+   "group": "TIMEFORTHAT|24HRS|CHRISTIANKUYA",
+   "song": "Time for That",
+   "plays": 32377,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Christian Kuya, 24hrs"
+  },
+  {
+   "group": "DRAMADRAMA|24HRS|ZEROKYOTO",
+   "song": "Drama Drama",
+   "plays": 11253,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Zero Kyoto, 24hrs"
+  },
+  {
+   "group": "ONADAILY20RADIOEDIT|24HRS|YUNG6IX",
+   "song": "On A Daily 2.0 (Radio Edit)",
+   "plays": 106433,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung6ix, 24hrs"
+  },
+  {
+   "group": "DEADGUYS|24HRS|GLAMMYMARS",
+   "song": "Dead Guys",
+   "plays": 693078,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Glammy Mars, 24hrs"
+  },
+  {
+   "group": "DROPIT|24HRS|ANAVEEGIRLFROMTHEHEAT",
+   "song": "Drop It",
+   "plays": 10216,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Anavee Girlfromtheheat, 24hrs"
+  },
+  {
+   "group": "CONCEITED|24HRS|DAYXIV",
+   "song": "Conceited",
+   "plays": 1037,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "DAYXIV, 24hrs"
+  },
+  {
+   "group": "SHUTUP|24HRS|YUNGJINX",
+   "song": "Shut up",
+   "plays": 7613,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Jinx, 24hrs"
+  },
+  {
+   "group": "24HRSINHARLEM|183RD|24HRS|JAYYGRAMS|NYMLO|OTTHEREAL|SMOKEDZA",
+   "song": "24hrs in harlem (feat. 24hrs, 183rd & ot the real)",
+   "plays": 43548,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Smoke DZA, Nym Lo, Jayy Grams, 183rd, OT The Real, 24hrs"
+  },
+  {
+   "group": "BOSSTALK|24HRS|ACTIONPACK|YUNGBINO",
+   "song": "Boss Talk",
+   "plays": 53267,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Yung Bino, 24hrs, ACTION PACK"
+  },
+  {
+   "group": "TELLMEHOW|24HRS|LANZ",
+   "song": "Tell Me How",
+   "plays": 47094,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lanz, 24hrs"
+  },
+  {
+   "group": "CHOOSE|24HRS|PAYLACE",
+   "song": "Choose",
+   "plays": 46769,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Pay Lace, 24hrs"
+  },
+  {
+   "group": "BACKTOBASICS|24HRS|CTC",
+   "song": "Back To Basics",
+   "plays": 142213,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "CTC, 24hrs"
+  },
+  {
+   "group": "JACKW|24HRS|SEDDYHENDRINX",
+   "song": "Jack W (feat. 24hrs)",
+   "plays": 240189,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Seddy Hendrinx, 24hrs"
+  },
+  {
+   "group": "HEALER|24HRS|JAM4REALL",
+   "song": "Healer",
+   "plays": 24552,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Jam4reall, 24hrs"
+  },
+  {
+   "group": "788|24HRS|KIDDEAZZYY",
+   "song": "788",
+   "plays": 26431,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "KiDD Eazzyy, 24hrs"
+  },
+  {
+   "group": "WHATITSEEMS|24HRS|BOYGGENIUS",
+   "song": "What It Seems",
+   "plays": 2412,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Boyggenius, 24hrs"
+  },
+  {
+   "group": "LIFEKINDASUCKS|24HRS|MCGUIREMCFLY",
+   "song": "Life Kinda Sucks",
+   "plays": 4183,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "McGuireMcFly, 24hrs"
+  },
+  {
+   "group": "4THQUARTER|24HRS|LAZYLUCIANO",
+   "song": "4th Quarter",
+   "plays": 18165,
+   "category": "missing",
+   "recordings": 3,
+   "spotify_id": null,
+   "artists": "Lazy Luciano, 24hrs"
+  },
+  {
+   "group": "STUCKWITHIT|24HRS|ASTARR",
+   "song": "STUCK WITH IT",
+   "plays": 47090,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "astarr, 24hrs"
+  },
+  {
+   "group": "SPOTLIGHT|24HRS|MARDYNY",
+   "song": "Spotlight",
+   "plays": 61201,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Mardyny, 24hrs"
+  },
+  {
+   "group": "06|24HRS|DICESOHO|WIZKHALIFA",
+   "song": "06 (feat. Wiz Khalifa & 24HRS)",
+   "plays": 6058,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Dice Soho, Wiz Khalifa, 24hrs"
+  },
+  {
+   "group": "FIRE|24HRS|SNYDER",
+   "song": "Fire",
+   "plays": 186065,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Snyder, 24hrs"
+  },
+  {
+   "group": "BREAKYOUOFF|24HRS|LANEALLEN",
+   "song": "Break You Off",
+   "plays": 1564,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lane Allen, 24hrs"
+  },
+  {
+   "group": "STREGIS|24HRS|GIODEE|RHODYMAJOR",
+   "song": "St Regis",
+   "plays": 4892,
+   "category": "unlinked",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Rhodymajor, 24hrs, GioDee"
+  },
+  {
+   "group": "LILMAMA|24HRS|BRIZZYWES",
+   "song": "Lil MaMa",
+   "plays": 13161,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Brizzy Wes, 24hrs"
+  },
+  {
+   "group": "87BENZO|24HRS|DOMKENNEDY|HITBOY",
+   "song": "87 Benzo",
+   "plays": 341571,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Hit-Boy, Dom Kennedy, 24hrs"
+  },
+  {
+   "group": "CHOOSEONE|24HRS|BEATSBY99|JUSTJONES",
+   "song": "Choose One",
+   "plays": 680574,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Beatsby99, 24hrs, Just Jones"
+  },
+  {
+   "group": "SELFISH|24HRS|CASEYVEGGIES|REOCRAGUN|ROCKIEFRESH",
+   "song": "Selfish (feat. Reo Cragun & 24hrs)",
+   "plays": 228216,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Casey Veggies, Rockie Fresh, Reo Cragun, 24hrs"
+  },
+  {
+   "group": "REASON|24HRS|RAYVENJUSTICE",
+   "song": "Reason (feat. 24hrs)",
+   "plays": 1578826,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Rayven Justice, 24hrs"
+  },
+  {
+   "group": "OFCOURSE|24HRS|RIFFRAFF",
+   "song": "Of Course",
+   "plays": 132341,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Riff Raff, 24hrs"
+  },
+  {
+   "group": "UNDERCOVERHOE|24HRS|SKRIZZY",
+   "song": "Undercover Hoe",
+   "plays": 625670,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Skrizzy, 24hrs"
+  },
+  {
+   "group": "GOODTIME|24HRS|HAZE|WONRIGUEZ",
+   "song": "Good Time",
+   "plays": 25142,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Won Riguez, 24hrs, Haze"
+  },
+  {
+   "group": "TIME|24HRS|DAWNMILO",
+   "song": "TIME",
+   "plays": 43438,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dawn Milo, 24hrs"
+  },
+  {
+   "group": "MOOD|24HRS|MONZ",
+   "song": "mood. (feat. 24hrs)",
+   "plays": 128957,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "monz, 24hrs"
+  },
+  {
+   "group": "SMOKEITOUT|24HRS|SMOKEDZA|THESMOKERSCLUB",
+   "song": "Smoke It Out",
+   "plays": 67415,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Smoke DZA, The Smokers Club, 24hrs"
+  },
+  {
+   "group": "IPRAY|24HRS|SLICKLAFLARE",
+   "song": "I PRAY",
+   "plays": 129028,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": "4jjRsmFygTll3s7qBGfvj9",
+   "artists": "SlickLaFlare, 24hrs"
+  },
+  {
+   "group": "IMEANTIT|24HRS|CHRISHAN|OGPARKER",
+   "song": "I Meant It",
+   "plays": 221205,
+   "category": "mixed",
+   "recordings": 3,
+   "spotify_id": null,
+   "artists": "Chrishan, OG Parker, 24hrs"
+  },
+  {
+   "group": "DUD|24HRS|KIDBUU|QSWINDLE",
+   "song": "Dud",
+   "plays": 2816,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Q Swindle, 24hrs, Kid Buu"
+  },
+  {
+   "group": "SIPSOME|24HRS|BREEZYONTHEBEAT|SAINTBOYD|VNNY",
+   "song": "Sip Some",
+   "plays": 13121,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Breezy on the Beat, VNNY, Saint Boyd, 24hrs"
+  },
+  {
+   "group": "NASA|24HRS|OGLOUIETHEXIII|PAXQUIAO|SYARIDAKID",
+   "song": "NASA",
+   "plays": 80096,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "OG Louie The XIII, Sy Ari Da Kid, Paxquiao, 24hrs"
+  },
+  {
+   "group": "TOPFLOOR|24HRS|BENESSER|DRUNKENMASTERS|KELVYNCOLT",
+   "song": "Top Floor",
+   "plays": 674227,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Drunken Masters, Ben Esser, Kelvyn Colt, 24hrs"
+  },
+  {
+   "group": "LOVEENOUGH|24HRS|JUSTJUICE",
+   "song": "Love Enough",
+   "plays": 92399,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Just Juice, 24hrs"
+  },
+  {
+   "group": "HUSSLE|24HRS|DLOC|TCDALOC",
+   "song": "Hussle",
+   "plays": 1507,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "D.Loc, 24hrs, TCDaLoc"
+  },
+  {
+   "group": "SAYNOMORE|24HRS|BRUCELII",
+   "song": "Say No More",
+   "plays": 44446,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Bruce Lii, 24hrs"
+  },
+  {
+   "group": "POCKETWATCHING|24HRS|DARNELLROY",
+   "song": "Pocket Watching",
+   "plays": 24968,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Darnell Roy, 24hrs"
+  },
+  {
+   "group": "WHOAREYOUBREVISREMIX|24HRS|BREVIS|DEKAY|YUNGBANS",
+   "song": "Who Are You - Brevis Remix",
+   "plays": 70759,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "D\u00cbKAY, Yung Bans, 24hrs, Brevis"
+  },
+  {
+   "group": "DIRTYAUTOTUNE|24HRS|QUENTINMILLER",
+   "song": "Dirty Autotune",
+   "plays": 51224,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Quentin Miller, 24hrs"
+  },
+  {
+   "group": "BANDZ|24HRS|JAZXCUTZ",
+   "song": "Bandz",
+   "plays": 5413,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Jazxcutz, 24hrs"
+  },
+  {
+   "group": "WHOAREYOU|24HRS|DEKAY|YUNGBANS",
+   "song": "Who Are You",
+   "plays": 160906,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "D\u00cbKAY, Yung Bans, 24hrs"
+  },
+  {
+   "group": "SIDEWAYS|24HRS|EPTHEMARS",
+   "song": "Sideways",
+   "plays": 192336,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Epthemars, 24hrs"
+  },
+  {
+   "group": "PHOTOSHOOT|24HRS|KINGTRELL",
+   "song": "Photo Shoot",
+   "plays": 10266,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Trell, 24hrs"
+  },
+  {
+   "group": "CHANELSHOES|24HRS|DICESOHO|SAVAGEFASHO",
+   "song": "Chanel Shoes",
+   "plays": 52438,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Savage Fasho, 24hrs, Dice Soho"
+  },
+  {
+   "group": "WHATCHAGONDOBLVDREMIX|24HRS|BENZI|BHADBHABIE|BLVD|RICHTHEKID",
+   "song": "Whatcha Gon Do (feat. Bhad Bhabie, Rich The Kid & 24hrs) - BLVD. Remix",
+   "plays": 209810,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Benzi, Bhad Bhabie, 24hrs, Rich The Kid, BLVD."
+  },
+  {
+   "group": "WHATCHAGONDOHYPRESSIONREMIX|24HRS|BENZI|BHADBHABIE|HYPRESSION|RICHTHEKID",
+   "song": "Whatcha Gon Do (feat. Bhad Bhabie, Rich The Kid & 24hrs) - Hypression Remix",
+   "plays": 46283,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Benzi, Bhad Bhabie, 24hrs, Rich The Kid, HYPRESSION"
+  },
+  {
+   "group": "WHATCHAGONDOKLOREMIX|24HRS|BENZI|BHADBHABIE|KLO|RICHTHEKID",
+   "song": "Whatcha Gon Do (feat. Bhad Bhabie, Rich The Kid & 24hrs) - KLO Remix",
+   "plays": 23252,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Benzi, Bhad Bhabie, 24hrs, Rich The Kid, KLO"
+  },
+  {
+   "group": "GOODFORIT|24HRS|BEEB",
+   "song": "Good For It (feat. 24hrs)",
+   "plays": 222170,
+   "category": "gap",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Bee-B, 24hrs"
+  },
+  {
+   "group": "DIRTYBOII|24HRS|KALLIEROCK",
+   "song": "Dirty Boii",
+   "plays": 135104,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Kallie Rock, 24hrs"
+  },
+  {
+   "group": "LIKEME|24HRS|SNY",
+   "song": "Like Me",
+   "plays": 37837,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "SNY, 24hrs"
+  },
+  {
+   "group": "GLOW|24HRS|SALMASLIMS",
+   "song": "Glow (feat. 24hrs)",
+   "plays": 6664,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Salma Slims, 24hrs"
+  },
+  {
+   "group": "DOWHATILIKELOVINMYLIFE|24HRS|ALEXCIS",
+   "song": "Do What I Like (Lovin' My Life) (feat. 24hrs)",
+   "plays": 18666,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Alexcis, 24hrs"
+  },
+  {
+   "group": "EXTRA|24HRS|BRANDONJ",
+   "song": "Extra",
+   "plays": 4864,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Brandon J$, 24hrs"
+  },
+  {
+   "group": "SHESHEHASEVERYTHINGREMIX|24HRS|MEANT2B",
+   "song": "S.H.E. (She Has Everything) (feat. 24hrs) - Remix",
+   "plays": 32831,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Meant2B, 24hrs"
+  },
+  {
+   "group": "AWARE|24HRS|AKBARV",
+   "song": "Aware",
+   "plays": 8860,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Akbar V, 24hrs"
+  },
+  {
+   "group": "BUBBLE|24HRS|TYDOLLAIGN",
+   "song": "BUBBLE (feat. Ty Dolla $ign)",
+   "plays": 519715,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Ty Dolla $ign"
+  },
+  {
+   "group": "INMYBAG|24HRS|MADEINTYO",
+   "song": "In My Bag",
+   "plays": 454475,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, MadeinTYO"
+  },
+  {
+   "group": "EASY2LOVEYOU|24HRS|CORYJONES|JUSTONKACE",
+   "song": "Easy 2 Love You",
+   "plays": 142896,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Juston Kace, 24hrs, Cory Jones"
+  },
+  {
+   "group": "NEWICE|24HRS|PAXQUIAO",
+   "song": "New Ice",
+   "plays": 19877,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Paxquiao, 24hrs"
+  },
+  {
+   "group": "SHAWTYTHRUMYCITYII|24HRS|SOKIT1000",
+   "song": "Shawty Thru My City II",
+   "plays": 2245,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Soki T1000, 24hrs"
+  },
+  {
+   "group": "5MORE|24HRS|MAJORZOE",
+   "song": "5 More",
+   "plays": 14945,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Major Zoe, 24hrs"
+  },
+  {
+   "group": "TOUCHDOWN|24HRS|JOEMAYNOR",
+   "song": "Touchdown",
+   "plays": 20902,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Joe Maynor, 24hrs"
+  },
+  {
+   "group": "TALK|24HRS|DYLANREESE|JONNY5",
+   "song": "TALK (feat. 24hrs)",
+   "plays": 388745,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dylan Reese, Jonny5, 24hrs"
+  },
+  {
+   "group": "HOCUSPOCUS|24HRS|IAMSU|SKIPPER",
+   "song": "Hocus Pocus (feat. Iamsu! & 24hrs)",
+   "plays": 13159,
+   "category": "attributed",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Skipper, Iamsu!, 24hrs"
+  },
+  {
+   "group": "ALLNIGHT|24HRS|6AM",
+   "song": "All Night",
+   "plays": 1294,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "6:am, 24hrs"
+  },
+  {
+   "group": "7AMINBEVERLY|24HRS|DOMKENNEDY",
+   "song": "7AM In Beverly (feat. Dom Kennedy)",
+   "plays": 78869,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, Dom Kennedy"
+  },
+  {
+   "group": "PINATA|24HRS|NOTTYTAYLOR",
+   "song": "Pi\u00f1ata",
+   "plays": 7990,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Notty Taylor, 24hrs"
+  },
+  {
+   "group": "WAVE|24HRS|KINGRXCO",
+   "song": "Wave",
+   "plays": 14107,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "King Rxco, 24hrs"
+  },
+  {
+   "group": "LIFTED|24HRS|ASTARR",
+   "song": "Lifted",
+   "plays": 2065,
+   "category": "conflict",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "astarr, 24hrs"
+  },
+  {
+   "group": "SIGNS|24HRS|THEMXXNLIGHT",
+   "song": "Signs",
+   "plays": 183526,
+   "category": "pending",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "THEMXXNLIGHT, 24hrs"
+  },
+  {
+   "group": "PASTNOW|24HRS|ZIG",
+   "song": "Past Now",
+   "plays": 24521,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Zig, 24hrs"
+  },
+  {
+   "group": "LICKLICKLICK|24HRS|CASHONLY",
+   "song": "Lick Lick Lick (feat. 24Hrs)",
+   "plays": 5489,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "CashOnly, 24hrs"
+  },
+  {
+   "group": "METIMEREMIXFEAT24HRSERICBELLINGER|24HRS|EBLEU|ERICBELLINGER",
+   "song": "Me Time (Remix) [feat. 24Hrs & Eric Bellinger]",
+   "plays": 112286,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "E Bleu, Eric Bellinger, 24hrs"
+  },
+  {
+   "group": "BIRKINBAGREMIX|24HRS|DJLUKENASTY|JONNHART",
+   "song": "Birkin Bag (Remix)",
+   "plays": 862202,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Jonn Hart, 24hrs, DJ Luke Nasty"
+  },
+  {
+   "group": "COMEBACKUP|24HRS|CURTISWILLIAMS|KEY",
+   "song": "Come Back Up",
+   "plays": 7972,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Curtis Williams, 24hrs, Key!"
+  },
+  {
+   "group": "PAPER|24HRS|LILCATS",
+   "song": "Paper (Feat. 24hrs)",
+   "plays": 114507,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lil Cats, 24hrs"
+  },
+  {
+   "group": "BADTINGS|24HRS|BADDTATTOO",
+   "song": "Bad Tings",
+   "plays": 180336,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Badd Tattoo, 24hrs"
+  },
+  {
+   "group": "JUICY|24HRS|DRMALEEK",
+   "song": "Juicy",
+   "plays": 359150,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dr Maleek, 24hrs"
+  },
+  {
+   "group": "SPEEDWAY|24HRS|MADEINTYO|NOAHWOOD",
+   "song": "Speed Way",
+   "plays": 103721,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Noah Wood$, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "TIMETOGO|24HRS|BURDKEYZ|YEALI|YOUNGTROY",
+   "song": "Time to Go",
+   "plays": 23453,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "Burd & Keyz, Ye Ali, Young Troy, 24hrs"
+  },
+  {
+   "group": "MONEYBAGS|24HRS|MADEINTYO|SALMASLIMS",
+   "song": "Money Bags (feat. MadeinTYO & 24hrs)",
+   "plays": 83912,
+   "category": "chain",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Salma Slims, 24hrs, MadeinTYO"
+  },
+  {
+   "group": "ICANTLOSE|24HRS|IAMSU",
+   "song": "I Can't Lose (feat. 24hrs)",
+   "plays": 6014743,
+   "category": "mixed",
+   "recordings": 3,
+   "spotify_id": null,
+   "artists": "Iamsu!, 24hrs"
+  },
+  {
+   "group": "RIDEFORME|24HRS|ATRAK|FALCONS|YOUNGTHUG",
+   "song": "Ride for Me",
+   "plays": 1862578,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "A-Trak, Falcons, Young Thug, 24hrs"
+  },
+  {
+   "group": "GOAT|24HRS|KEVINFEDERLINE|MADEINTYO|XVERTIGO",
+   "song": "Goat (feat. Madeintyo & 24hrs)",
+   "plays": 22324,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "X-Vertigo, Kevin Federline, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "DOWN2ROLL|24HRS|ANGELODORSEY",
+   "song": "Down 2 Roll",
+   "plays": 3122,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Angelo Dorsey, 24hrs"
+  },
+  {
+   "group": "TATTOOSMASERATIS|24HRS|LADYBP",
+   "song": "Tattoos & Maseratis (feat. 24hrs)",
+   "plays": 42440,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Lady BP, 24hrs"
+  },
+  {
+   "group": "BETTER|24HRS|CAHPASSION",
+   "song": "Better (feat. 24hrs)",
+   "plays": 4764,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "CA$HPASSION, 24hrs"
+  },
+  {
+   "group": "DONTMINDME|24HRS|CASHONLY",
+   "song": "Dont Mind Me (feat. 24Hrs)",
+   "plays": 21795,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "CashOnly, 24hrs"
+  },
+  {
+   "group": "BYANYMEANS|24HRS|DJCARISMA|ONEINTHE4REST|WIZKHALIFA",
+   "song": "By Any Means (feat. OneInThe4Rest, Wiz Khalifa & 24hrs)",
+   "plays": 97522,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "DJ Carisma, 24hrs, OneInThe4Rest, Wiz Khalifa"
+  },
+  {
+   "group": "CASH4IT|24HRS|GUNNA|SPIFFYGLOBAL",
+   "song": "Cash 4 It (feat. 24hrs)",
+   "plays": 59862,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Spiffy Global, Gunna, 24hrs"
+  },
+  {
+   "group": "WHATYOULIKE|24HRS|MADEINTYO|PNBROCK",
+   "song": "What You Like (feat. PnB Rock & MadeinTYO)",
+   "plays": 6847057,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs, PnB Rock, MadeinTYO"
+  },
+  {
+   "group": "THEYWANTMETOWIN|24HRS|BRANDONTORY",
+   "song": "They Want Me to Win",
+   "plays": 672380,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Brandon Tory, 24hrs"
+  },
+  {
+   "group": "ONROAD|24HRS|KMPNY",
+   "song": "On Road (feat. 24hrs)",
+   "plays": 6263,
+   "category": "missing",
+   "recordings": 3,
+   "spotify_id": null,
+   "artists": "Kmpny, 24hrs"
+  },
+  {
+   "group": "UNDERSTAND|24HRS|DICESOHO",
+   "song": "Understand (feat. 24hrs)",
+   "plays": 343521,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dice Soho, 24hrs"
+  },
+  {
+   "group": "BANDSNOW|24HRS|TRAVISMILLS",
+   "song": "Bands Now (feat. 24hrs)",
+   "plays": 181002,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Travis Mills, 24hrs"
+  },
+  {
+   "group": "RINGMYLINE|24HRS",
+   "song": "Ring My Line",
+   "plays": 1367,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "DESERVE|24HRS",
+   "song": "Deserve",
+   "plays": 1815,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "YSLBOOTS|24HRS",
+   "song": "Ysl Boots",
+   "plays": 60991,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "TEARITDOWN|24HRS",
+   "song": "Tear It Down",
+   "plays": 40540,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "LIKETHAT|24HRS",
+   "song": "Like That",
+   "plays": 1376,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "YOU|24HRS",
+   "song": "You",
+   "plays": 58295,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "TURNMEDOWN|24HRS",
+   "song": "Turn Me Down",
+   "plays": 1929,
+   "category": "mixed",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "IMPOSSIBLE|24HRS",
+   "song": "Impossible",
+   "plays": 1601,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "SUNSET|24HRS",
+   "song": "Sunset",
+   "plays": 2904,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "MADATYOU|24HRS",
+   "song": "Mad At You",
+   "plays": 1095,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "MALIBU|24HRS",
+   "song": "Malibu",
+   "plays": 5011,
+   "category": "missing",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "TWENTYREVENGE|24HRS",
+   "song": "Twenty Revenge",
+   "plays": 1298,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "MYWORLD|24HRS",
+   "song": "My world",
+   "plays": 1246,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "JUNGLEGYM|24HRS",
+   "song": "Jungle Gym",
+   "plays": 1383,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "1000RUINEDHOLIDAYS|24HRS|CHARLEEREMITZ",
+   "song": "1,000 Ruined Holidays",
+   "plays": 176464,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Charlee Remitz, 24hrs"
+  },
+  {
+   "group": "CREATEAWAVE|24HRS|NEFTHEPHARAOH",
+   "song": "Create A Wave (feat. 24hrs)",
+   "plays": 13385,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Nef The Pharaoh, 24hrs"
+  },
+  {
+   "group": "SHAKEITUP|24HRS|E40|GEAZY|MADEINTYO",
+   "song": "Shake It Up",
+   "plays": 7706926,
+   "category": "credit",
+   "recordings": 2,
+   "spotify_id": null,
+   "artists": "G-Eazy, E-40, MadeinTYO, 24hrs"
+  },
+  {
+   "group": "ACTION|24HRS|STORIE",
+   "song": "Action (feat. 24hrs)",
+   "plays": 2125,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Storie, 24hrs"
+  },
+  {
+   "group": "FENDIPRADA|24HRS|HB",
+   "song": "Fendi & Prada",
+   "plays": 1367,
+   "category": "missing",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Hb, 24hrs"
+  },
+  {
+   "group": "VSVSVSREMIX|24HRS",
+   "song": "VSVSVS (Remix)",
+   "plays": 3197,
+   "category": "gap",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "24hrs"
+  },
+  {
+   "group": "LIKEAPIC|24HRS|CLAVIN|SERGIOROCKSTAR",
+   "song": "Like a Pic",
+   "plays": 1581,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Sergio Rockstar, Clavin, 24hrs"
+  },
+  {
+   "group": "EVERYTHINGWHOA|24HRS|DREP",
+   "song": "Everything Whoa",
+   "plays": 1641,
+   "category": "credit",
+   "recordings": 1,
+   "spotify_id": null,
+   "artists": "Dre P., 24hrs"
+  }
+ ],
+ "years": [
+  {
+   "year": "2013",
+   "recordings": 1,
+   "categories": {
+    "credit": 1
+   }
+  },
+  {
+   "year": "2015",
+   "recordings": 1,
+   "categories": {
+    "credit": 1
+   }
+  },
+  {
+   "year": "2016",
+   "recordings": 29,
+   "categories": {
+    "attributed": 5,
+    "conflict": 7,
+    "chain": 6,
+    "gap": 3,
+    "missing": 8
+   }
+  },
+  {
+   "year": "2017",
+   "recordings": 91,
+   "categories": {
+    "chain": 16,
+    "conflict": 4,
+    "missing": 45,
+    "credit": 14,
+    "attributed": 10,
+    "pending": 1,
+    "gap": 1
+   }
+  },
+  {
+   "year": "2018",
+   "recordings": 84,
+   "categories": {
+    "attributed": 11,
+    "missing": 25,
+    "credit": 18,
+    "gap": 4,
+    "conflict": 12,
+    "chain": 12,
+    "pending": 1,
+    "unlinked": 1
+   }
+  },
+  {
+   "year": "2019",
+   "recordings": 77,
+   "categories": {
+    "credit": 17,
+    "missing": 28,
+    "attributed": 19,
+    "gap": 5,
+    "conflict": 7,
+    "unlinked": 1
+   }
+  },
+  {
+   "year": "2020",
+   "recordings": 88,
+   "categories": {
+    "gap": 10,
+    "attributed": 13,
+    "conflict": 6,
+    "credit": 21,
+    "missing": 35,
+    "unlinked": 3
+   }
+  },
+  {
+   "year": "2021",
+   "recordings": 120,
+   "categories": {
+    "missing": 64,
+    "gap": 12,
+    "conflict": 11,
+    "pending": 12,
+    "attributed": 2,
+    "credit": 16,
+    "unlinked": 3
+   }
+  },
+  {
+   "year": "2022",
+   "recordings": 76,
+   "categories": {
+    "missing": 48,
+    "attributed": 1,
+    "gap": 11,
+    "conflict": 7,
+    "credit": 7,
+    "pending": 2
+   }
+  },
+  {
+   "year": "2023",
+   "recordings": 78,
+   "categories": {
+    "conflict": 3,
+    "missing": 61,
+    "attributed": 3,
+    "credit": 8,
+    "pending": 1,
+    "gap": 2
+   }
+  },
+  {
+   "year": "2024",
+   "recordings": 83,
+   "categories": {
+    "attributed": 20,
+    "missing": 40,
+    "credit": 9,
+    "gap": 13,
+    "pending": 1
+   }
+  },
+  {
+   "year": "2025",
+   "recordings": 62,
+   "categories": {
+    "credit": 4,
+    "missing": 47,
+    "gap": 7,
+    "unlinked": 2,
+    "attributed": 2
+   }
+  },
+  {
+   "year": "2026",
+   "recordings": 71,
+   "categories": {
+    "missing": 42,
+    "credit": 5,
+    "conflict": 1,
+    "unlinked": 23
+   }
+  },
+  {
+   "year": "Unknown",
+   "recordings": 1,
+   "categories": {
+    "conflict": 1
+   }
+  }
+ ]
+}
